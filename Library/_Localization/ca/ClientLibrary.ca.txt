@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Sobre^About^
+
+^ActionBarActionsHeaderText^Accions^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Cancel · lar^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Cancel · lar tots els canvis de registre.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Cancel · lar registre nou.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Guardar nou registre a la base de dades.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Estalviar^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Crear un registre nou {0}.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Nova {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Nou^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Registre^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Informe^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Guardar els canvis a la base de dades.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Estalviar^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Afegeix condició^AddCondition^
+
+^AddConditionText^Afegir condició de cerca^AddConditionText^
+
+^AddMatchingGroup^Afegir grup a joc^AddMatchingGroup^
+
+^AddSearchBarField^Més camps de cerca^AddSearchBarField^
+
+^AddToFavorites^Afegir a Preferits^AddToFavorites^
+
+^AdvancedSearch^Cerca avançada^AdvancedSearch^
+
+^After^Després d&#39;^After^
+
+^AlignedLeft^Alineat a l&#39;esquerra^AlignedLeft^
+
+^AlignedRight^Alineat a la dreta^AlignedRight^
+
+^AllDatesInPreriod^Totes les dates en el període^AllDatesInPreriod^
+
+^AlternativeView^Seleccioneu una visió alternativa de les dades.^AlternativeView^
+
+^Always^Sempre^Always^
+
+^Apply^Aplicar^Apply^
+
+^Aquarium^Aquari^Aquarium^
+
+^AvgAggregate^Mitjana: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Mitjana de {0}^AvgAggregateToolTip^
+
+^Azure^Azur^Azure^
+
+^Back^Esquena^Back^
+
+^BackColor^Color de fons^BackColor^
+
+^BatchEditActionHeaderText^Edició per lots^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Edició per lots (formulari)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^actualització^BatchUpdate^
+
+^Before^Abans^Before^
+
+^BeginsWith^Comença amb^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Baya^Berry^
+
+^Between^Entre^Between^
+
+^Bittersweet^Agredolç^Bittersweet^
+
+^BlankPassword^La contrasenya no pot estar en blanc.^BlankPassword^
+
+^BlankUserName^Nom d&#39;usuari no pot estar en blanc.^BlankUserName^
+
+^BlankValue^(En blanc)^BlankValue^
+
+^BlobDownloadHint^Feu clic aquí per descarregar l&#39;arxiu original.^BlobDownloadHint^
+
+^BlobDownloadLink^descarregar^BlobDownloadLink^
+
+^Bold^Audaç^Bold^
+
+^BooleanFilterText^Filtres de lògica^BooleanFilterText^
+
+^BooleanIsExpected^Un valor lògic que s&#39;espera.^BooleanIsExpected^
+
+^ButtonShapes^Formes de botons^ButtonShapes^
+
+^Calendar^Calendari^Calendar^
+
+^Cancel^Cancel · lar^Cancel^
+
+^Cards^Targetes^Cards^
+
+^Cay^Cay^Cay^
+
+^ChangeYourLanguage^Canviar la llengua^ChangeYourLanguage^
+
+^Citrus^Agres^Citrus^
+
+^Classic^Clàssic^Classic^
+
+^ClearFilter^Esborrar filtre de {0}^ClearFilter^
+
+^ClearText^Esborrar Text^ClearText^
+
+^ClearToolTip^{0} Clar^ClearToolTip^
+
+^Close^A prop^Close^
+
+^Comfortable^Còmode^Comfortable^
+
+^Compact^Compacte^Compact^
+
+^Condensed^Condensat^Condensed^
+
+^ConfirmReload^Actualitzar?^ConfirmReload^
+
+^ConnectionLost^La connexió de xarxa s&#39;ha perdut. Intenteu-ho de nou?^ConnectionLost^
+
+^Construct^Construir^Construct^
+
+^Contains^Conté^Contains^
+
+^Convention^Convenció^Convention^
+
+^Copy^Copieu^Copy^
+
+^CountAggregate^Compte: {0}^CountAggregate^
+
+^CountAggregateToolTip^Comte de {0}^CountAggregateToolTip^
+
+^CreateLink^Crear vincle^CreateLink^
+
+^CustomFilterOption^Filtre ...^CustomFilterOption^
+
+^Cut^Tallar^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Fosc^DarkTheme^
+
+^DataSheetActionDescription^Elements de la pantalla usant un sheet<br/>format dades.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Mostra el full de dades^DataSheetActionHeaderText^
+
+^Date^Data^Date^
+
+^DateFilterText^Filtres de data^DateFilterText^
+
+^DateIsExpected^A la data s&#39;espera.^DateIsExpected^
+
+^DateSortAscending^Primeres al cim^DateSortAscending^
+
+^DateSortDescending^Darrera al cim^DateSortDescending^
+
+^DefaultCancelActionHeaderText^A prop^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Si us plau, ompli aquest formulari i feu clic al botó D&#39;acord per crear un registre nou {0}. Feu clic a Cancel · la per tornar a la pantalla anterior.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Aquests són els camps del registre de {0} que es pot editar.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Si us plau, revisar la informació {0} a continuació. Feu clic a Edita per canviar aquest registre, feu clic a Suprimeix per eliminar el registre, o feu clic a Cancel · lar / Tanca per tornar enrere.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Aquesta és una llista de {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Completar el formulari. Assegureu-vos d&#39;entrar tots els camps obligatoris.^DefaultNewDescription^
+
+^DefaultOption^Defecte^DefaultOption^
+
+^DefaultReferenceDescription^Detalls addicionals sobre {0} es proporcionen a la secció d&#39;informació de referència.^DefaultReferenceDescription^
+
+^Delete^Esborrar^Delete^
+
+^DeleteActionConfirmation^¿Esborrar?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Esborrar^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Esborrar)^DeleteSearchBarField^
+
+^DetailsToolTip^Veure detalls de {0}^DetailsToolTip^
+
+^Directions^Instruccions^Directions^
+
+^DisplayDensity^Display Density^DisplayDensity^
+
+^DisplayedAbove^Apareix per sobre de^DisplayedAbove^
+
+^DisplayedBelow^Es mostren a continuació^DisplayedBelow^
+
+^Dock^Moll^Dock^
+
+^DoesNotBeginWith^No comença amb^DoesNotBeginWith^
+
+^DoesNotContain^No conté^DoesNotContain^
+
+^DoesNotEndWith^No acaba amb la^DoesNotEndWith^
+
+^DoesNotEqual^No és igual a^DoesNotEqual^
+
+^DoesNotInclude^No inclou^DoesNotInclude^
+
+^DoNotMatchAll^No coincideixen totes les condicions^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^No s&#39;han trobat totes les condicions^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^No s&#39;han trobat condicions^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^No s&#39;han trobat condicions^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Duplicat^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Edita^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Cancel · lar^EditModeCancelActionHeaderText^
+
+^EmptyContext^Les accions no estan disponibles.^EmptyContext^
+
+^EmptyValue^(Buit)^EmptyValue^
+
+^EndsWith^Acaba amb^EndsWith^
+
+^Equals^És igual a^Equals^
+
+^ExportCsvActionDescription^Elements de descàrrega en format CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Descarregar^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analitzar els elements amb spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Exportar a full de càlcul^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Distribuir els elements amb un lector de RSS.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^El temps^ExportRssActionHeaderText^
+
+^Favorites^Favorits^Favorites^
+
+^Felt^Sentit^Felt^
+
+^Filter^Filtre^Filter^
+
+^FilterApplied^Un filtre s&#39;ha aplicat.^FilterApplied^
+
+^FilterByField^Seleccioneu un camp per aplicar un filtre a <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Seleccioneu una o més opcions en la llista i premeu <b>{2}</b> per filtrar <b>{0}</b> pel camp <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^i^FilterLabelAnd^
+
+^FilterLabelClear^És clar^FilterLabelClear^
+
+^FilterLabelEquals^és igual a^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Canvi^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^inclou^FilterLabelIncludes^
+
+^FilterLabelOr^o^FilterLabelOr^
+
+^FilterLabelSelectAll^(Selecciona-ho tot)^FilterLabelSelectAll^
+
+^FilterSiteMap^Mapa del lloc filtre ...^FilterSiteMap^
+
+^FlatTreeToggle^Canviar a la jerarquia^FlatTreeToggle^
+
+^FontName^Nom de la font^FontName^
+
+^FontSize^Mida de la lletra^FontSize^
+
+^ForeColor^Color Fore^ForeColor^
+
+^ForgotYourPassword^Heu perdut la contrasenya?^ForgotYourPassword^
+
+^Freeze^Congelar^Freeze^
+
+^Future^Futur^Future^
+
+^GeneralTabText^General^GeneralTabText^
+
+^GenericNewToolTip^Crear nou^GenericNewToolTip^
+
+^GenericSortAscending^Més petit al cim^GenericSortAscending^
+
+^GenericSortDescending^Més gran al cim^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Granit^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Gravetat^Gravity^
+
+^GreaterThan^Més gran que^GreaterThan^
+
+^Grid^Quadrícula^Grid^
+
+^GridActionDescription^Elements de la pantalla en el format standard<br/>list.^GridActionDescription^
+
+^GridActionHeaderText^Mostra a la vista estàndard^GridActionHeaderText^
+
+^Help^Ajuda^Help^
+
+^HelpClose^A prop^HelpClose^
+
+^HelpFullScreen^Pantalla completa^HelpFullScreen^
+
+^HideAdvancedSearch^Amaga Cerca Avançada^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Canviar a la llista de pla^HierarchyTreeModeToggle^
+
+^History^Història^History^
+
+^HistoryToolTip^Veure l&#39;historial dels registres prèviament seleccionats^HistoryToolTip^
+
+^HistoryUnavailable^La història no està disponible.^HistoryUnavailable^
+
+^Home^Casa^Home^
+
+^IdleUser^Encara ets? Si us plau, ingressa de nou.^IdleUser^
+
+^ImportActionDescription^Carrega un fitxer CSV, XLS, xlsx o registres d&#39;importació file<br/>to.^ImportActionDescription^
+
+^ImportActionHeaderText^Importar des d&#39;arxiu^ImportActionHeaderText^
+
+^ImportAutoDetect^(Detecció automàtica)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Descarregar plantilla d&#39;importació d&#39;arxius.^ImportDownloadTemplate^
+
+^ImportEmail^Enviar el registre d&#39;importació dels següents correus electrònics (opcional)^ImportEmail^
+
+^ImportEmailNotSpecified^Destinatari del registre d&#39;importació no s&#39;ha especificat. Continua de totes maneres?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Hi ha registre de <b>{0}</b> (es) amb <b>{1}</b> arxiu llest per a ser processed.<br/>Please assignar els camps d&#39;importació de fitxer de dades als camps d&#39;aplicació i feu clic a <i>Import</i> per iniciar el processament.^ImportMappingInstruction^
+
+^ImportProcessing^Procés d&#39;importació d&#39;arxius s&#39;ha iniciat. Els registres d&#39;importació de dades estarà disponible després de la transformació amb èxit. És possible que hagi d&#39;actualitzar els punts de vista rellevants / pàgines per veure els registres importats.^ImportProcessing^
+
+^ImportStartButton^Importació^ImportStartButton^
+
+^ImportUploading^El seu arxiu està sent carregat al servidor. Si us plau ...^ImportUploading^
+
+^ImportUploadInstruction^Si us plau, seleccioneu el fitxer a pujar. L&#39;arxiu ha d&#39;estar en <b>CSV</b>, <b>XLS</b> o <b>XLSX</b> format.^ImportUploadInstruction^
+
+^In^a^In^
+
+^Includes^Inclou^Includes^
+
+^Indent^Sagnar^Indent^
+
+^InfoBarAnd^i^InfoBarAnd^
+
+^InfoBarEmpty^buit^InfoBarEmpty^
+
+^InfoBarEqualTo^és igual a^InfoBarEqualTo^
+
+^InfoBarGreaterThan^és més gran que^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^és major o igual a^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^és menor que^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^és inferior o igual a^InfoBarLessThanOrEqual^
+
+^InfoBarLike^és com^InfoBarLike^
+
+^InfoBarOr^o^InfoBarOr^
+
+^InfoBarQuickFind^Qualsevol camp conté^InfoBarQuickFind^
+
+^InfoBarStartsWith^comença amb^InfoBarStartsWith^
+
+^InitialListMode^Mode Llista Inicial^InitialListMode^
+
+^InsertActionHeaderText^Acceptar^InsertActionHeaderText^
+
+^InsertHorizontalRule^Insereix regle horitzontal^InsertHorizontalRule^
+
+^InsertOrderedList^Inseriu llista ordenada^InsertOrderedList^
+
+^InsertUnorderedList^Insereix Llista sense ordenar^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^El seu nom d&#39;usuari i contrasenya no són vàlids.^InvalidUserNameAndPassword^
+
+^Italic^Itàlic^Italic^
+
+^ItemsPerPage^Articles per pàgina:^ItemsPerPage^
+
+^JustifyCenter^Justificar Center^JustifyCenter^
+
+^JustifyFull^Justificar completa^JustifyFull^
+
+^JustifyLeft^Justificar a l&#39;esquerra^JustifyLeft^
+
+^JustifyRight^Justificar a la dreta^JustifyRight^
+
+^Lacquer^Laca^Lacquer^
+
+^Laminate^Laminat^Laminate^
+
+^Landscape^Paisatge^Landscape^
+
+^LastMonth^Mes passat^LastMonth^
+
+^LastQuarter^Darrer trimestre^LastQuarter^
+
+^LastWeek^Setmana passada^LastWeek^
+
+^LastYear^L&#39;any passat^LastYear^
+
+^LessThan^Menys que^LessThan^
+
+^Lichen^Liquen^Lichen^
+
+^LightTheme^Llum^LightTheme^
+
+^List^Llista^List^
+
+^ListOneColumn^Llista (una columna)^ListOneColumn^
+
+^Loading^Loading ...^Loading^
+
+^Logical^Lògic^Logical^
+
+^LoginButton^Iniciar sessió^LoginButton^
+
+^LoginLink^Iniciar sessió^LoginLink^
+
+^Logout^Tancar sessió^Logout^
+
+^LookupInstruction^Si us plau seleccioni <b>{0}</b> a la llista.^LookupInstruction^
+
+^LookupOriginalSelection^La selecció original és <b> &quot;{0}&quot; </b>.^LookupOriginalSelection^
+
+^Map^Mapa^Map^
+
+^MatchAll^Coincidir amb totes les condicions^MatchAll^
+
+^MatchAllPastTense^Igualats totes les condicions^MatchAllPastTense^
+
+^MatchAny^Coincideix qualsevol condicions^MatchAny^
+
+^MatchAnyPastTense^Aparellat qualsevol condició^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Màxim de {0}^MaxAggregateToolTip^
+
+^Maximize^Expandir^Maximize^
+
+^Menu^Menú^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Mínim de {0}^MinAggregateToolTip^
+
+^Minimize^Col · lapse^Minimize^
+
+^Mission^Missió^Mission^
+
+^ModeBrowsing^Navegació^ModeBrowsing^
+
+^ModeEditing^Edició^ModeEditing^
+
+^ModeEntering^Introducció^ModeEntering^
+
+^ModeLookup^Operacions de cerca^ModeLookup^
+
+^Modern^Modern^Modern^
+
+^ModernRose^Rose Modern^ModernRose^
+
+^ModeViewing^Visita^ModeViewing^
+
+^More^Més^More^
+
+^Municipal^Municipal^Municipal^
+
+^MyAccount^El meu compte^MyAccount^
+
+^Never^Mai^Never^
+
+^NewActionHeaderText^Nou^NewActionHeaderText^
+
+^NewRowLink^Feu clic aquí per crear un nou registre.^NewRowLink^
+
+^NewToolTip^Nova {0}^NewToolTip^
+
+^Next^Pròxim^Next^
+
+^NextMonth^Mes següent^NextMonth^
+
+^NextQuarter^El proper trimestre^NextQuarter^
+
+^NextWeek^La setmana que ve^NextWeek^
+
+^NextYear^Pròxim any^NextYear^
+
+^No^No^No^
+
+^NoRecords^No es van trobar registres.^NoRecords^
+
+^NoteDeleteConfirm^¿Esborrar?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^esborrar^NoteDeleteLabel^
+
+^NoteEditLabel^edita^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Nombre^Number^
+
+^NumberFilterText^Filtres de nombres^NumberFilterText^
+
+^NumberIsExpected^Un nombre que s&#39;espera.^NumberIsExpected^
+
+^OK^Acceptar^OK^
+
+^OpenActionHeaderText^Obert^OpenActionHeaderText^
+
+^Outdent^Anul · lar sagnia^Outdent^
+
+^Page^Pàgina^Page^
+
+^Password^Contrasenya^Password^
+
+^Past^Passat^Past^
+
+^Paste^Enganxar^Paste^
+
+^PerformAdvancedSearch^Cerca^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Crear un enllaç permanent de registre seleccionat^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink no està disponible. Si us plau, seleccioneu un registre.^PermalinkUnavailable^
+
+^Petal^Pètal^Petal^
+
+^Pinnate^Pinada^Pinnate^
+
+^Plastic^Plàstic^Plastic^
+
+^Portrait^Retrat^Portrait^
+
+^PresentationStyle^Seleccioneu un estil de presentació de les dades.^PresentationStyle^
+
+^Previous^Anterior^Previous^
+
+^PromoteActions^Promoure accions^PromoteActions^
+
+^Quarter1^Trimestre 1^Quarter1^
+
+^Quarter2^Trimestre 2^Quarter2^
+
+^Quarter3^El 3r^Quarter3^
+
+^Quarter4^4t trimestre^Quarter4^
+
+^QuickFindScope^Cercar en ...^QuickFindScope^
+
+^QuickFindText^Cerca Ràpida^QuickFindText^
+
+^QuickFindToolTip^Tipus de cerca dels registres i premeu Intro^QuickFindToolTip^
+
+^Recent^Recent^Recent^
+
+^Redo^Refer^Redo^
+
+^Refresh^Refrescar^Refresh^
+
+^RememberMe^Recordar la propera vegada^RememberMe^
+
+^RemoveCondition^Treure condició^RemoveCondition^
+
+^RemoveFormat^Eliminar el format^RemoveFormat^
+
+^ReportActionDescription^Retre un informe en format PDF^ReportActionDescription^
+
+^ReportActionHeaderText^Informe^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Veure els elements en un full de càlcul Excel formatted<br/>Microsoft.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Full de càlcul^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Veure els elements en una imatge TIFF de diverses pàgines.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Imatge de diverses pàgines^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Tots elements com Adobe PDF document.<br/>Requires un lector compatible.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^Document PDF^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Veure els elements en un document de Word formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Cal^Required^
+
+^RequiredField^Aquest camp és obligatori.^RequiredField^
+
+^RequiredFiledMarkerFootNote^indica un camp obligatori^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Reajustar^ResetAdvancedSearch^
+
+^ResumeBrowsing^Reprendre navegació^ResumeBrowsing^
+
+^ResumeEditing^Reprendre edició^ResumeEditing^
+
+^ResumeEntering^Reprendre Introducció^ResumeEntering^
+
+^ResumeLookup^Reprendre la recerca^ResumeLookup^
+
+^ResumeViewing^Reprendre la visualització^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Rols^RolesTab^
+
+^RootNodeText^De nivell superior^RootNodeText^
+
+^Rotate^Girar^Rotate^
+
+^RowCancelActionHeaderText^Cancel · lar^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Inserir^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Estalviar^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Actualització?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Actualització de la Selecció^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Estalviar^Save^
+
+^SaveAndNew^Guardar i Nou^SaveAndNew^
+
+^SeeAll^Veure Tots^SeeAll^
+
+^SeeAlso^Vegeu també^SeeAlso^
+
+^SelectActionHeaderText^Seleccionar^SelectActionHeaderText^
+
+^SelectAll^Selecciona tot^SelectAll^
+
+^SelectLink^(Seleccioneu)^SelectLink^
+
+^SelectToolTip^Seleccioneu {0}^SelectToolTip^
+
+^Separator^Separador^Separator^
+
+^Settings^Configuració^Settings^
+
+^ShowAdvancedSearch^Mostra Cerca Avançada^ShowAdvancedSearch^
+
+^ShowingItems^Mostrant <b>{0}</b>-<b>{1}</b> d&#39;articles <b>{2}</b>^ShowingItems^
+
+^ShowingItemsInfo^Mostrant {0} articles.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Registra&#39;t ara^SignUpNow^
+
+^Simple^Simple^Simple^
+
+^SiteActions^Accions del lloc^SiteActions^
+
+^Social^Social^Social^
+
+^Sort^Ordenar^Sort^
+
+^SortBy^Ordenar per {0}^SortBy^
+
+^SortByField^Seleccionar un camp per canviar l&#39;ordre de classificació de <b>{0}</b>.^SortByField^
+
+^SortByOptions^Seleccioneu l&#39;ordre de classificació de <b>{0}</b> pel camp <b>{1}</b> a la llista d&#39;opcions.^SortByOptions^
+
+^StrikeThrough^Ratllat^StrikeThrough^
+
+^StringSortAscending^Ascendent^StringSortAscending^
+
+^StringSortDescending^Descendent^StringSortDescending^
+
+^Subscript^Sub Guió^Subscript^
+
+^Suggestions^Suggeriments^Suggestions^
+
+^SumAggregate^Suma: {0}^SumAggregate^
+
+^SumAggregateToolTip^Suma de {0}^SumAggregateToolTip^
+
+^Summary^Resum^Summary^
+
+^Summer^Estiu^Summer^
+
+^Superscript^Súper Guió^Superscript^
+
+^TaskResume^Currículum^TaskResume^
+
+^Tasks^Tasques^Tasks^
+
+^Text^Text^Text^
+
+^TextFilterText^Filtres de text^TextFilterText^
+
+^Theme^Tema^Theme^
+
+^ThisMonth^Aquest Mes^ThisMonth^
+
+^ThisQuarter^Aquest trimestre^ThisQuarter^
+
+^ThisWeek^Aquesta setmana^ThisWeek^
+
+^ThisYear^Aquest Any^ThisYear^
+
+^Today^Avui^Today^
+
+^Tomorrow^Demà^Tomorrow^
+
+^ToThisWebsite^a aquest lloc web^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI no s&#39;admet en aquest navegador.^TouchUINotSupported^
+
+^TransitionFade^Descolorarse^TransitionFade^
+
+^TransitionFlip^Capirotazo^TransitionFlip^
+
+^TransitionFlow^Flux^TransitionFlow^
+
+^TransitionNone^Cap^TransitionNone^
+
+^TransitionPop^Música pop^TransitionPop^
+
+^Transitions^Transicions^Transitions^
+
+^TransitionSlide^Diapositiva^TransitionSlide^
+
+^TransitionSlideDown^Feu lliscar cap avall^TransitionSlideDown^
+
+^TransitionSlideUp^Lliscar amunt^TransitionSlideUp^
+
+^TransitionTurn^Torn^TransitionTurn^
+
+^TreeActionDescription^Mostrar les relacions jeràrquiques.^TreeActionDescription^
+
+^TreeActionHeaderText^Mostrar la Jerarquia^TreeActionHeaderText^
+
+^Underline^Subratllar^Underline^
+
+^Undo^Desfer^Undo^
+
+^Undock^Desacoblar^Undock^
+
+^Unfreeze^Descongelar^Unfreeze^
+
+^UnLink^Desvincular^UnLink^
+
+^UnSelect^UnSelect^UnSelect^
+
+^UpdateActionHeaderText^Acceptar^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Actualització?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Actualització de la Selecció^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Puja un nivell^UpOneLevel^
+
+^UseLEV^Enganxa &quot;{0}&quot;^UseLEV^
+
+^UserName^Nom d&#39;usuari^UserName^
+
+^UsersInRole^Usuaris Paper^UsersInRole^
+
+^UsersTab^Usuaris^UsersTab^
+
+^Vantage^Avantatge^Vantage^
+
+^Verdant^Verd^Verdant^
+
+^View^Veure^View^
+
+^Viewpoint^Punt de vista^Viewpoint^
+
+^Welcome1^Benvinguda^Welcome1^
+
+^Welcome2^Avui és^Welcome2^
+
+^WhiteSmoke^Fum Blanc^WhiteSmoke^
+
+^YearToDate^Any a la Data^YearToDate^
+
+^Yes^Sí^Yes^
+
+^Yesterday^Ahir^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Zoom in^ZoomIn^
+
+^ZoomOut^Allunyament^ZoomOut^
+

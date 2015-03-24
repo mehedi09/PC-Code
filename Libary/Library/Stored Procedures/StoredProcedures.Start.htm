@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Form Builder</title>
+    <link href="../_System/CodeOnTime.css" type="text/css" rel="Stylesheet" />
+
+    <script type="text/javascript" language="javascript" src="../_System/MicrosoftAjax.js"></script>
+
+    <script type="text/javascript" language="javascript" src="../_System/CodeOnTime.Client.js"></script>
+
+    <script type="text/javascript" language="javascript">
+    
+    var project = null;
+    
+    function pageLoad() { 
+        project = CodeOnTime.Client.loadFromProject('StoredProcedures.Project.xml');
+        $get('ProcedureNamePrefix').value = CodeOnTime.Client.readProperty(project, 'p:project/p:procedureNamePrefix', 'usp_');
+        var lastConnectionError = CodeOnTime.Client.initializeDatabaseConnectionDialog(
+            'Stored procedures are automatically generated from the schema of the database.',
+            project.selectSingleNode('p:project/p:providerName').text,
+            project.selectSingleNode('p:project/p:connectionString').text,
+            CodeOnTime.Client.readProperty(project, 'p:project/p:databaseObjectFilter', ''),
+            'StoredProcedures.Metadata.xml',
+            [{name: 'Back', script: 'Continue("Start")'},{name: 'Next', script: 'Continue("Generate")'}]);            
+        if (!lastConnectionError)
+            if (project.selectSingleNode('p:project[@nextStep="Connection"]')) {
+                project.selectSingleNode('p:project/@nextStep').value = '';
+                project.save(project.url);
+                Continue('Connection');
+            }
+            else
+                $get('ProcedureNamePrefix').focus();
+    }
+    
+    function Continue(step) {
+        switch (step){
+            case 'Start':
+                CodeOnTime.Client.hideDialog();
+                $get('ProcedureNamePrefix').focus();
+                break;
+            case 'Connection':
+                CodeOnTime.Client.showDatabaseConnectionDialog(true);
+                break;
+            case 'Generate':
+                Generate();
+                break;
+        }
+    }
+    
+    function Generate() {
+        if (!CodeOnTime.Client.validateDatabaseConnectionString()) return;
+        var providerName = CodeOnTime.Client.get_databaseConnectionProvider();
+        var connectionString = CodeOnTime.Client.get_databaseConnectionString();
+        
+        project.selectSingleNode('p:project/p:connectionString').text = connectionString;
+        project.selectSingleNode('p:project/p:providerName').text = providerName;
+        CodeOnTime.Client.writeProperty(project, 'p:project/p:databaseObjectFilter', CodeOnTime.Client.get_databaseObjectFilter());
+        CodeOnTime.Client.writeProperty(project, 'p:project/p:procedureNamePrefix', $get('ProcedureNamePrefix').value);
+        project.save(project.url);
+        CodeOnTime.Client.proceed();
+    }
+    </script>
+
+</head>
+<body>
+    <!-- page body -->
+    <div id="Main" title="Start">
+        <div class="Content">
+            You are about to generate a set of stored procedures for DAL of your application.
+        </div>
+        <div class="Heading">
+            About This Project</div>
+        <div class="Content">
+            A typical <i>Database Abstraction Layer</i> interacts with the back-end database
+            via SQL queries. You can improve performance of your application and simplify maintenance
+            by replacing SQL queries with calls to stored procedures.
+            <br />
+            <br />
+            Each database table will be provided with corresponding stored procedures to read,
+            create, update, and delete records.
+            <div class="Field">
+                <label class="Label" for="ProcedureNamePrefix">
+                    Procedure name prefix:</label>
+                <input type="text" id="ProcedureNamePrefix" style="width: 50px" /></div>
+            The code generator will treat the tables in your database as business objects and
+            will try to construct <i>SELECT</i> queries, which will bring the joined information
+            from all related tables. It is crucial to have all related tables connected with
+            foreign keys.
+            <br />
+            <br />
+            The generated stored procedures are stored in folders named after your database
+            tables. Each stored procedure will have its own file. Stored procedures related
+            to the same database table will also be batched together in the file named after
+            the table name.
+            <br />
+            <br />
+            A complete set of stored procedure will be in the <i>CreateAllProcedures.sql</i>
+            file. Execute the script in the file to create all stored procedures. File <i>DropAllProcedures.sql</i>
+            allows to drop the entire set of stored procedures at once.</div>
+        <div class="Buttons">
+            <button onclick="CodeOnTime.Client.cancel()">
+                Cancel</button>
+            <button onclick="Continue('Connection')">
+                Next</button>
+        </div>
+    </div>
+</body>
+</html>

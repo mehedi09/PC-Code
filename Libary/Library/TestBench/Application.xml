@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="urn:schemas-codeontime-com:data-aquarium-application" xmlns:m="urn:codeontime:data-map">
+  <pages>
+    <!--<page name="Home" title="Start" description="Application home page" path="Home" style="HomePage" customStyle="Wide" index="1000">
+      <containers>
+        <container id="container1" flow="NewRow" />
+        <container id="container2" flow="NewColumn" />
+      </containers>
+      <controls>
+        <control id="control1" name="TableOfContents" container="container1" activator="None" />
+        <control id="control2" name="Welcome" container="container2" activator="None" />
+      </controls>
+    </page>-->
+    <page name="Home" title="Customers" description="View Customers" index="1010" path="Customers" >
+      <containers>
+        <container id="container1" flow="NewRow" />
+      </containers>
+      <dataViews>
+        <dataView id="view1" controller="Customers" view="grid1" text="Customers" showInSummary="true" container="container1" activator="Tab" />
+      </dataViews>
+      <controls />
+      <about>This page allows data management.</about>
+    </page>
+    <!--<page name="Membership" title="Membership Manager" description="User and role manager" roles="Administrators" path="Membership" style="UsersPage" index="1140">
+      <containers>
+        <container id="container1" flow="NewRow" />
+      </containers>
+      <about>This page allows to manage roles and users.</about>
+      <controls>
+        <control id="control1" name="MembershipManager" container="container1" activator="None" />
+      </controls>
+    </page>-->
+  </pages>
+  <userControls>
+    <userControl name="RichEditor" prefix="uc" generate="FirstTimeOnly">
+      <body>
+        <![CDATA[
+<asp:TextBox ID="TextBox1" runat="server" Columns="50" Rows="10" Height="241px"
+    Width="450px"></asp:TextBox>
+<act:HtmlEditorExtender ID="Editor1" runat="server" TargetControlID="TextBox1">
+</act:HtmlEditorExtender>]]>
+      </body>
+    </userControl>
+    <!--<userControl name="TableOfContents" prefix="uc" generate="Always">
+      <body>
+						&lt;div class="ParaInfo"&gt;
+        Please select a page link in the table of contents below.&lt;/div&gt;
+    &lt;div class="ParaHeader"&gt;
+        Site Map
+    &lt;/div&gt;
+    &lt;asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="false" /&gt;
+    &lt;asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" CssClass="TreeView"&gt;
+    &lt;/asp:TreeView&gt;
+					</body>
+    </userControl>
+    <userControl name="Welcome" prefix="uc" generate="Always">
+      <body>
+								&lt;div style="padding-left:8px"&gt;&lt;div class="ParaInfo"&gt;
+        Sign in to access the protected site content.&lt;/div&gt;
+    &lt;div class="ParaHeader"&gt;
+        Instructions
+    &lt;/div&gt;
+    &lt;div class="ParaText"&gt;
+        Two standard user accounts are automatically created when application is initialized
+        if membership option has been selected for this application.
+    &lt;/div&gt;
+    &lt;div class="ParaText"&gt;
+        The administrative account &lt;b&gt;admin&lt;/b&gt; is authorized to access all areas of the
+        web site and membership manager. The standard &lt;b&gt;user&lt;/b&gt; account is allowed to
+        access all areas of the web site with the exception of membership manager.&lt;/div&gt;
+    &lt;div class="ParaText"&gt;
+        Move the mouse pointer over the link &lt;i&gt;Login to this web site&lt;/i&gt; on the right-hand side
+        at the top of the page and sign in with one of the accounts listed below.&lt;/div&gt;
+    &lt;div class="ParaText"&gt;
+        &lt;div style="border: solid 1px black; background-color: InfoBackground; padding: 8px;
+            float: left;"&gt;
+            Administrative account:&lt;br /&gt;
+            &lt;b title="User Name"&gt;admin&lt;/b&gt; / &lt;b title="Password"&gt;admin123%&lt;/b&gt;
+            &lt;br /&gt;
+            &lt;br /&gt;
+            Standard user account:&lt;br /&gt;
+            &lt;b title="User Name"&gt;user&lt;/b&gt; / &lt;b title="Password"&gt;user123%&lt;/b&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+							</body>
+    </userControl>
+    <userControl name="MembershipManager" prefix="uc" generate="Always">
+      <body>
+							&lt;aquarium:MembershipManager ID="mm" runat="server" /&gt;
+						</body>
+    </userControl>-->
+  </userControls>
+</application>

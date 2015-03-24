@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Giới^About^
+
+^ActionBarActionsHeaderText^Hoạt động^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Hủy bỏ^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Hủy bỏ tất cả thay đổi kỷ lục.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Huỷ kỷ lục mới.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Lưu kỷ lục mới vào cơ sở dữ liệu.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Lưu^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Tạo một kỷ lục {0} mới.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^New {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^New^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Ghi^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Báo cáo^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Lưu các thay đổi cơ sở dữ liệu.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Lưu^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Thêm Điều kiện^AddCondition^
+
+^AddConditionText^Thêm điều kiện tìm kiếm^AddConditionText^
+
+^AddMatchingGroup^Thêm nhóm phù hợp với^AddMatchingGroup^
+
+^AddSearchBarField^Tìm kiếm Fields^AddSearchBarField^
+
+^AddToFavorites^Thêm vào yêu thích^AddToFavorites^
+
+^AdvancedSearch^Tìm kiếm nâng cao^AdvancedSearch^
+
+^After^Sau khi^After^
+
+^AlignedLeft^Liên kết trái^AlignedLeft^
+
+^AlignedRight^Liên kết phải^AlignedRight^
+
+^AllDatesInPreriod^Tất cả các Ngày trong thời kỳ^AllDatesInPreriod^
+
+^AlternativeView^Chọn một cách nhìn khác về dữ liệu.^AlternativeView^
+
+^Always^Luôn luôn^Always^
+
+^Apply^Áp dụng^Apply^
+
+^Aquarium^Hồ cá^Aquarium^
+
+^AvgAggregate^Trung bình: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Trung bình của {0}^AvgAggregateToolTip^
+
+^Azure^Nhuộm^Azure^
+
+^Back^Trở lại^Back^
+
+^BackColor^Trở lại màu^BackColor^
+
+^BatchEditActionHeaderText^Batch Edit^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Batch Edit (theo mẫu)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^cập nhật^BatchUpdate^
+
+^Before^Trước khi^Before^
+
+^BeginsWith^Bắt đầu với^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Berry^Berry^
+
+^Between^Giữa^Between^
+
+^Bittersweet^Buồn vui lẫn lộn^Bittersweet^
+
+^BlankPassword^Mật khẩu không được để trống.^BlankPassword^
+
+^BlankUserName^Tên người dùng không được để trống.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Click vào đây để tải về tập tin ban đầu.^BlobDownloadHint^
+
+^BlobDownloadLink^tải về^BlobDownloadLink^
+
+^Bold^Đậm^Bold^
+
+^BooleanFilterText^Hợp lý Bộ lọc^BooleanFilterText^
+
+^BooleanIsExpected^Một giá trị hợp lý được mong đợi.^BooleanIsExpected^
+
+^ButtonShapes^Hình dạng nút^ButtonShapes^
+
+^Calendar^Lịch^Calendar^
+
+^Cancel^Hủy bỏ^Cancel^
+
+^Cards^Thẻ^Cards^
+
+^Cay^Cồn san hô^Cay^
+
+^ChangeYourLanguage^Thay đổi ngôn ngữ của bạn^ChangeYourLanguage^
+
+^Citrus^Citrus^Citrus^
+
+^Classic^Cổ điển^Classic^
+
+^ClearFilter^Rõ ràng lọc từ {0}^ClearFilter^
+
+^ClearText^Tiêu đề rõ ràng^ClearText^
+
+^ClearToolTip^Rõ ràng {0}^ClearToolTip^
+
+^Close^Đóng^Close^
+
+^Comfortable^Thoải mái^Comfortable^
+
+^Compact^Nhỏ gọn^Compact^
+
+^Condensed^Đặc^Condensed^
+
+^ConfirmReload^Nạp lại?^ConfirmReload^
+
+^ConnectionLost^Kết nối mạng đã bị mất. Hãy thử một lần nữa?^ConnectionLost^
+
+^Construct^Xây dựng^Construct^
+
+^Contains^Có^Contains^
+
+^Convention^Ước^Convention^
+
+^Copy^Sao chép^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Count of {0}^CountAggregateToolTip^
+
+^CreateLink^Tạo liên kết^CreateLink^
+
+^CustomFilterOption^Bộ lọc ...^CustomFilterOption^
+
+^Cut^Cắt^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Tối^DarkTheme^
+
+^DataSheetActionDescription^Hiển thị các mục bằng cách sử dụng một sheet<br/>format dữ liệu.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Hiển thị trong Bảng dữ liệu^DataSheetActionHeaderText^
+
+^Date^Ngày^Date^
+
+^DateFilterText^Ngày Bộ lọc^DateFilterText^
+
+^DateIsExpected^Một ngày mong đợi.^DateIsExpected^
+
+^DateSortAscending^Cũ nhất trên đầu^DateSortAscending^
+
+^DateSortDescending^On Top^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Đóng^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Xin vui lòng điền mẫu này và nhấn nút OK để tạo một bản ghi {0} mới. Nhấp vào Cancel để quay trở lại màn hình trước đó.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Đây là những lĩnh vực của hồ sơ {0} rằng có thể được chỉnh sửa.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Vui lòng xem lại {0} thông tin dưới đây. Nhấp vào Chỉnh sửa để thay đổi hồ sơ này, nhấn Delete để xóa các bản ghi, hoặc nhấn vào Cancel / Close để trở về.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Đây là một danh sách các {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Hoàn thành mẫu đơn. Hãy chắc chắn để vào tất cả các lĩnh vực cần thiết.^DefaultNewDescription^
+
+^DefaultOption^Bình thường^DefaultOption^
+
+^DefaultReferenceDescription^Thêm chi tiết về {0} được cung cấp trong phần thông tin tham khảo.^DefaultReferenceDescription^
+
+^Delete^Xóa^Delete^
+
+^DeleteActionConfirmation^Xóa?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Xóa^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Xóa)^DeleteSearchBarField^
+
+^DetailsToolTip^Xem chi tiết cho {0}^DetailsToolTip^
+
+^Directions^Hướng^Directions^
+
+^DisplayDensity^Mật độ hiển thị^DisplayDensity^
+
+^DisplayedAbove^Hiển thị trên^DisplayedAbove^
+
+^DisplayedBelow^Dưới đây hiển thị^DisplayedBelow^
+
+^Dock^Vào bến^Dock^
+
+^DoesNotBeginWith^Không bắt đầu bằng^DoesNotBeginWith^
+
+^DoesNotContain^Không chứa^DoesNotContain^
+
+^DoesNotEndWith^Không kết thúc bằng^DoesNotEndWith^
+
+^DoesNotEqual^Không bình đẳng^DoesNotEqual^
+
+^DoesNotInclude^Không bao gồm^DoesNotInclude^
+
+^DoNotMatchAll^Không phù hợp với tất cả các điều kiện^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Không phù hợp với tất cả các điều kiện^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Không phù hợp với bất kỳ điều kiện^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Không phù hợp với bất kỳ điều kiện^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Duplicate^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Chỉnh sửa^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Hủy bỏ^EditModeCancelActionHeaderText^
+
+^EmptyContext^Hành động không có sẵn.^EmptyContext^
+
+^EmptyValue^(Trống)^EmptyValue^
+
+^EndsWith^Kết thúc Với^EndsWith^
+
+^Equals^Equals^Equals^
+
+^ExportCsvActionDescription^Tải về các mục trong định dạng CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Tải về^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Phân tích mục có spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Xuất để bảng tính^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate mục với một trình đọc RSS.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^View RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Yêu thích^Favorites^
+
+^Felt^Cảm thấy^Felt^
+
+^Filter^Bộ lọc^Filter^
+
+^FilterApplied^Một bộ lọc đã được áp dụng.^FilterApplied^
+
+^FilterByField^Chọn một lĩnh vực để áp dụng một bộ lọc để <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Chọn một hoặc nhiều lựa chọn trong danh sách dưới đây và nhấn <b>{2}</b> để lọc <b>{0}</b> bởi lĩnh vực này <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^và^FilterLabelAnd^
+
+^FilterLabelClear^Rõ ràng^FilterLabelClear^
+
+^FilterLabelEquals^bằng^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Thay đổi^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^bao gồm^FilterLabelIncludes^
+
+^FilterLabelOr^hoặc^FilterLabelOr^
+
+^FilterLabelSelectAll^(Select All)^FilterLabelSelectAll^
+
+^FilterSiteMap^Bản đồ trang web lọc...^FilterSiteMap^
+
+^FlatTreeToggle^Chuyển đến Hierarchy^FlatTreeToggle^
+
+^FontName^Tên phông chữ^FontName^
+
+^FontSize^Kích thước phông chữ^FontSize^
+
+^ForeColor^Fore màu^ForeColor^
+
+^ForgotYourPassword^Quên mật khẩu của bạn?^ForgotYourPassword^
+
+^Freeze^Đóng băng^Freeze^
+
+^Future^Tương lai^Future^
+
+^GeneralTabText^Tổng^GeneralTabText^
+
+^GenericNewToolTip^Tạo mới^GenericNewToolTip^
+
+^GenericSortAscending^Nhỏ nhất trên Top^GenericSortAscending^
+
+^GenericSortDescending^Lớn nhất trên đầu^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Đá granit^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Nguy cơ^Gravity^
+
+^GreaterThan^Lớn hơn^GreaterThan^
+
+^Grid^Lưới^Grid^
+
+^GridActionDescription^Hiển thị các mục trong các định dạng standard<br/>list.^GridActionDescription^
+
+^GridActionHeaderText^Hiện tại Xem tiêu chuẩn^GridActionHeaderText^
+
+^Help^Trợ giúp^Help^
+
+^HelpClose^Đóng^HelpClose^
+
+^HelpFullScreen^Full Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Ẩn Tìm kiếm nâng cao^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Chuyển sang Danh sách phẳng^HierarchyTreeModeToggle^
+
+^History^Lịch sử^History^
+
+^HistoryToolTip^Xem lịch sử của các hồ sơ đã chọn trước đó^HistoryToolTip^
+
+^HistoryUnavailable^Lịch sử là không có sẵn.^HistoryUnavailable^
+
+^Home^Quê hương^Home^
+
+^IdleUser^Bạn vẫn có? Xin vui lòng đăng nhập lại.^IdleUser^
+
+^ImportActionDescription^Tải lên một CSV, XLS, hoặc hồ sơ nhập khẩu XLSX file<br/>to.^ImportActionDescription^
+
+^ImportActionHeaderText^Nhập khẩu từ tập tin^ImportActionHeaderText^
+
+^ImportAutoDetect^(Tự động phát hiện)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Tải tập tin mẫu nhập khẩu.^ImportDownloadTemplate^
+
+^ImportEmail^Gửi các bản ghi nhập khẩu đến các địa chỉ email sau đây (tùy chọn)^ImportEmail^
+
+^ImportEmailNotSpecified^Người nhận các bản ghi nhập khẩu chưa được quy định. Tiến hành nào?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Có <b>{0}</b> kỷ lục (s) trong những <b>{1}</b> tập tin đã sẵn sàng để được processed.<br/>Please bản đồ các lĩnh vực nhập khẩu từ tập tin dữ liệu các lĩnh vực ứng dụng và nhấn <i>Import</i> để bắt đầu chế biến.^ImportMappingInstruction^
+
+^ImportProcessing^Nhập khẩu xử lý tập tin đã được bắt đầu. Hồ sơ dữ liệu nhập khẩu sẽ trở nên có sẵn sau khi xử lý thành công. Bạn có thể cần phải làm mới các quan điểm có liên quan / các trang web để xem các hồ sơ nhập khẩu.^ImportProcessing^
+
+^ImportStartButton^Nhập khẩu^ImportStartButton^
+
+^ImportUploading^Tập tin của bạn đang được tải lên máy chủ. Xin vui lòng chờ ...^ImportUploading^
+
+^ImportUploadInstruction^Xin vui lòng chọn tập tin để tải lên. Các tập tin phải được trong <b>CSV</b> định dạng <b>XLS</b>, hoặc <b>XLSX</b>,.^ImportUploadInstruction^
+
+^In^trong^In^
+
+^Includes^Bao gồm^Includes^
+
+^Indent^Lịnh sung công^Indent^
+
+^InfoBarAnd^và^InfoBarAnd^
+
+^InfoBarEmpty^trống^InfoBarEmpty^
+
+^InfoBarEqualTo^bằng^InfoBarEqualTo^
+
+^InfoBarGreaterThan^lớn hơn^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^lớn hơn hoặc bằng^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^ít hơn^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^nhỏ hơn hoặc bằng^InfoBarLessThanOrEqual^
+
+^InfoBarLike^giống như^InfoBarLike^
+
+^InfoBarOr^hoặc^InfoBarOr^
+
+^InfoBarQuickFind^Lĩnh vực nào có chứa^InfoBarQuickFind^
+
+^InfoBarStartsWith^bắt đầu với^InfoBarStartsWith^
+
+^InitialListMode^Danh sách ban đầu chế độ^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Quy tắc chèn ngang^InsertHorizontalRule^
+
+^InsertOrderedList^Danh sách thứ tự chèn^InsertOrderedList^
+
+^InsertUnorderedList^Danh sách không có thứ tự chèn^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Tên người dùng và mật khẩu không hợp lệ.^InvalidUserNameAndPassword^
+
+^Italic^Nghiêng^Italic^
+
+^ItemsPerPage^Mục mỗi trang:^ItemsPerPage^
+
+^JustifyCenter^Canh giữa^JustifyCenter^
+
+^JustifyFull^Biện minh cho toàn^JustifyFull^
+
+^JustifyLeft^Biện minh cho trái^JustifyLeft^
+
+^JustifyRight^Lề phải^JustifyRight^
+
+^Lacquer^Sơn mài^Lacquer^
+
+^Laminate^Laminate^Laminate^
+
+^Landscape^Cảnh^Landscape^
+
+^LastMonth^Tháng trước^LastMonth^
+
+^LastQuarter^Bán nguyệt^LastQuarter^
+
+^LastWeek^Tuần^LastWeek^
+
+^LastYear^Năm ngoái^LastYear^
+
+^LessThan^Ít hơn^LessThan^
+
+^Lichen^Một loài rêu^Lichen^
+
+^LightTheme^Ánh sáng^LightTheme^
+
+^List^Danh sách^List^
+
+^ListOneColumn^Danh sách (Một Cột)^ListOneColumn^
+
+^Loading^Loading ...^Loading^
+
+^Logical^Logical^Logical^
+
+^LoginButton^Đăng nhập^LoginButton^
+
+^LoginLink^Đăng nhập^LoginLink^
+
+^Logout^Đăng xuất^Logout^
+
+^LookupInstruction^Vui lòng chọn <b>{0}</b> trong danh sách.^LookupInstruction^
+
+^LookupOriginalSelection^Việc lựa chọn ban đầu là <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Bản đồ^Map^
+
+^MatchAll^Phù hợp với tất cả các điều kiện^MatchAll^
+
+^MatchAllPastTense^Phù hợp với tất cả các điều kiện^MatchAllPastTense^
+
+^MatchAny^Phù hợp với bất kỳ điều kiện^MatchAny^
+
+^MatchAnyPastTense^Phù hợp với bất kỳ điều kiện^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Tối đa của {0}^MaxAggregateToolTip^
+
+^Maximize^Mở rộng^Maximize^
+
+^Menu^Đơn^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Tối thiểu của {0}^MinAggregateToolTip^
+
+^Minimize^Collapse^Minimize^
+
+^Mission^Nhiệm vụ^Mission^
+
+^ModeBrowsing^Duyệt^ModeBrowsing^
+
+^ModeEditing^Chỉnh sửa^ModeEditing^
+
+^ModeEntering^Mảnh ghép^ModeEntering^
+
+^ModeLookup^Tra cứu^ModeLookup^
+
+^Modern^Hiện đại^Modern^
+
+^ModernRose^Rose hiện đại^ModernRose^
+
+^ModeViewing^Xem^ModeViewing^
+
+^More^Hơn^More^
+
+^Municipal^Thành phố^Municipal^
+
+^MyAccount^Tài khoản của tôi^MyAccount^
+
+^Never^Không bao giờ^Never^
+
+^NewActionHeaderText^New^NewActionHeaderText^
+
+^NewRowLink^Click vào đây để tạo ra một kỷ lục mới.^NewRowLink^
+
+^NewToolTip^New {0}^NewToolTip^
+
+^Next^Tiếp theo^Next^
+
+^NextMonth^Tháng sau^NextMonth^
+
+^NextQuarter^Tiếp theo quý^NextQuarter^
+
+^NextWeek^Tuần tiếp theo^NextWeek^
+
+^NextYear^Vào năm tới^NextYear^
+
+^No^Không có^No^
+
+^NoRecords^Không có hồ sơ được tìm thấy.^NoRecords^
+
+^NoteDeleteConfirm^Xóa?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^xóa^NoteDeleteLabel^
+
+^NoteEditLabel^chỉnh sửa^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Số^Number^
+
+^NumberFilterText^Số Bộ lọc^NumberFilterText^
+
+^NumberIsExpected^Một số dự kiến.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Mở^OpenActionHeaderText^
+
+^Outdent^Nhô lề^Outdent^
+
+^Page^Trang^Page^
+
+^Password^Mật khẩu^Password^
+
+^Past^Quá khứ^Past^
+
+^Paste^Dán^Paste^
+
+^PerformAdvancedSearch^Tìm kiếm^PerformAdvancedSearch^
+
+^Permalink^Cố định^Permalink^
+
+^PermalinkToolTip^Tạo một liên kết thường trực cho các hồ sơ được lựa chọn^PermalinkToolTip^
+
+^PermalinkUnavailable^Đường dẫn cố định là không có sẵn. Hãy chọn một kỷ lục.^PermalinkUnavailable^
+
+^Petal^Cánh hoa^Petal^
+
+^Pinnate^Chung quanh lá cuống^Pinnate^
+
+^Plastic^Nhựa^Plastic^
+
+^Portrait^Chân dung^Portrait^
+
+^PresentationStyle^Chọn một phong cách trình bày dữ liệu.^PresentationStyle^
+
+^Previous^Trước^Previous^
+
+^PromoteActions^Thúc đẩy hành động^PromoteActions^
+
+^Quarter1^Khu phố 1^Quarter1^
+
+^Quarter2^Khu phố 2^Quarter2^
+
+^Quarter3^Khu phố 3^Quarter3^
+
+^Quarter4^Khu phố 4^Quarter4^
+
+^QuickFindScope^Tìm kiếm trong ...^QuickFindScope^
+
+^QuickFindText^Tìm nhanh^QuickFindText^
+
+^QuickFindToolTip^Nhập để tìm kiếm các hồ sơ và nhấn Enter^QuickFindToolTip^
+
+^Recent^Mới đây^Recent^
+
+^Redo^Làm lại^Redo^
+
+^Refresh^Làm mới^Refresh^
+
+^RememberMe^Ghi nhớ lần sau^RememberMe^
+
+^RemoveCondition^Hủy bỏ Điều kiện^RemoveCondition^
+
+^RemoveFormat^Loại bỏ định dạng^RemoveFormat^
+
+^ReportActionDescription^Render một báo cáo ở định dạng PDF^ReportActionDescription^
+
+^ReportActionHeaderText^Báo cáo^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Xem các mục trong một bảng tính Excel formatted<br/>Microsoft.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Bảng tính^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Xem các mục như là một hình ảnh TIFF nhiều trang.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Nhiều trang hình ảnh^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Xem các mục như Adobe PDF document.<br/>Requires một đầu đọc tương thích.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF Document^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Xem các mục trong một tài liệu Word formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Yêu cầu^Required^
+
+^RequiredField^Trường này là bắt buộc.^RequiredField^
+
+^RequiredFiledMarkerFootNote^cho biết một trường bắt buộc^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Thiết lập lại^ResetAdvancedSearch^
+
+^ResumeBrowsing^Tiếp tục duyệt^ResumeBrowsing^
+
+^ResumeEditing^Tiếp tục chỉnh sửa^ResumeEditing^
+
+^ResumeEntering^Bước tiếp tục^ResumeEntering^
+
+^ResumeLookup^Tiếp tục Lookup^ResumeLookup^
+
+^ResumeViewing^Xem lại^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Vai trò^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Quay^Rotate^
+
+^RowCancelActionHeaderText^Hủy bỏ^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Chèn^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Lưu^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Cập nhật?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Cập nhật lựa chọn^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Lưu^Save^
+
+^SaveAndNew^Lưu và New^SaveAndNew^
+
+^SeeAll^Xem tất cả^SeeAll^
+
+^SeeAlso^Xem thêm^SeeAlso^
+
+^SelectActionHeaderText^Chọn^SelectActionHeaderText^
+
+^SelectAll^Chọn tất cả^SelectAll^
+
+^SelectLink^(Lựa chọn)^SelectLink^
+
+^SelectToolTip^Chọn {0}^SelectToolTip^
+
+^Separator^Phân cách^Separator^
+
+^Settings^Thiết lập^Settings^
+
+^ShowAdvancedSearch^Hiển thị Tìm kiếm nâng cao^ShowAdvancedSearch^
+
+^ShowingItems^Xếp <b>{0}</b> <b>{1}</b> mục <b>{2}</b>^ShowingItems^
+
+^ShowingItemsInfo^Hiện {0} mục.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Đăng ký ngay^SignUpNow^
+
+^Simple^Đơn giản^Simple^
+
+^SiteActions^Site Actions^SiteActions^
+
+^Social^Xã hội^Social^
+
+^Sort^Loại^Sort^
+
+^SortBy^Sắp xếp bởi {0}^SortBy^
+
+^SortByField^Chọn một trường để thay đổi thứ tự sắp xếp của <b>{0}</b>.^SortByField^
+
+^SortByOptions^Chọn thứ tự sắp xếp của <b>{0}</b> bởi sân <b>{1}</b> trong danh sách các tùy chọn dưới đây.^SortByOptions^
+
+^StrikeThrough^Thông qua tấn công^StrikeThrough^
+
+^StringSortAscending^Tăng dần^StringSortAscending^
+
+^StringSortDescending^Giảm dần^StringSortDescending^
+
+^Subscript^Phụ Script^Subscript^
+
+^Suggestions^Gợi ý^Suggestions^
+
+^SumAggregate^Tổng: {0}^SumAggregate^
+
+^SumAggregateToolTip^Tổng của {0}^SumAggregateToolTip^
+
+^Summary^Tóm tắt thông tin^Summary^
+
+^Summer^Mùa hè^Summer^
+
+^Superscript^Siêu Script^Superscript^
+
+^TaskResume^Tiếp tục^TaskResume^
+
+^Tasks^Nhiệm vụ^Tasks^
+
+^Text^Bản văn^Text^
+
+^TextFilterText^Văn bản Bộ lọc^TextFilterText^
+
+^Theme^Chủ đề^Theme^
+
+^ThisMonth^Tháng này^ThisMonth^
+
+^ThisQuarter^Quý này^ThisQuarter^
+
+^ThisWeek^Tuần này^ThisWeek^
+
+^ThisYear^Năm nay^ThisYear^
+
+^Today^Hôm nay^Today^
+
+^Tomorrow^Mai^Tomorrow^
+
+^ToThisWebsite^trang web này^ToThisWebsite^
+
+^TouchUINotSupported^Giao diện cảm ứng không được hỗ trợ trong trình duyệt này.^TouchUINotSupported^
+
+^TransitionFade^Phai^TransitionFade^
+
+^TransitionFlip^Lật^TransitionFlip^
+
+^TransitionFlow^Dòng chảy^TransitionFlow^
+
+^TransitionNone^Không ai^TransitionNone^
+
+^TransitionPop^Pop^TransitionPop^
+
+^Transitions^Quá trình chuyển đổi^Transitions^
+
+^TransitionSlide^Trượt^TransitionSlide^
+
+^TransitionSlideDown^Trượt xuống^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Phiên^TransitionTurn^
+
+^TreeActionDescription^Hiển thị các mối quan hệ thứ bậc.^TreeActionDescription^
+
+^TreeActionHeaderText^Hiện Hierarchy^TreeActionHeaderText^
+
+^Underline^Nhấn mạnh^Underline^
+
+^Undo^Lùi lại^Undo^
+
+^Undock^Tháo ra^Undock^
+
+^Unfreeze^Làm cho lỏng ra^Unfreeze^
+
+^UnLink^Tháo vải lót^UnLink^
+
+^UnSelect^Bỏ chọn^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Cập nhật?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Cập nhật lựa chọn^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Lên một bậc^UpOneLevel^
+
+^UseLEV^Dán &quot;{0}&quot;^UseLEV^
+
+^UserName^User Name^UserName^
+
+^UsersInRole^Người sử dụng trong vai trò^UsersInRole^
+
+^UsersTab^Người sử dụng^UsersTab^
+
+^Vantage^Điều lợi^Vantage^
+
+^Verdant^Cỏ xanh tươi^Verdant^
+
+^View^Xem^View^
+
+^Viewpoint^Quan điểm^Viewpoint^
+
+^Welcome1^Chào mừng^Welcome1^
+
+^Welcome2^Hôm nay là^Welcome2^
+
+^WhiteSmoke^Trắng khói^WhiteSmoke^
+
+^YearToDate^Năm nay^YearToDate^
+
+^Yes^Có^Yes^
+
+^Yesterday^Hôm qua^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Phóng to^ZoomIn^
+
+^ZoomOut^Thu nhỏ^ZoomOut^
+

@@ -1,0 +1,92 @@
+﻿<!-- 
+    Resource page body children are automatically exctracted by CodeOnTime.Client.loadResource 
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title></title>
+    <link href="CodeOnTime.css" type="text/css" rel="Stylesheet" />
+</head>
+<body>
+    <!-- "Web Server" Dialog -->
+    <div id="WebServerDialog" title="Web Server">
+        <div class="Content">
+            Please specify application execution preferences.</div>
+        <div class="Heading Logo">
+            Web Server
+            <div class="Icon WebServer">
+            </div>
+        </div>
+        <div class="Content" id="WebServerDialog_WebServceParameters">
+            <div>
+                You may choose to test the generated application right after the completion of code
+                generation. This feature requires <a href='http://www.microsoft.com/download/en/details.aspx?id=1038'
+                    target="_blank" title="Download IIS Express">IIS Express</a> installed on your
+                computer.
+            </div>
+            <div class="Field">
+                <label class="Label">
+                    Application Execution:</label>
+                <input type="checkbox" id="WebServerDialog_WebServerRun" /><label for="WebServerDialog_WebServerRun">Run
+                    application upon completion of code generation.</label></div>
+            <div class="Field">
+                <label for="WebServerDialog_WebServerPort" class="Label">
+                    Web Server Port:</label><input type="text" id="WebServerDialog_WebServerPort" style="width: 50px" /></div>
+        </div>
+        <div class="Content" id="WebServerDialog_WebConfigSection" style="display: none">
+            <div>
+                The <b>web.config</b> file of the generated project is always overwritten. You many
+                need to make changes to the <i>web.config</i> file to link custom component libraries
+                and enter custom entries required for your project. Use <a href="javascript:" onclick="var e=document.getElementById('WebServerDialog_WebConfig'); if(e.value.match(/^\s*$/))e.value='AppendChild: /configuration/appSettings\n\n&lt;add key=&quot;Setting1&quot; value=&quot;Value1&quot; /&gt;\n&lt;add key=&quot;Setting2&quot; value=&quot;Value2&quot; /&gt;';return false"
+                    title="The following snippet will add two settings to the web.config of your project.
+
+AppendChild: /configuration/appSettings
+
+&lt;add key=&quot;Setting1&quot; value=&quot;Value1&quot; /&gt;
+&lt;add key=&quot;Setting2&quot; value=&quot;Value2&quot; /&gt;
+">AppendChild</a>, <a href="javascript:" onclick="var e=document.getElementById('WebServerDialog_WebConfig'); if(e.value.match(/^\s*$/))e.value='AppendChild: /configuration/appSettings\n\n&lt;add key=&quot;Setting1&quot; value=&quot;Value1&quot; /&gt;\n&lt;add key=&quot;Setting2&quot; value=&quot;Value2&quot; /&gt;\n\nInsertBefore: /configuration/appSettings/add[2]\n\n&lt;add key=&quot;Setting3&quot; value=&quot;Value3&quot; /&gt;';return false"
+    title="The following snippet will add three settings to the web.config of your project.
+
+AppendChild: /configuration/appSettings
+
+&lt;add key=&quot;Setting1&quot; value=&quot;Value1&quot; /&gt;
+&lt;add key=&quot;Setting2&quot; value=&quot;Value2&quot; /&gt;
+
+InsertBefore: /configuration/appSettings/add[2]
+
+&lt;add key=&quot;Setting3&quot; value=&quot;Value3&quot; /&gt;
+">InsertBefore</a>, and <a href="javascript:" onclick="var e=document.getElementById('WebServerDialog_WebConfig'); if(e.value.match(/^\s*$/))e.value='AppendChild: /configuration/appSettings\n\n&lt;add key=&quot;Setting1&quot; value=&quot;Value1&quot; /&gt;\n&lt;add key=&quot;Setting2&quot; value=&quot;Value2&quot; /&gt;\n\nInsertAfter: /configuration/appSettings/add[1]\n\n&lt;add key=&quot;Setting3&quot; value=&quot;Value3&quot; /&gt;';return false"
+    title="The following snippet will add three settings to the web.config of your project.
+
+AppendChild: /configuration/appSettings
+
+&lt;add key=&quot;Setting1&quot; value=&quot;Value1&quot; /&gt;
+&lt;add key=&quot;Setting2&quot; value=&quot;Value2&quot; /&gt;
+
+InsertAfter: /configuration/appSettings/add[1]
+
+&lt;add key=&quot;Setting3&quot; value=&quot;Value3&quot; /&gt;
+">InsertAfter</a> instructions to make precise custom changes to the generated configuration file
+                of the project. Place instruction followed by ":" and <i>XPath</i> expression leading
+                to existing node followed by XML snippet.
+            </div>
+            <div class="Field">
+                <label class="Label" for="WebServerDialog_WebConfig">
+                    Web.Config modification instructions:</label>
+                <textarea id="WebServerDialog_WebConfig" rows="15" cols="80" style="width: 95%"></textarea>
+                <div style="margin-top:8px;">
+                Learn more about <a href="javascript:" onclick="return $openUrl('http://codeontime.com/learn/development/project-wizard/changing-application-configuration')">
+                    changing application configuration</a>.</div>
+            </div>
+        </div>
+        <div class="Buttons">
+            <button onclick="CodeOnTime.Client.cancel()">
+                Cancel</button>
+            <button onclick="CodeOnTime.Client._executeWebServerDialogCallback('Back')">
+                Back</button>
+            <button onclick="CodeOnTime.Client._executeWebServerDialogCallback('Next')">
+                Next</button>
+        </div>
+    </div>
+</body>
+</html>

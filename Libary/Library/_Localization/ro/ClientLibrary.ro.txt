@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Despre^About^
+
+^ActionBarActionsHeaderText^Oferte^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Anula^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Anulează toate modificările înregistrare.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Anulează nou record.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Salvaţi nou record la baza de date.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Salva^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Creaţi o înregistrare {0} nou.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Noi {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Nou^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Înregistra^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Raport^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Salvaţi modificările în baza de date.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Salva^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Adaugă Stare^AddCondition^
+
+^AddConditionText^Adaugă condiţie căutare^AddConditionText^
+
+^AddMatchingGroup^Adăugați grup de potrivire^AddMatchingGroup^
+
+^AddSearchBarField^Domenii mai multe Caută^AddSearchBarField^
+
+^AddToFavorites^Adauga la favorite^AddToFavorites^
+
+^AdvancedSearch^Cautare avansata^AdvancedSearch^
+
+^After^După^After^
+
+^AlignedLeft^Aliniat la stânga^AlignedLeft^
+
+^AlignedRight^Aliniat la dreapta^AlignedRight^
+
+^AllDatesInPreriod^Toate datele din perioada^AllDatesInPreriod^
+
+^AlternativeView^Selectați o viziune alternativa a datelor.^AlternativeView^
+
+^Always^Mereu^Always^
+
+^Apply^Aplica^Apply^
+
+^Aquarium^Acvariu^Aquarium^
+
+^AvgAggregate^Medie: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Medie de {0}^AvgAggregateToolTip^
+
+^Azure^Azur^Azure^
+
+^Back^Înapoi^Back^
+
+^BackColor^Spate Culoare^BackColor^
+
+^BatchEditActionHeaderText^Editare lot^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Editare lot (Formular)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^actualizare^BatchUpdate^
+
+^Before^Înainte^Before^
+
+^BeginsWith^Începe cu^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Bacă^Berry^
+
+^Between^Între^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Parola nu poate fi necompletat.^BlankPassword^
+
+^BlankUserName^Nume de utilizator nu poate fi necompletat.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Faceţi clic aici pentru a descărca fişierul original.^BlobDownloadHint^
+
+^BlobDownloadLink^descărcare^BlobDownloadLink^
+
+^Bold^Îndrăzneț^Bold^
+
+^BooleanFilterText^Filtre Logice^BooleanFilterText^
+
+^BooleanIsExpected^O valoare logică este de aşteptat.^BooleanIsExpected^
+
+^ButtonShapes^Forma de butoane^ButtonShapes^
+
+^Calendar^Calendar^Calendar^
+
+^Cancel^Anula^Cancel^
+
+^Cards^Carduri^Cards^
+
+^Cay^Cay^Cay^
+
+^ChangeYourLanguage^Schimbați limba dvs.^ChangeYourLanguage^
+
+^Citrus^Citrice^Citrus^
+
+^Classic^Clasic^Classic^
+
+^ClearFilter^Filtru clar de la {0}^ClearFilter^
+
+^ClearText^Clar Text^ClearText^
+
+^ClearToolTip^Clar {0}^ClearToolTip^
+
+^Close^Aproape^Close^
+
+^Comfortable^Confortabil^Comfortable^
+
+^Compact^Compact^Compact^
+
+^Condensed^Condensat^Condensed^
+
+^ConfirmReload^Reîncarcă?^ConfirmReload^
+
+^ConnectionLost^Conexiunea la rețea a fost pierdut. Încercați din nou?^ConnectionLost^
+
+^Construct^Construi^Construct^
+
+^Contains^Conţine^Contains^
+
+^Convention^Convenție^Convention^
+
+^Copy^Copierea^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Contele de {0}^CountAggregateToolTip^
+
+^CreateLink^Creați Link^CreateLink^
+
+^CustomFilterOption^Filtru ...^CustomFilterOption^
+
+^Cut^Tăiat^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Întuneric^DarkTheme^
+
+^DataSheetActionDescription^Afişează articole utilizând un sheet<br/>format de date.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Arată în fişa cu date de^DataSheetActionHeaderText^
+
+^Date^Data^Date^
+
+^DateFilterText^Data Filtre^DateFilterText^
+
+^DateIsExpected^O dată este de aşteptat.^DateIsExpected^
+
+^DateSortAscending^Primele pe Top^DateSortAscending^
+
+^DateSortDescending^Ultimele pe Top^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Aproape^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Vă rugăm să completaţi acest formular şi faceţi clic pe butonul OK pentru a crea o înregistrare {0} nou. Faceţi clic pe Anulaţi pentru a reveni la ecranul anterior.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Acestea sunt domeniile de înregistrare {0} care pot fi editate.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Vă rugăm să citiţi informaţiile de mai jos {0}. Faceţi clic pe Editare pentru a modifica acest record, faceţi clic pe Ştergere pentru a şterge înregistrarea, sau faceţi clic pe Revocare / Închidere pentru a reveni înapoi.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Aceasta este o listă de {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Completaţi formularul. Asiguraţi-vă că pentru a introduce toate câmpurile obligatorii.^DefaultNewDescription^
+
+^DefaultOption^Standard^DefaultOption^
+
+^DefaultReferenceDescription^Detalii suplimentare despre {0} sunt prevăzute în secţiunea cu informaţii de referinţă.^DefaultReferenceDescription^
+
+^Delete^Șterge^Delete^
+
+^DeleteActionConfirmation^Ştergeţi?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Şterge^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Şterge)^DeleteSearchBarField^
+
+^DetailsToolTip^Vizualizare detalii pentru {0}^DetailsToolTip^
+
+^Directions^Direcții^Directions^
+
+^DisplayDensity^Afișaj Densitate^DisplayDensity^
+
+^DisplayedAbove^Afișate mai sus^DisplayedAbove^
+
+^DisplayedBelow^Afișate mai jos^DisplayedBelow^
+
+^Dock^Acosta^Dock^
+
+^DoesNotBeginWith^Nu începe cu^DoesNotBeginWith^
+
+^DoesNotContain^Nu conţine^DoesNotContain^
+
+^DoesNotEndWith^Nu se termină cu^DoesNotEndWith^
+
+^DoesNotEqual^Nu de şanse^DoesNotEqual^
+
+^DoesNotInclude^Nu include^DoesNotInclude^
+
+^DoNotMatchAll^Nu se potrivesc toate condițiile^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Nu se potrivesc toate condițiile^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Nu se potrivesc condiții^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Nu a returnat niciun condiții^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Duplicat^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Edita^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Anula^EditModeCancelActionHeaderText^
+
+^EmptyContext^Acțiunile nu sunt disponibile.^EmptyContext^
+
+^EmptyValue^(Gol)^EmptyValue^
+
+^EndsWith^Se termină cu^EndsWith^
+
+^Equals^Egal^Equals^
+
+^ExportCsvActionDescription^Elemente descărca în format CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Descarca^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analizeaza cu elemente spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Export în foaie de calcul^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Emite articole cu un cititor RSS.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Vezi RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Favorite^Favorites^
+
+^Felt^Fetru^Felt^
+
+^Filter^Filtru^Filter^
+
+^FilterApplied^Un filtru a fost aplicată.^FilterApplied^
+
+^FilterByField^Selectați un câmp pentru a aplica un filtru la <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Selectați una sau mai multe opțiuni din lista de mai jos și apăsați <b>{2}</b> pentru a filtra <b>{0}</b> de domeniul <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^şi^FilterLabelAnd^
+
+^FilterLabelClear^Clar^FilterLabelClear^
+
+^FilterLabelEquals^este egal cu^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Schimbare^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^include^FilterLabelIncludes^
+
+^FilterLabelOr^sau^FilterLabelOr^
+
+^FilterLabelSelectAll^(Selectare totală)^FilterLabelSelectAll^
+
+^FilterSiteMap^Harta site-ului filtru ...^FilterSiteMap^
+
+^FlatTreeToggle^A comuta la Ierarhie^FlatTreeToggle^
+
+^FontName^Numele fontului^FontName^
+
+^FontSize^Dimensiune font^FontSize^
+
+^ForeColor^Fore Culoare^ForeColor^
+
+^ForgotYourPassword^Ai uitat parola?^ForgotYourPassword^
+
+^Freeze^Congela^Freeze^
+
+^Future^Viitor^Future^
+
+^GeneralTabText^General^GeneralTabText^
+
+^GenericNewToolTip^Creare^GenericNewToolTip^
+
+^GenericSortAscending^Cel mai mic pe Top^GenericSortAscending^
+
+^GenericSortDescending^Cel mai mare în partea de sus^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Granit^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Gravitate^Gravity^
+
+^GreaterThan^Mai mare decât^GreaterThan^
+
+^Grid^Grilă^Grid^
+
+^GridActionDescription^Afişează vehicole în format standard<br/>list.^GridActionDescription^
+
+^GridActionHeaderText^Arată în Standard View^GridActionHeaderText^
+
+^Help^Ajutor^Help^
+
+^HelpClose^Aproape^HelpClose^
+
+^HelpFullScreen^Full Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Hide Advanced Search^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^A comuta la Lista de plat^HierarchyTreeModeToggle^
+
+^History^Istorie^History^
+
+^HistoryToolTip^Vizualizare istoric de înregistrări selectate anterior^HistoryToolTip^
+
+^HistoryUnavailable^Istoria nu este disponibil.^HistoryUnavailable^
+
+^Home^Acasă^Home^
+
+^IdleUser^Eşti încă acolo? Rugam sa va logati din nou.^IdleUser^
+
+^ImportActionDescription^Încărcaţi un CSV, XLS, XLSX file<br/>to sau înregistrări de import.^ImportActionDescription^
+
+^ImportActionHeaderText^Import From File^ImportActionHeaderText^
+
+^ImportAutoDetect^(Detectaţi automat)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Descărcaţi fişier şablon de import.^ImportDownloadTemplate^
+
+^ImportEmail^Trimite o cerere jurnal de import la urmatoarele adrese de email (opţional)^ImportEmail^
+
+^ImportEmailNotSpecified^Recipient de jurnal de import nu a fost specificat. Mai departe oricum?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Există înregistrări <b>{0}</b> (e) în <b>{1}</b> fişierul gata de a fi processed.<br/>Please hartă domeniile de import de la fişierul de date în domeniile de aplicare şi faceţi clic pe <i>Import</i> pentru a începe de prelucrare.^ImportMappingInstruction^
+
+^ImportProcessing^Fişier de procesare de import a fost iniţiată. Înregistrările importat datele vor fi disponibile pe prelucrare de succes. Poate fi necesar să reîmprospătaţi opiniile relevante / pagini pentru a vedea înregistrările importate.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Fişierul dvs. este în curs de încărcat pe server. Vă rugăm să aşteptaţi ...^ImportUploading^
+
+^ImportUploadInstruction^Vă rugăm selectaţi fişier de încărcat. Dosarul trebuie să fie în <b>CSV</b>, <b>XLS</b>, sau <b>XLSX</b> format.^ImportUploadInstruction^
+
+^In^în^In^
+
+^Includes^Include^Includes^
+
+^Indent^Liniuță^Indent^
+
+^InfoBarAnd^şi^InfoBarAnd^
+
+^InfoBarEmpty^gol^InfoBarEmpty^
+
+^InfoBarEqualTo^este egal cu^InfoBarEqualTo^
+
+^InfoBarGreaterThan^este mai mare decât^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^este mai mare sau egală cu^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^este mai mică decât^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^este mai mică sau egală cu^InfoBarLessThanOrEqual^
+
+^InfoBarLike^este ca^InfoBarLike^
+
+^InfoBarOr^sau^InfoBarOr^
+
+^InfoBarQuickFind^Orice câmp conţine^InfoBarQuickFind^
+
+^InfoBarStartsWith^începe cu^InfoBarStartsWith^
+
+^InitialListMode^Mod lista inițială^InitialListMode^
+
+^InsertActionHeaderText^Bine^InsertActionHeaderText^
+
+^InsertHorizontalRule^Introduceți orizontală de reglementare^InsertHorizontalRule^
+
+^InsertOrderedList^Introdu Lista Comandat^InsertOrderedList^
+
+^InsertUnorderedList^Inserare Listă neordonată^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Numele de utilizator şi parola nu sunt valide.^InvalidUserNameAndPassword^
+
+^Italic^Cursiv^Italic^
+
+^ItemsPerPage^Elemente pe pagină:^ItemsPerPage^
+
+^JustifyCenter^Justify Center^JustifyCenter^
+
+^JustifyFull^Justify completa^JustifyFull^
+
+^JustifyLeft^Justify Stânga^JustifyLeft^
+
+^JustifyRight^Aliniere la dreapta^JustifyRight^
+
+^Lacquer^Lac^Lacquer^
+
+^Laminate^Laminat^Laminate^
+
+^Landscape^Peisaj^Landscape^
+
+^LastMonth^Luna trecuta^LastMonth^
+
+^LastQuarter^Ultimul trimestru^LastQuarter^
+
+^LastWeek^Ultima Săptămâna^LastWeek^
+
+^LastYear^Anul trecut^LastYear^
+
+^LessThan^Mai mic decât^LessThan^
+
+^Lichen^Lichen^Lichen^
+
+^LightTheme^Lumina^LightTheme^
+
+^List^Listă^List^
+
+^ListOneColumn^Lista (o coloană)^ListOneColumn^
+
+^Loading^Se incarca ...^Loading^
+
+^Logical^Logic^Logical^
+
+^LoginButton^Login^LoginButton^
+
+^LoginLink^Login^LoginLink^
+
+^Logout^Logout^Logout^
+
+^LookupInstruction^Vă rugăm să selectați <b>{0}</b> în listă.^LookupInstruction^
+
+^LookupOriginalSelection^Selecția original este <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Hartă^Map^
+
+^MatchAll^Potriveste toate condițiile^MatchAll^
+
+^MatchAllPastTense^Potrivire toate condițiile^MatchAllPastTense^
+
+^MatchAny^Potriveste orice condiții^MatchAny^
+
+^MatchAnyPastTense^Potrivire orice condiții^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Maximă de {0}^MaxAggregateToolTip^
+
+^Maximize^Extinde^Maximize^
+
+^Menu^Meniu^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Minim de {0}^MinAggregateToolTip^
+
+^Minimize^Colaps^Minimize^
+
+^Mission^Misiune^Mission^
+
+^ModeBrowsing^Navigare^ModeBrowsing^
+
+^ModeEditing^Editarea^ModeEditing^
+
+^ModeEntering^Introducerea^ModeEntering^
+
+^ModeLookup^Căutare^ModeLookup^
+
+^Modern^Modern^Modern^
+
+^ModernRose^Modern Rose^ModernRose^
+
+^ModeViewing^Vizualizare^ModeViewing^
+
+^More^Mai mult^More^
+
+^Municipal^Municipal^Municipal^
+
+^MyAccount^Contul meu^MyAccount^
+
+^Never^Niciodată^Never^
+
+^NewActionHeaderText^Nou^NewActionHeaderText^
+
+^NewRowLink^Faceţi clic aici pentru a crea o înregistrare nouă.^NewRowLink^
+
+^NewToolTip^Noi {0}^NewToolTip^
+
+^Next^Următor^Next^
+
+^NextMonth^Lună următoare^NextMonth^
+
+^NextQuarter^Următoarele trimestrul^NextQuarter^
+
+^NextWeek^Săptămână următoare^NextWeek^
+
+^NextYear^Anul următor^NextYear^
+
+^No^Nu^No^
+
+^NoRecords^Nu au fost găsite.^NoRecords^
+
+^NoteDeleteConfirm^Ştergeţi?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^şterge^NoteDeleteLabel^
+
+^NoteEditLabel^edita^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Număr^Number^
+
+^NumberFilterText^Numărul Filtre^NumberFilterText^
+
+^NumberIsExpected^Un număr este de aşteptat.^NumberIsExpected^
+
+^OK^Bine^OK^
+
+^OpenActionHeaderText^Deschis^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Pagină^Page^
+
+^Password^Parolă^Password^
+
+^Past^Trecut^Past^
+
+^Paste^Pastă^Paste^
+
+^PerformAdvancedSearch^Căutare^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Creaţi un link permanent pentru înregistrare selectat^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink nu este disponibil. Vă rugăm să selectaţi o înregistrare.^PermalinkUnavailable^
+
+^Petal^Petală^Petal^
+
+^Pinnate^Penat^Pinnate^
+
+^Plastic^Plastic^Plastic^
+
+^Portrait^Portret^Portrait^
+
+^PresentationStyle^Selectați un stil de prezentare a datelor.^PresentationStyle^
+
+^Previous^Precedent^Previous^
+
+^PromoteActions^Promoveaza Oferte^PromoteActions^
+
+^Quarter1^Trimestrul 1^Quarter1^
+
+^Quarter2^Trimestrul 2 din^Quarter2^
+
+^Quarter3^Trimestrul 3^Quarter3^
+
+^Quarter4^Trimestrul 4^Quarter4^
+
+^QuickFindScope^Cauta in ...^QuickFindScope^
+
+^QuickFindText^Cautare rapida^QuickFindText^
+
+^QuickFindToolTip^Tastaţi pentru a căuta înregistrările şi apăsaţi Enter^QuickFindToolTip^
+
+^Recent^Recent^Recent^
+
+^Redo^Refaceți^Redo^
+
+^Refresh^Reîmprospăta^Refresh^
+
+^RememberMe^Tine-ma minte data viitoare^RememberMe^
+
+^RemoveCondition^Eliminaţi Stare^RemoveCondition^
+
+^RemoveFormat^Scoateți Format^RemoveFormat^
+
+^ReportActionDescription^Face un raport în format PDF^ReportActionDescription^
+
+^ReportActionHeaderText^Raport^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Vezi elementele dintr-o foaie de calcul Excel formatted<br/>Microsoft.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Foaie de calcul^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Vezi produsele ca o imagine cu mai multe pagini TIFF.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Multipage Image^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Vezi articole ca Adobe PDF document.<br/>Requires un cititor compatibil.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF Document^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Vizualizaţi elementelor dintr-un document Word formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Necesar^Required^
+
+^RequiredField^Acest câmp este obligatoriu.^RequiredField^
+
+^RequiredFiledMarkerFootNote^indică un câmp obligatoriu^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Resetare^ResetAdvancedSearch^
+
+^ResumeBrowsing^CV Navigare^ResumeBrowsing^
+
+^ResumeEditing^CV Editarea^ResumeEditing^
+
+^ResumeEntering^CV Introducerea^ResumeEntering^
+
+^ResumeLookup^CV Căutare^ResumeLookup^
+
+^ResumeViewing^CV Vizualizare^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Roluri^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Roti^Rotate^
+
+^RowCancelActionHeaderText^Anula^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Insera^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Salva^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Update?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Actualizare selecţie^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Salva^Save^
+
+^SaveAndNew^Salvaţi şi noi^SaveAndNew^
+
+^SeeAll^Vezi Toate^SeeAll^
+
+^SeeAlso^A se vedea de asemenea^SeeAlso^
+
+^SelectActionHeaderText^Selecta^SelectActionHeaderText^
+
+^SelectAll^Selectați Toate^SelectAll^
+
+^SelectLink^(Selectaţi)^SelectLink^
+
+^SelectToolTip^Selectaţi {0}^SelectToolTip^
+
+^Separator^Separator^Separator^
+
+^Settings^Setări^Settings^
+
+^ShowAdvancedSearch^Afişare Căutare avansată^ShowAdvancedSearch^
+
+^ShowingItems^Rezultate <b>{0}</b> <b>{1}</b>-de articole <b>{2}</b>^ShowingItems^
+
+^ShowingItemsInfo^Arătând {0} elemente.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Înscrieţi-vă acum^SignUpNow^
+
+^Simple^Simplu^Simple^
+
+^SiteActions^Acţiuni site^SiteActions^
+
+^Social^Social^Social^
+
+^Sort^Sorta^Sort^
+
+^SortBy^Sortaţi după {0}^SortBy^
+
+^SortByField^Selectați un câmp pentru a modifica ordinea de sortare de <b>{0}</b>.^SortByField^
+
+^SortByOptions^Selectați ordinea de sortare a <b>{0}</b> de câmpul <b>{1}</b> în lista de opțiuni de mai jos.^SortByOptions^
+
+^StrikeThrough^Străpunge^StrikeThrough^
+
+^StringSortAscending^Ascendent^StringSortAscending^
+
+^StringSortDescending^Descendent^StringSortDescending^
+
+^Subscript^Script Sub^Subscript^
+
+^Suggestions^Sugestii^Suggestions^
+
+^SumAggregate^Suma: {0}^SumAggregate^
+
+^SumAggregateToolTip^Suma de {0}^SumAggregateToolTip^
+
+^Summary^Rezumat^Summary^
+
+^Summer^Vară^Summer^
+
+^Superscript^Super-Script^Superscript^
+
+^TaskResume^Relua^TaskResume^
+
+^Tasks^Sarcini^Tasks^
+
+^Text^Text^Text^
+
+^TextFilterText^Text Filtre^TextFilterText^
+
+^Theme^Temă^Theme^
+
+^ThisMonth^Luna aceasta^ThisMonth^
+
+^ThisQuarter^Acest trimestru^ThisQuarter^
+
+^ThisWeek^Săptămâna aceasta^ThisWeek^
+
+^ThisYear^Anul acesta^ThisYear^
+
+^Today^Astăzi^Today^
+
+^Tomorrow^Mâine^Tomorrow^
+
+^ToThisWebsite^la acest site^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI nu este acceptat în acest browser.^TouchUINotSupported^
+
+^TransitionFade^Fade^TransitionFade^
+
+^TransitionFlip^Flip^TransitionFlip^
+
+^TransitionFlow^Flow^TransitionFlow^
+
+^TransitionNone^Nici unul^TransitionNone^
+
+^TransitionPop^Pop^TransitionPop^
+
+^Transitions^Treceri^Transitions^
+
+^TransitionSlide^Diapozitiv^TransitionSlide^
+
+^TransitionSlideDown^Slide Jos^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Viraj^TransitionTurn^
+
+^TreeActionDescription^Afişarea relaţiilor ierarhice.^TreeActionDescription^
+
+^TreeActionHeaderText^Arată Ierarhia^TreeActionHeaderText^
+
+^Underline^Sublinia^Underline^
+
+^Undo^Anula^Undo^
+
+^Undock^Detașați^Undock^
+
+^Unfreeze^Deblocare^Unfreeze^
+
+^UnLink^Anulare legătură^UnLink^
+
+^UnSelect^Deselectați^UnSelect^
+
+^UpdateActionHeaderText^Bine^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Update?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Actualizare selecţie^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Un nivel mai sus^UpOneLevel^
+
+^UseLEV^Lipire &quot;{0}&quot;^UseLEV^
+
+^UserName^Nume de utilizator^UserName^
+
+^UsersInRole^Utilizatorii din Rol^UsersInRole^
+
+^UsersTab^Utilizatori^UsersTab^
+
+^Vantage^Avantaj^Vantage^
+
+^Verdant^Verde^Verdant^
+
+^View^Vedere^View^
+
+^Viewpoint^Punct de vedere^Viewpoint^
+
+^Welcome1^Bun venit^Welcome1^
+
+^Welcome2^Astăzi este^Welcome2^
+
+^WhiteSmoke^Alb de fum^WhiteSmoke^
+
+^YearToDate^An la Data^YearToDate^
+
+^Yes^Da^Yes^
+
+^Yesterday^Ieri^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Măriți^ZoomIn^
+
+^ZoomOut^Micșora^ZoomOut^
+

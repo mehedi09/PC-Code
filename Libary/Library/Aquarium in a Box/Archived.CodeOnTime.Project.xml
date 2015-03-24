@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<project xmlns="http://www.codeontime.com/2008/code-generator"
+         xmlns:ontime="http://www.codeontime.com/2008/code-generator"
+         xmlns:a="urn:schemas-codeontime-com:data-aquarium-project"
+         xmlns:c="urn:schemas-codeontime-com:data-aquarium"
+				 xmlns:config="http://www.codeontime.com/2008/codedom-configuration"
+				 xmlns:vsproj="http://schemas.microsoft.com/developer/msbuild/2003"
+         debug="false"
+>
+	<information>
+		<product>COT200811-AB</product>
+		<title>Aquarium in a Box</title>
+		<description>Create a Data Aquarium Framework application in a form of a Class Library. The library can be used with web application projects. Requires a subscription.</description>
+		<vendor>Code OnTime LLC</vendor>
+		<website>http://www.codeontime.com</website>
+		<about>http://www.codeontime.com/productsdaf.aspx</about>
+		<demo>http://dev.codeontime.com/demo/nwblob</demo>
+	</information>
+	<build>
+		<!-- load entire project output file/folder tree -->
+		<load path="$ProjectPath">
+			<if test="not(file/@name='DataAquarium.Project.xml')">
+				<copy input="$LibraryRoot\Data Aquarium\DataAquarium.Project.xml" output="DataAquarium.Project.xml"/>
+			</if>
+		</load>
+		<navigate url="..\Data Aquarium\DataAquarium.Start.htm?webServer=false&amp;splash=ClassLibrary"/>
+		<load path="DataAquarium.Project.xml">
+			<variable name="ConnectionString" select="a:project/a:connectionString"/>
+			<variable name="ProviderName" select="a:project/a:providerName"/>
+			<load path="$ProjectPath">
+				<if test="not(file/@name='DataAquarium.Metadata.xml')">
+					<execute fileName="CodeOnTime.exe" arguments="/connectionString:&quot;$ConnectionString&quot; /providerName:&quot;$ProviderName&quot; /output:&quot;$ProjectPath\DataAquarium.Metadata.xml&quot;" mode="wait"/>
+				</if>
+			</load>
+		</load>
+		<retract path="Error.DataAquarium.Metadata.xml" test="ontime:error!=''" steps="2"/>
+		<!-- convert project data model in the Data Aquarium controller collection -->
+		<load path="DataAquarium.Project.xml">
+			<variable name="ReportsEnabled" select="a:project/a:reports/@enabled"/>
+			<variable name="BLL_DiscoveryDepth" select="a:project/a:bll/@discoveryDepth"/>
+			<variable name="BLL_FieldMap" select="a:project/a:bll/a:fieldMap"/>
+			<variable name="BLL_Keys" select="a:project/a:bll/a:keys"/>
+			<variable name="BLL_FieldsToIgnore" select="a:project/a:bll/a:fieldsToIgnore"/>
+			<variable name="BLL_FieldsToHide" select="a:project/a:bll/a:fieldsToHide"/>
+			<variable name="BLL_CustomLabels" select="a:project/a:bll/a:customLabels"/>
+      <variable name="DatabaseObjectFilter" select="a:project/a:databaseObjectFilter"/>
+      <variable name="BLL_LabelFormatExpression" select="a:project/a:bll/@labelFormatExpression"/>
+      <variable name="BLL_IncludeViews" select="a:project/a:bll/@includeViews"/>
+    </load>
+		<!-- load meta data produced by the import process in the previous step and convert it into the standardized project data model -->
+		<load path="DataAquarium.Metadata.xml">
+			<transform template="$LibraryRoot\_System\DataModel.xslt" output="DataModel.xml">
+				<param name="Keys" select="$BLL_Keys"/>
+        <param name="IncludeViews" select="$BLL_IncludeViews"/>
+        <param name="DatabaseObjectFilter" select="$DatabaseObjectFilter"/>
+      </transform>
+		</load>
+		<load path="DataModel.xml">
+			<transform template="$LibraryRoot\_System\BusinessObjects.xslt" output="Controllers.xml">
+				<param name="AllowBlobSupport" select="'true'"/>
+				<param name="DiscoveryDepth" select="$BLL_DiscoveryDepth"/>
+				<param name="FieldMap" select="$BLL_FieldMap"/>
+				<param name="LabelFormatExpression" select="$BLL_LabelFormatExpression"/>
+				<param name="FieldsToIgnore" select="$BLL_FieldsToIgnore"/>
+				<param name="FieldsToHide" select="$BLL_FieldsToHide"/>
+				<param name="CustomLabels" select="$BLL_CustomLabels"/>
+			</transform>
+		</load>
+		<load path="Controllers.xml">
+			<copy output="RawControllers.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\DataAquarium.xslt" output="Controllers.xml">
+				<param name="ReportsEnabled" select="$ReportsEnabled"/>
+			</transform>
+		</load>
+		<navigate url="..\Data Aquarium\DataAquarium.Controllers.htm"/>
+		<retract path="DataAquarium.Project.xml" test="$NextStep!='Generate'" steps="8"/>
+		<!-- create a backup of the project source code -->
+		<message text="backup the previous version of the project"/>
+		<load path="$ProjectPath">
+			<forEach select="//file">
+				<copy input="$ProjectPath\{@path}" output="$BackupPath\{@path}"/>
+			</forEach>
+		</load>
+		<message text="end backup"/>
+		<load path="$LibraryRoot\_Config\CodeOnTime.CodeDom.xml">
+			<variable name="CodedomProviderName" select="/config:configuration/config:providers/@default"/>
+			<variable name="ProjectExtension" select="concat(substring-after(/config:configuration/config:providers/config:provider[@name=/config:configuration/config:providers/@default]/@extension, '.'), 'proj')"/>
+		</load>
+		<load path="DataAquarium.Project.xml">
+			<variable name="Namespace" select="a:project/a:namespace"/>
+			<variable name="BLL_Generate" select="a:project/a:bll/@generate"/>
+			<variable name="BLL_SelectMethod" select="a:project/a:bll/@selectMethod"/>
+			<variable name="BLL_SelectSingleMethod" select="a:project/a:bll/@selectSingleMethod"/>
+			<variable name="BLL_InsertMethod" select="a:project/a:bll/@insertMethod"/>
+			<variable name="BLL_UpdateMethod" select="a:project/a:bll/@updateMethod"/>
+			<variable name="BLL_DeleteMethod" select="a:project/a:bll/@deleteMethod"/>
+      <variable name="MembershipEnabled" select="a:project/a:membership/@enabled"/>
+			<variable name="Theme" select="a:project/a:theme/@name"/>
+			<variable name="ThemeInput" select="'$LibraryRoot\Data Aquarium\_App_Themes\$Theme'"/>
+			<variable name="ThemeOutput" select="'$ProjectPath\$Namespace\Theme'"/>
+			<!-- copy "Scripts" files-->
+			<load path="$LibraryRoot\Data Aquarium\Scripts">
+				<forEach select="//file[@name !='Web.Membership.js' and @name != 'Web.MembershipManager.js' and @name != 'Web.MembershipResources.js']">
+					<copy input="$LibraryRoot\Data Aquarium\Scripts\{@path}" output="$Namespace\Scripts\{@path}"/>
+				</forEach>
+			</load>
+			<if test="$ReportsEnabled='true'">
+				<load path="$LibraryRoot\Data Aquarium\Reports">
+					<forEach select="//file">
+						<copy input="$LibraryRoot\Data Aquarium\Reports\{@path}" output="$Namespace\Reports\{@path}"/>
+					</forEach>
+				</load>
+			</if>
+			<!-- delete any previous themes -->
+			<load path="$LibraryRoot\Data Aquarium\_App_Themes">
+				<forEach select="folder">
+					<delete path="$Namespace\Theme\{@name}.css"/>
+				</forEach>
+			</load>
+			<!-- copy shared theme and target theme in the App_Themes folder -->
+			<load path="$LibraryRoot\Data Aquarium\_App_Themes\_Shared">
+				<forEach select="//file[@name!='Membership.css']">
+					<copy input="$LibraryRoot\Data Aquarium\_App_Themes\_Shared\{@path}" output="$Namespace\Theme\{@path}"/>
+				</forEach>
+			</load>
+			<load path="$ThemeInput">
+				<forEach select="//file[not(contains(@name, '.css'))]">
+					<copy input="$ThemeInput\{@path}" output="$Namespace\Theme\{@path}"/>
+				</forEach>
+			</load>
+			<!-- alter default theme -->
+			<copy input="$ProjectPath\$Namespace\Theme\Core.css" output="$Namespace\Theme\$Theme.css"/>
+			<if test="$MembershipEnabled='true'">
+				<copy input="$LibraryRoot\Data Aquarium\_App_Themes\_Shared\Membership.css" output="$Namespace\Theme\$Theme.css" mode="append"/>
+			</if>
+			<copy input="$ThemeInput\$Theme.css" output="$Namespace\Theme\$Theme.css" mode="append">
+				<regex pattern="@import .+?;\s+" replacement=""/>
+				<regex pattern="url\s*\((.+?)\)" replacement="url(&lt;%= WebResource(&quot;DAF.Theme.$1&quot;) %&gt;)"/>
+			</copy>
+			<delete path="$ProjectPath\$Namespace\Theme\Core.css"/>
+			<!-- generate AssemblyInfo with web resources -->
+			<load path="$ProjectPath\$Namespace\Theme">
+				<transform template="AssemblyInfo.codedom.xslt" output="$Namespace\AssemblyInfo.codedom.xml">
+					<param name="Namespace" select="$Namespace"/>
+					<param name="ProjectPath" select="$ProjectPath"/>
+					<param name="MembershipEnabled" select="$MembershipEnabled"/>
+					<param name="Theme" select="$Theme"/>
+				</transform>
+			</load>
+			<!-- Generate "Data" folder -->
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\ActionHandlerBase.codedom.xslt" output="$Namespace\Data\ActionHandlerBase.codedom.xml" when="TemplateChanged" usage="ClassLibrary" dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\BusinessRules.codedom.xslt" output="$Namespace\Data\BusinessRules.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\AquariumExtenderBase.codedom.xslt" output="$Namespace\Web\AquariumExtenderBase.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml">
+				<param name="IsClassLibrary" select="'true'"/>
+				<param name="Theme" select="$Theme"/>
+			</transform>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\Controller.codedom.xslt" output="$Namespace\Data\Controller.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\DataField.codedom.xslt" output="$Namespace\Data\DataField.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\Action.codedom.xslt" output="$Namespace\Data\Action.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\ActionGroup.codedom.xslt" output="$Namespace\Data\ActionGroup.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\FieldValue.codedom.xslt" output="$Namespace\Data\FieldValue.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\View.codedom.xslt" output="$Namespace\Data\View.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\Category.codedom.xslt" output="$Namespace\Data\Category.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\ViewPage.codedom.xslt" output="$Namespace\Data\ViewPage.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\ActionArgs.codedom.xslt" output="$Namespace\Data\ActionArgs.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\ActionResult.codedom.xslt" output="$Namespace\Data\ActionResult.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\PageRequest.codedom.xslt" output="$Namespace\Data\PageRequest.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\DistinctValueRequest.codedom.xslt" output="$Namespace\Data\DistinctValueRequest.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\Common.codedom.xslt" output="$Namespace\Data\Common.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\ControllerConfiguration.codedom.xslt" output="$Namespace\Data\ControllerConfiguration.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\DynamicExpression.codedom.xslt" output="$Namespace\Data\DynamicExpression.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+      <transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\Transactions.codedom.xslt" output="$Namespace\Data\Transactions.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml" />
+      <transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\FilterFunctions.codedom.xslt" output="$Namespace\Data\FilterFunctions.codedom.xml" when="TemplateChanged" dependencies="DataAquarium.Project.xml" />
+      <transform template="$LibraryRoot\_Shared\DataAccess.codedom.xslt" output="$Namespace\Data\DataAccess.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+      <!-- Generate "Web" folder -->
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\DataViewExtender.codedom.xslt" output="$Namespace\Web\DataViewExtender.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml">
+				<param name="IsClassLibrary" select="'true'"/>
+			</transform>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\DataViewLookup.codedom.xslt" output="$Namespace\Web\DataViewLookup.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\DataViewTextBox.codedom.xslt" output="$Namespace\Web\DataViewTextBox.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml">
+				<param name="IsClassLibrary" select="'true'"/>
+			</transform>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\ControllerDataSource.codedom.xslt" output="$Namespace\Web\ControllerDataSource.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\ControllerDataSourceDesign.codedom.xslt" output="$Namespace\Web\ControllerDataSourceDesign.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<!-- generate "Services" folder -->
+			<transform template="$LibraryRoot\Data Aquarium\_App_Code\Services\DataControllerService.codedom.xslt" output="$Namespace\Services\DataControllerService.codedom.xml" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml"/>
+			<!-- Generate web.config for SampleWebApp -->
+			<transform template="$LibraryRoot\Data Aquarium\web.config.xslt" output="SampleWebApp\web.config" when="TemplateChanged" usage="ClassLibrary"  dependencies="DataAquarium.Project.xml">
+				<param name="Namespace" select="$Namespace"/>
+				<param name="IsClassLibrary" select="'true'"/>
+				<param name="MembershipEnabled" select="$MembershipEnabled"/>
+				<param name="ReportsEnabled" select="$ReportsEnabled"/>
+			</transform>
+			<load path="$LibraryRoot\Data Aquarium\Help">
+				<forEach select="//file[not(@name='MasterDetail.aspx' or @name='Lookups.aspx' or @name='Details.aspx')]">
+					<copy input="$LibraryRoot\Data Aquarium\Help\{@path}" output="SampleWebApp\Help\{@path}"/>
+				</forEach>
+			</load>
+		</load>
+		<copy input="$LibraryRoot\_Schemas\DataAquarium.xsd" output="$Namespace\Controllers\DataAquarium.xsd"/>
+		<!--
+    <copy input="Web.sitemap" output="Web.sitemap"/>
+		-->
+		<load path="Controllers.xml" useLog="true">
+			<!-- Create SampleWebApp web application project-->
+			<transform template="Default.aspx.1.xslt" output="SampleWebApp\Default.aspx.1">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+			<transform template="Default.aspx.2.xslt" output="SampleWebApp\Default.aspx.2">
+				<param name="Namespace" select="$Namespace"/>
+				<param name="MembershipEnabled" select="$MembershipEnabled"/>
+			</transform>
+			<transform template="Service.asmx.xslt" output="SampleWebApp\DAF\Service.asmx">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+
+			<forEach select="/c:dataControllerCollection/c:dataController[not(@generate='false')]">
+				<copy output="$Namespace\Controllers\{@name}.xml">
+					<regex pattern="&lt;text&gt;(?=[\r\n])([\s\S]*?)&lt;/text&gt;" replacement="&lt;text&gt;&lt;![CDATA[$1]]&gt;&lt;/text&gt;"/>
+				</copy>
+				<if test="$BLL_Generate='true'">
+					<transform template="$LibraryRoot\Data Aquarium\_App_Code\Data\Objects\Object.codedom.xslt" output="$Namespace\Data\Objects\{@name}.codedom.xml">
+						<param name="Namespace" select="$Namespace"/>
+						<param name="SelectMethod" select="$BLL_SelectMethod"/>
+						<param name="SelectSingleMethod" select="$BLL_SelectSingleMethod"/>
+						<param name="InsertMethod" select="$BLL_InsertMethod"/>
+						<param name="UpdateMethod" select="$BLL_UpdateMethod"/>
+						<param name="DeleteMethod" select="$BLL_DeleteMethod"/>
+					</transform>
+				</if>
+			</forEach>
+			<if test="$MembershipEnabled='true'">
+				<copy input="$LibraryRoot\Data Aquarium\_App_Themes\Aquarium\Membership.css" output="$Namespace\Theme\Membership.css">
+					<regex pattern="url\s*\((.+?)\)" replacement="url(&lt;%= WebResource(&quot;DAF.Theme.$1&quot;) %&gt;)"/>
+				</copy>
+				<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\MembershipBarExtender.codedom.xslt" output="$Namespace\Web\MembershipBarExtender.codedom.xml">
+					<param name="Namespace" select="$Namespace"/>
+					<param name="IsClassLibrary" select="'true'"/>
+					<param name="Theme" select="$Theme"/>
+				</transform>
+				<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\MembershipBar.codedom.xslt" output="$Namespace\Web\MembershipBar.codedom.xml">
+					<param name="Namespace" select="$Namespace"/>
+					<param name="IsClassLibrary" select="'true'"/>
+				</transform>
+				<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\MembershipManagerExtender.codedom.xslt" output="$Namespace\Web\MembershipManagerExtender.codedom.xml">
+					<param name="Namespace" select="$Namespace"/>
+					<param name="IsClassLibrary" select="'true'"/>
+					<param name="Theme" select="$Theme"/>
+				</transform>
+				<transform template="$LibraryRoot\Data Aquarium\_App_Code\Web\MembershipManager.codedom.xslt" output="$Namespace\Web\MembershipManager.codedom.xml">
+					<param name="Namespace" select="$Namespace"/>
+					<param name="IsClassLibrary" select="'true'"/>
+				</transform>
+				<transform template="$LibraryRoot\Data Aquarium\_App_Code\Security\MembershipBusinessRules.codedom.xslt" output="$Namespace\Security\MembershipBusinessRules.codedom.xml">
+					<param name="Namespace" select="$Namespace"/>
+				</transform>
+				<load path="$LibraryRoot\Data Aquarium\Controllers\aspnet_Membership.xml">
+					<transform template="$LibraryRoot\Data Aquarium\Controllers\MembershipControllerBuilder.xslt" output="$Namespace\Controllers\aspnet_Membership.xml">
+						<param name="Namespace" select="$Namespace"/>
+					</transform>
+				</load>
+				<load path="$LibraryRoot\Data Aquarium\Controllers\aspnet_Roles.xml">
+					<transform template="$LibraryRoot\Data Aquarium\Controllers\MembershipControllerBuilder.xslt" output="$Namespace\Controllers\aspnet_Roles.xml">
+						<param name="Namespace" select="$Namespace"/>
+					</transform>
+				</load>
+				<copy input="$LibraryRoot\Data Aquarium\Scripts\Web.Membership.js" output="$Namespace\Scripts\Web.Membership.js" />
+				<copy input="$LibraryRoot\Data Aquarium\Scripts\Web.MembershipManager.js" output="$Namespace\Scripts\Web.MembershipManager.js" />
+				<copy input="$LibraryRoot\Data Aquarium\Scripts\Web.MembershipResources.js" output="$Namespace\Scripts\Web.MembershipResources.js" />
+				<transform template="$LibraryRoot\Data Aquarium\Global.asax.1.xslt" output="SampleWebApp\Global.asax.1">
+					<param name="Namespace" select="$Namespace"/>
+				</transform>
+				<transform template="$LibraryRoot\Data Aquarium\Global.asax.2.xslt" output="SampleWebApp\Global.asax.2">
+					<param name="Namespace" select="$Namespace"/>
+				</transform>
+				<copy input="$ProjectPath\SampleWebApp\Global.asax" output="SampleWebApp\Global.asax">
+					<regex pattern="\)\s+Handles\s+.+?\r" replacement=")&#13;"/>
+				</copy>
+				<transform template="Membership.aspx.1.xslt" output="SampleWebApp\Membership.aspx.1">
+					<param name="Namespace" select="$Namespace"/>
+				</transform>
+				<transform template="Membership.aspx.2.xslt" output="SampleWebApp\Membership.aspx.2">
+					<param name="Namespace" select="$Namespace"/>
+				</transform>
+			</if>
+			<if test="$ReportsEnabled='true'">
+				<transform template="$LibraryRoot\Data Aquarium\Report.ashx.codedom.xslt" output="$Namespace\Handlers\Report.codedom.xml" usage="ClassLibrary">
+					<param name="Namespace" select="$Namespace"/>
+				</transform>
+			</if>
+		</load>
+		<!-- copy Ajax Control Toolkit to the project folder -->
+		<load path="$LibraryRoot\_AjaxControlToolkit">
+			<forEach select="//file">
+				<copy input="$LibraryRoot\_AjaxControlToolkit\{@path}" output="AjaxControlToolkit\{@path}"/>
+			</forEach>
+		</load>
+		<load path="RawControllers.xml">
+			<!-- create ScriptHost and Export handlers (ignores RawControllers.xml) -->
+			<transform template="$LibraryRoot\Data Aquarium\ScriptHost.ashx.codedom.xslt" output="$Namespace\Handlers\ScriptHost.codedom.xml" usage="ClassLibrary">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+			<transform template="$LibraryRoot\Data Aquarium\Export.ashx.codedom.xslt" output="$Namespace\Handlers\Export.codedom.xml" usage="ClassLibrary">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+			<transform template="$LibraryRoot\Data Aquarium\Export.ashx.codedom.xslt" output="$Namespace\Handlers\Export.codedom.xml" usage="ClassLibrary">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+			<transform template="$LibraryRoot\Data Aquarium\Details.aspx.codedom.xslt" output="$Namespace\Handlers\Details.codedom.xml" usage="ClassLibrary">
+				<param name="Namespace" select="$Namespace"/>
+				<param name="IsClassLibrary" select="'true'"/>
+			</transform>
+			<!-- create blob handler (uses RawControllers.xml)-->
+			<transform template="$LibraryRoot\Data Aquarium\Blob.ashx.codedom.xslt" output="$Namespace\Handlers\Blob.codedom.xml" usage="ClassLibrary">
+				<param name="Namespace" select="$Namespace"/>
+			</transform>
+		</load>
+		<load path="$ProjectPath">
+			<!-- delete all .codedom.xml files -->
+			<forEach select="//file[contains(@name, '.codedom.xml')]">
+				<delete path="{@path}"/>
+			</forEach>
+			<!-- merge Blob files -->
+			<variable name="BlobSource" select="//file[starts-with(@name, 'Blob.') and not(contains(@name,'codedom'))]/@path"/>
+			<copy input="$ProjectPath\$BlobSource" output="$BlobSource">
+				<regex pattern="([^\x0d\S])(\x0a)" replacement="$1&#13;$2"/>
+				<regex pattern="&quot;&amp;\s+_\s+&quot;" replacement=""/>
+				<regex pattern="&quot;&amp;Global\.Microsoft\.VisualBasic\.ChrW\(10\)&amp;&quot;" replacement="&quot;&amp; _&#13;&#10;&#9;&#9;&#9;&quot;"/>
+			</copy>
+			<!--<delete path="$BlobSource"/>-->
+		</load>
+		<!-- create Class Library project file-->
+		<load path="$LibraryRoot\_Config\CodeOnTime.CodeDom.xml">
+			<variable name="CodedomProviderName" select="/config:configuration/config:providers/@default"/>
+			<choose>
+				<when test="$CodedomProviderName='CSharp'">
+					<copy input="$ProjectPath\$Namespace\AssemblyInfo.cs" output="$Namespace\Properties\AssemblyInfo.cs">
+						<regex pattern="\[" replacement="[assembly: "/>
+						<regex pattern="public class[\s\S]*$" replacement=""/>
+					</copy>
+					<delete path="$ProjectPath\$Namespace\AssemblyInfo.cs"/>
+				</when>
+				<otherwise>
+					<copy input="$ProjectPath\$Namespace\AssemblyInfo.vb" output="$Namespace\My Project\AssemblyInfo.vb">
+						<regex pattern="(WebResource\(&quot;\w+\.)\w+\." replacement="$1"/>
+						<regex pattern="&lt;([\s\S]+)&gt;" replacement=" $1,"/>
+						<regex pattern="Public[\s\S]+End Class" replacement=""/>
+						<regex pattern="\s(\w+\(.+?\)),\s+_" replacement="&lt;Assembly: $1&gt;"/>
+					</copy>
+					<delete path="$ProjectPath\$Namespace\AssemblyInfo.vb"/>
+					<load path="$ProjectPath\$Namespace">
+            <!--<forEach select="//file[(contains(@name, '.vb') or contains(@name,'.css')) and (@name!='AssemblyInfo.vb')]">
+              <copy input="$ProjectPath\$Namespace\{@path}" output="$Namespace\{@path}">
+                <regex pattern="Namespace\s+\w+\." replacement="Namespace "/>
+                <regex pattern="(\w+)\.(\w+)\.(.+?)\.(js|css|gif|jpeg|jpg)" replacement="$1.$3.$4"/>
+              </copy>
+            </forEach>-->
+            <forEach select="//file[contains(@name,'.css')]">
+              <copy input="$ProjectPath\$Namespace\{@path}" output="$Namespace\{@path}">
+                <regex pattern="Namespace\s+\w+\." replacement="Namespace "/>
+                <regex pattern="(\w+)\.(\w+)\.(.+?)\.(js|css|gif|jpeg|jpg)" replacement="$1.$3.$4"/>
+              </copy>
+            </forEach>
+          </load>
+				</otherwise>
+			</choose>
+		</load>
+		<!-- create a project file for "Aquarium in a Box" class library-->
+		<load path="$ProjectPath\$Namespace">
+			<transform template="VisualStudioProject.xslt" output="$Namespace\$Namespace.$ProjectExtension">
+				<param name="ProjectName" select="$Namespace"/>
+				<param name="CodedomProviderName" select="$CodedomProviderName"/>
+				<param name="ReportsEnabled" select="$ReportsEnabled"/>
+			</transform>
+		</load>
+		<!-- create a project file for SampleWebApp -->
+		<load path="$Namespace\$Namespace.$ProjectExtension">
+			<variable name="ProjectGuid" select="//vsproj:ProjectGuid"/>
+		</load>
+		<load path="$ProjectPath\SampleWebApp">
+			<transform template="VisualStudioProject.xslt" output="SampleWebApp\SampleWebApp.$ProjectExtension">
+				<param name="ProjectName" select="'SampleWebApp'"/>
+				<param name="ProjectExtension" select="$ProjectExtension"/>
+				<param name="CodedomProviderName" select="$CodedomProviderName"/>
+				<param name="Reference1" select="$Namespace"/>
+				<param name="Reference1Guid" select="$ProjectGuid"/>
+			</transform>
+		</load>
+		<!-- create a solution file -->
+		<load path="SampleWebApp\SampleWebApp.$ProjectExtension">
+			<variable name="SampleWebAppGuid" select="//vsproj:ProjectGuid"/>
+		</load>
+		<load path="DataAquarium.Project.xml">
+			<transform template="Solution.sln.xslt" output="$Namespace.sln">
+				<param name="Namespace" select="$Namespace"/>
+				<param name="ProjectExtension" select="$ProjectExtension"/>
+				<param name="ProjectGuid" select="$ProjectGuid"/>
+				<param name="SampleWebAppGuid" select="$SampleWebAppGuid"/>
+			</transform>
+		</load>
+		<!-- delete temprorary files -->
+		<delete path="DataModel.xml"/>
+		<delete path="Controllers.xml"/>
+		<delete path="RawControllers.xml"/>
+	</build>
+	<actions>
+		<action name="develop" toolTip="Open &quot;{0}&quot; in Visual Studio to customize project.">
+			<load path="DataAquarium.Project.xml">
+				<execute fileName="file://$ProjectPath\{a:project/a:namespace}.sln" arguments="" mode="nowait"/>
+			</load>
+		</action>
+	</actions>
+</project>

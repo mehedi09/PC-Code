@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Informazioni su^About^
+
+^ActionBarActionsHeaderText^Azioni^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Annullare^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Annullare tutte le modifiche del record.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Annulla nuovo record.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Salva nuovo record nel database.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Salvare^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Creare un nuovo record {0}.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Nuovo {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Nuovo^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Record^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Report^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Salva le modifiche nel database.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Salvare^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Aggiungi condizione^AddCondition^
+
+^AddConditionText^Aggiungi condizione di ricerca^AddConditionText^
+
+^AddMatchingGroup^Aggiungi gruppo di corrispondenza^AddMatchingGroup^
+
+^AddSearchBarField^Aggiungi campi di ricerca^AddSearchBarField^
+
+^AddToFavorites^Aggiungi ai Preferiti^AddToFavorites^
+
+^AdvancedSearch^Ricerca Avanzata^AdvancedSearch^
+
+^After^Dopo^After^
+
+^AlignedLeft^Allineato a sinistra^AlignedLeft^
+
+^AlignedRight^Allineato a destra^AlignedRight^
+
+^AllDatesInPreriod^Tutte le date nel periodo^AllDatesInPreriod^
+
+^AlternativeView^Seleziona una visione alternativa dei dati.^AlternativeView^
+
+^Always^Sempre^Always^
+
+^Apply^Applicare^Apply^
+
+^Aquarium^Acquario^Aquarium^
+
+^AvgAggregate^Media: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Media di {0}^AvgAggregateToolTip^
+
+^Azure^Azzurro^Azure^
+
+^Back^Indietro^Back^
+
+^BackColor^Colore posteriore^BackColor^
+
+^BatchEditActionHeaderText^Batch Edit^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Batch Edit (Form)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^aggiornare^BatchUpdate^
+
+^Before^Prima^Before^
+
+^BeginsWith^Inizia con^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Bacca^Berry^
+
+^Between^Tra^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Il campo Possword non può essere vuoto.^BlankPassword^
+
+^BlankUserName^Il nome utente non può essere vuoto.^BlankUserName^
+
+^BlankValue^(Vuoto)^BlankValue^
+
+^BlobDownloadHint^Clicca qui per scaricare il file originale.^BlobDownloadHint^
+
+^BlobDownloadLink^Scaricare^BlobDownloadLink^
+
+^Bold^Grassetto^Bold^
+
+^BooleanFilterText^Filtro logico^BooleanFilterText^
+
+^BooleanIsExpected^ E’ previsto un valore logico.^BooleanIsExpected^
+
+^ButtonShapes^La forma dei pulsanti^ButtonShapes^
+
+^Calendar^Calendario^Calendar^
+
+^Cancel^Annullare^Cancel^
+
+^Cards^Carte^Cards^
+
+^Cay^Banco di sabbia^Cay^
+
+^ChangeYourLanguage^Cambiare la lingua^ChangeYourLanguage^
+
+^Citrus^Agrume^Citrus^
+
+^Classic^Classico^Classic^
+
+^ClearFilter^Azzera Filtro {0}^ClearFilter^
+
+^ClearText^Con testo in chiaro^ClearText^
+
+^ClearToolTip^ Azzera  {0} ^ClearToolTip^
+
+^Close^Chiudere^Close^
+
+^Comfortable^Confortevole^Comfortable^
+
+^Compact^Compatto^Compact^
+
+^Condensed^Condensato^Condensed^
+
+^ConfirmReload^Ricarica?^ConfirmReload^
+
+^ConnectionLost^È stata persa la connessione di rete. Riprovare?^ConnectionLost^
+
+^Construct^Costruire^Construct^
+
+^Contains^Contiene^Contains^
+
+^Convention^Convenzione^Convention^
+
+^Copy^Copiare^Copy^
+
+^CountAggregate^Totale: {0}^CountAggregate^
+
+^CountAggregateToolTip^Totale di {0}^CountAggregateToolTip^
+
+^CreateLink^Crea collegamento^CreateLink^
+
+^CustomFilterOption^Filtro ...^CustomFilterOption^
+
+^Cut^Tagliare^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Buio^DarkTheme^
+
+^DataSheetActionDescription^Visualizzare i records come <br/>foglio elettronico.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Mostrare nel foglio elettronico^DataSheetActionHeaderText^
+
+^Date^Data^Date^
+
+^DateFilterText^Filtro Data^DateFilterText^
+
+^DateIsExpected^E’ prevista una data.^DateIsExpected^
+
+^DateSortAscending^Primi in primo piano^DateSortAscending^
+
+^DateSortDescending^Ultimi in primo piano^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Chiudere^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Vi preghiamo di compilare questo modulo e fare clic sul pulsante OK per creare un nuovo record {0}. Fare clic su Annulla per tornare alla schermata precedente.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Questi sono i campi del record {0} che possono essere modificati.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Si prega di esaminare le informazioni {0} di seguito. Fare clic su Modifica per cambiare questo record, fare clic su Elimina per eliminare il record, o su Annulla / Chiudi per tornare indietro.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Questa è una lista di {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Compilare il modulo. Assicurati di inserire tutti i campi richiesti.^DefaultNewDescription^
+
+^DefaultOption^Standard^DefaultOption^
+
+^DefaultReferenceDescription^Ulteriori dettagli su {0} sono disponibili nella sezione Informazioni.^DefaultReferenceDescription^
+
+^Delete^Cancella^Delete^
+
+^DeleteActionConfirmation^Eliminare?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Cancellare^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Cancellare)^DeleteSearchBarField^
+
+^DetailsToolTip^Visualizzare i dettagli di {0}^DetailsToolTip^
+
+^Directions^Indicazioni^Directions^
+
+^DisplayDensity^Visualizzazione Densità^DisplayDensity^
+
+^DisplayedAbove^Visualizzato Sopra^DisplayedAbove^
+
+^DisplayedBelow^Visualizzati sotto^DisplayedBelow^
+
+^Dock^Attraccare^Dock^
+
+^DoesNotBeginWith^Non inizia con^DoesNotBeginWith^
+
+^DoesNotContain^Non contiene^DoesNotContain^
+
+^DoesNotEndWith^Non finisce per^DoesNotEndWith^
+
+^DoesNotEqual^Non è uguale^DoesNotEqual^
+
+^DoesNotInclude^Non include^DoesNotInclude^
+
+^DoNotMatchAll^Non soddisfano tutte le condizioni^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Non ha prodotto tutte le condizioni^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Non corrispondere alcuna condizione^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Non è stato trovato nessun condizioni^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Duplicare^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Modifica^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Annullare^EditModeCancelActionHeaderText^
+
+^EmptyContext^Le azioni non sono disponibili.^EmptyContext^
+
+^EmptyValue^(Vuoto)^EmptyValue^
+
+^EndsWith^Finisce con^EndsWith^
+
+^Equals^È uguale^Equals^
+
+^ExportCsvActionDescription^Download in formato CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Scarica^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analizzare con <br/>foglio elettronico.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Esporta in foglio di calcolo^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Sincronizza con un lettore RSS.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Visualizza RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Preferiti^Favorites^
+
+^Felt^Feltro^Felt^
+
+^Filter^Filtro^Filter^
+
+^FilterApplied^E’ stato applicato un filtro.^FilterApplied^
+
+^FilterByField^Selezionare un campo per applicare un filtro a <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Selezionare una o più opzioni nella lista qui sotto e premere <b>{2}</b> per filtrare <b>{0}</b> dal campo <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^e^FilterLabelAnd^
+
+^FilterLabelClear^Azzera^FilterLabelClear^
+
+^FilterLabelEquals^è uguale^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Cambiare^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^comprende^FilterLabelIncludes^
+
+^FilterLabelOr^o^FilterLabelOr^
+
+^FilterLabelSelectAll^(Seleziona tutto)^FilterLabelSelectAll^
+
+^FilterSiteMap^Mappa del sito Filter ...^FilterSiteMap^
+
+^FlatTreeToggle^Passa a modalita’ Gerarchica^FlatTreeToggle^
+
+^FontName^Nome font^FontName^
+
+^FontSize^Dimensione carattere^FontSize^
+
+^ForeColor^Colore primo piano^ForeColor^
+
+^ForgotYourPassword^Dimenticato la password?^ForgotYourPassword^
+
+^Freeze^Congela^Freeze^
+
+^Future^Futuro^Future^
+
+^GeneralTabText^Generale^GeneralTabText^
+
+^GenericNewToolTip^Crea nuovo^GenericNewToolTip^
+
+^GenericSortAscending^Il più piccolo in primo piano^GenericSortAscending^
+
+^GenericSortDescending^Il Più grande in primo piano^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Granito^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Gravità^Gravity^
+
+^GreaterThan^Maggiore di^GreaterThan^
+
+^Grid^Griglia^Grid^
+
+^GridActionDescription^Visualizzare gli elementi in formato standard<br/>list.^GridActionDescription^
+
+^GridActionHeaderText^Mostra in visualizzazione standard^GridActionHeaderText^
+
+^Help^Aiuto^Help^
+
+^HelpClose^Chiudere^HelpClose^
+
+^HelpFullScreen^Schermo intero^HelpFullScreen^
+
+^HideAdvancedSearch^Nascondi Ricerca avanzata^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Passa ad un elenco non gerarchico^HierarchyTreeModeToggle^
+
+^History^Storia^History^
+
+^HistoryToolTip^Vedere la storia dei record precedentemente selezionati^HistoryToolTip^
+
+^HistoryUnavailable^La storia non è disponibile.^HistoryUnavailable^
+
+^Home^Casa^Home^
+
+^IdleUser^Sei ancora lì? Effettua il login di nuovo.^IdleUser^
+
+^ImportActionDescription^Carica un file CSV, XLS, XLSX file <br/>per importare i records.^ImportActionDescription^
+
+^ImportActionHeaderText^Import da file^ImportActionHeaderText^
+
+^ImportAutoDetect^(Rilevazione automatica)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Scaricare il file modello di importazione.^ImportDownloadTemplate^
+
+^ImportEmail^Inviare il log di import per i seguenti indirizzi email (opzionale)^ImportEmail^
+
+^ImportEmailNotSpecified^Il recipiente del registro di importazione non è stato specificato. Procedere comunque?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Ci sono <b>{0}</b> record nel <b>{1}</b> file pronti per essere processati.<br/>Per favore mappare i campi da importare dal file con i campi dell’ applicazione e cliccare <i>Import</i> per avviare l'elaborazione.^ImportMappingInstruction^
+
+^ImportProcessing^La elaborazione del file di Import è stata avviata. I record importati saranno disponibili al momento della conclusione con successo dell’ elaborazione. Potrebbe essere necessario aggiornare le pagine per vedere i record importati.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Il file viene caricato sul server. Attendere prego ...^ImportUploading^
+
+^ImportUploadInstruction^Si prega di selezionare il file da caricare. Il file deve essere in formato <b>CSV</b>, <b>XLS</b>, o <b>XLSX</b>.^ImportUploadInstruction^
+
+^In^in^In^
+
+^Includes^Include^Includes^
+
+^Indent^Trattino^Indent^
+
+^InfoBarAnd^e^InfoBarAnd^
+
+^InfoBarEmpty^vuoto^InfoBarEmpty^
+
+^InfoBarEqualTo^è uguale a^InfoBarEqualTo^
+
+^InfoBarGreaterThan^è maggiore di^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^è maggiore o uguale a^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^è inferiore^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^è inferiore o uguale a^InfoBarLessThanOrEqual^
+
+^InfoBarLike^è come^InfoBarLike^
+
+^InfoBarOr^o^InfoBarOr^
+
+^InfoBarQuickFind^Ogni campo contiene^InfoBarQuickFind^
+
+^InfoBarStartsWith^inizia con^InfoBarStartsWith^
+
+^InitialListMode^Modalità Elenco iniziale^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Inserisci Riga orizzontale^InsertHorizontalRule^
+
+^InsertOrderedList^Inserisci elenco sequenziale^InsertOrderedList^
+
+^InsertUnorderedList^Inserisci elenco non ordinato^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Il tuo nome utente e password non sono validi.^InvalidUserNameAndPassword^
+
+^Italic^Corsivo^Italic^
+
+^ItemsPerPage^Records per pagina:^ItemsPerPage^
+
+^JustifyCenter^Giustifica Centro^JustifyCenter^
+
+^JustifyFull^Giustifica^JustifyFull^
+
+^JustifyLeft^Giustifica Sinistra^JustifyLeft^
+
+^JustifyRight^Giustifica Destra^JustifyRight^
+
+^Lacquer^Lacca^Lacquer^
+
+^Laminate^Laminato^Laminate^
+
+^Landscape^Paesaggio^Landscape^
+
+^LastMonth^Ultimo mese^LastMonth^
+
+^LastQuarter^Ultimo Trimestre^LastQuarter^
+
+^LastWeek^Ultima settimana^LastWeek^
+
+^LastYear^Ultimo anno^LastYear^
+
+^LessThan^Meno di^LessThan^
+
+^Lichen^Lichene^Lichen^
+
+^LightTheme^Luce^LightTheme^
+
+^List^Elenco^List^
+
+^ListOneColumn^List (una colonna)^ListOneColumn^
+
+^Loading^Caricamento in corso ...^Loading^
+
+^Logical^Logico^Logical^
+
+^LoginButton^Accesso^LoginButton^
+
+^LoginLink^Accesso^LoginLink^
+
+^Logout^Logout^Logout^
+
+^LookupInstruction^Si prega di selezionare <b>{0}</b> nella lista.^LookupInstruction^
+
+^LookupOriginalSelection^La selezione originale è <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Mappa^Map^
+
+^MatchAll^Soddisfano tutte le condizioni^MatchAll^
+
+^MatchAllPastTense^Abbinato tutte le condizioni^MatchAllPastTense^
+
+^MatchAny^Abbinare le condizioni^MatchAny^
+
+^MatchAnyPastTense^Abbinato eventuali condizioni^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Massimo di {0}^MaxAggregateToolTip^
+
+^Maximize^Espandere^Maximize^
+
+^Menu^Menu^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Minimo di {0}^MinAggregateToolTip^
+
+^Minimize^Ridurre ai minimi^Minimize^
+
+^Mission^Missione^Mission^
+
+^ModeBrowsing^Navigazione^ModeBrowsing^
+
+^ModeEditing^Redazione^ModeEditing^
+
+^ModeEntering^Immissione^ModeEntering^
+
+^ModeLookup^Ricerca^ModeLookup^
+
+^Modern^Moderno^Modern^
+
+^ModernRose^Moderno Rose^ModernRose^
+
+^ModeViewing^Visualizzazione^ModeViewing^
+
+^More^Di più^More^
+
+^Municipal^Comunale^Municipal^
+
+^MyAccount^Il mio account^MyAccount^
+
+^Never^Mai^Never^
+
+^NewActionHeaderText^Nuovo^NewActionHeaderText^
+
+^NewRowLink^Clicca qui per creare un nuovo record.^NewRowLink^
+
+^NewToolTip^Nuovo {0}^NewToolTip^
+
+^Next^Prossimo^Next^
+
+^NextMonth^Prossimo Mese^NextMonth^
+
+^NextQuarter^Prossimo trimestre^NextQuarter^
+
+^NextWeek^Prossima Settimana^NextWeek^
+
+^NextYear^Anno Prossimo^NextYear^
+
+^No^No^No^
+
+^NoRecords^Nessun record trovato.^NoRecords^
+
+^NoteDeleteConfirm^Eliminare?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^cancellare^NoteDeleteLabel^
+
+^NoteEditLabel^modifica^NoteEditLabel^
+
+^NullValue^n/a^NullValue^
+
+^NullValueInForms^N/A^NullValueInForms^
+
+^Number^Numero^Number^
+
+^NumberFilterText^Filtro numerico^NumberFilterText^
+
+^NumberIsExpected^E’ atteso un numero.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Aperto^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Pagina^Page^
+
+^Password^Password^Password^
+
+^Past^Passato^Past^
+
+^Paste^Incolla^Paste^
+
+^PerformAdvancedSearch^Ricerca^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Creare un collegamento permanente per i record selezionati^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink non è disponibile. Si prega di selezionare un record.^PermalinkUnavailable^
+
+^Petal^Petalo^Petal^
+
+^Pinnate^Pennate^Pinnate^
+
+^Plastic^Plastica^Plastic^
+
+^Portrait^Ritratto^Portrait^
+
+^PresentationStyle^Selezionare uno stile di presentazione dei dati.^PresentationStyle^
+
+^Previous^Precedente^Previous^
+
+^PromoteActions^Promuovere azioni^PromoteActions^
+
+^Quarter1^1 ° trimestre^Quarter1^
+
+^Quarter2^2 ° trimestre^Quarter2^
+
+^Quarter3^3 ° trimestre^Quarter3^
+
+^Quarter4^4 ° trimestre^Quarter4^
+
+^QuickFindScope^Cerca in ...^QuickFindScope^
+
+^QuickFindText^Ricerca veloce^QuickFindText^
+
+^QuickFindToolTip^Scrivere per ricercare i record e premere Invio^QuickFindToolTip^
+
+^Recent^Recente^Recent^
+
+^Redo^Redo^Redo^
+
+^Refresh^Aggiornare^Refresh^
+
+^RememberMe^Ricordati di me la prossima volta^RememberMe^
+
+^RemoveCondition^Rimuovi condizione^RemoveCondition^
+
+^RemoveFormat^Elimina formattazione^RemoveFormat^
+
+^ReportActionDescription^Rendering di un report in formato PDF^ReportActionDescription^
+
+^ReportActionHeaderText^Report^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Visualizzare gli elementi in un foglio di calcolo Excel <br/>Microsoft.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Foglio elettronico^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Visualizzare gli elementi come immagine TIFF multipagina.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Multipagina Image^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Visualizzare gli elementi come documento Adobe PDF .<br/>Richiede un lettore  PDF.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^Documento PDF^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Visualizzare gli elementi in un documento Word <br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Richiesto^Required^
+
+^RequiredField^Questo campo è obbligatorio.^RequiredField^
+
+^RequiredFiledMarkerFootNote^indica un campo obbligatorio^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Reset^ResetAdvancedSearch^
+
+^ResumeBrowsing^Riprendi Navigazione^ResumeBrowsing^
+
+^ResumeEditing^Riprendi Editing^ResumeEditing^
+
+^ResumeEntering^Riprendi Immissione^ResumeEntering^
+
+^ResumeLookup^Riprendi Lookup^ResumeLookup^
+
+^ResumeViewing^Riprendi Visualizzazione^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Ruoli^RolesTab^
+
+^RootNodeText^Livello superiore^RootNodeText^
+
+^Rotate^Ruotare^Rotate^
+
+^RowCancelActionHeaderText^Annullare^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Inserire^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Salvare^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Aggiornare?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Aggiornare la selezione^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Salvare^Save^
+
+^SaveAndNew^Salva e nuovo^SaveAndNew^
+
+^SeeAll^Vedi tutti^SeeAll^
+
+^SeeAlso^Vedere anche^SeeAlso^
+
+^SelectActionHeaderText^Selezionare^SelectActionHeaderText^
+
+^SelectAll^Seleziona tutto^SelectAll^
+
+^SelectLink^(Seleziona)^SelectLink^
+
+^SelectToolTip^Seleziona {0}^SelectToolTip^
+
+^Separator^Separatore^Separator^
+
+^Settings^Impostazioni^Settings^
+
+^ShowAdvancedSearch^Mostra Ricerca avanzata^ShowAdvancedSearch^
+
+^ShowingItems^Visualizzazione <b>{0}</b>-<b>{1}</b> di <b>{2}</b>^ShowingItems^
+
+^ShowingItemsInfo^Mostrando {0} articoli.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Loggati adesso^SignUpNow^
+
+^Simple^Semplice^Simple^
+
+^SiteActions^Azioni^SiteActions^
+
+^Social^Sociale^Social^
+
+^Sort^Ordinamento^Sort^
+
+^SortBy^Ordina per {0}^SortBy^
+
+^SortByField^Selezionare un campo per modificare l&#39;ordinamento di <b>{0}</b>.^SortByField^
+
+^SortByOptions^Selezionare il tipo di ordinamento della <b>{0}</b> dal campo <b>{1}</b> nella lista delle opzioni qui sotto.^SortByOptions^
+
+^StrikeThrough^Barrato^StrikeThrough^
+
+^StringSortAscending^Ascendente^StringSortAscending^
+
+^StringSortDescending^Discendente^StringSortDescending^
+
+^Subscript^Script Sub^Subscript^
+
+^Suggestions^Suggerimenti^Suggestions^
+
+^SumAggregate^Somma: {0}^SumAggregate^
+
+^SumAggregateToolTip^Somma di {0}^SumAggregateToolTip^
+
+^Summary^Riassunto^Summary^
+
+^Summer^Estate^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Riprendere^TaskResume^
+
+^Tasks^Tasks^Tasks^
+
+^Text^Testo^Text^
+
+^TextFilterText^Fltro di testo^TextFilterText^
+
+^Theme^Tema^Theme^
+
+^ThisMonth^Questo mese^ThisMonth^
+
+^ThisQuarter^Questo trimestre^ThisQuarter^
+
+^ThisWeek^Questa settimana^ThisWeek^
+
+^ThisYear^Questo Anno^ThisYear^
+
+^Today^Oggi^Today^
+
+^Tomorrow^Domani^Tomorrow^
+
+^ToThisWebsite^a questo sito^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI non è supportato in questo browser.^TouchUINotSupported^
+
+^TransitionFade^Fade^TransitionFade^
+
+^TransitionFlip^Flip^TransitionFlip^
+
+^TransitionFlow^Flusso^TransitionFlow^
+
+^TransitionNone^Nessuno^TransitionNone^
+
+^TransitionPop^Pop^TransitionPop^
+
+^Transitions^Transizioni^Transitions^
+
+^TransitionSlide^Presentazione^TransitionSlide^
+
+^TransitionSlideDown^Franare^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Turno^TransitionTurn^
+
+^TreeActionDescription^Visualizzare le relazioni gerarchiche.^TreeActionDescription^
+
+^TreeActionHeaderText^Mostra Gerarchia^TreeActionHeaderText^
+
+^Underline^Sottolineato^Underline^
+
+^Undo^Undo^Undo^
+
+^Undock^Disancorare^Undock^
+
+^Unfreeze^Sblocca^Unfreeze^
+
+^UnLink^Scollegare^UnLink^
+
+^UnSelect^Deselezionare^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Aggiornare?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Aggiornare la selezione^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Su di un livello^UpOneLevel^
+
+^UseLEV^Incolla "{0}"^UseLEV^
+
+^UserName^Nome Utente^UserName^
+
+^UsersInRole^Utenti in Role^UsersInRole^
+
+^UsersTab^Utenti^UsersTab^
+
+^Vantage^Vantaggio^Vantage^
+
+^Verdant^Verdeggiante^Verdant^
+
+^View^Vista^View^
+
+^Viewpoint^Punto di vista^Viewpoint^
+
+^Welcome1^Benvenuto^Welcome1^
+
+^Welcome2^Oggi è il^Welcome2^
+
+^WhiteSmoke^White Smoke^WhiteSmoke^
+
+^YearToDate^Da inizio anno^YearToDate^
+
+^Yes^Sì^Yes^
+
+^Yesterday^Ieri^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Zoom in^ZoomIn^
+
+^ZoomOut^Zoom out^ZoomOut^
+

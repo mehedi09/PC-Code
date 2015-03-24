@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Over^About^
+
+^ActionBarActionsHeaderText^Acties^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Annuleren^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Annuleer alle registreren veranderingen.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Annuleren nieuw record.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Bewaar nieuwe record in de database.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Opslaan^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Maak een nieuw {0} record.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Nieuwe {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Nieuw^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Record^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Rapport^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Wijzigingen opslaan in de database.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Opslaan^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Voeg voorwaarde toe^AddCondition^
+
+^AddConditionText^Voeg zoekvoorwaarde toe^AddConditionText^
+
+^AddMatchingGroup^Voeg passende groep^AddMatchingGroup^
+
+^AddSearchBarField^Meer zoekvelden^AddSearchBarField^
+
+^AddToFavorites^Voeg toe aan favorieten^AddToFavorites^
+
+^AdvancedSearch^Geavanceerd Zoeken^AdvancedSearch^
+
+^After^Na^After^
+
+^AlignedLeft^Links uitgelijnd^AlignedLeft^
+
+^AlignedRight^Rechts uitgelijnd^AlignedRight^
+
+^AllDatesInPreriod^Alle datums in periode^AllDatesInPreriod^
+
+^AlternativeView^Selecteer een alternatieve weergave van gegevens.^AlternativeView^
+
+^Always^Altijd^Always^
+
+^Apply^Solliciteer^Apply^
+
+^Aquarium^Aquarium^Aquarium^
+
+^AvgAggregate^Gem: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Gemiddelde van {0}^AvgAggregateToolTip^
+
+^Azure^Azuur^Azure^
+
+^Back^Terug^Back^
+
+^BackColor^Kleur achtergrond^BackColor^
+
+^BatchEditActionHeaderText^Meerdere bewerken^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Batch Edit (Form)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^updaten^BatchUpdate^
+
+^Before^Voor^Before^
+
+^BeginsWith^Begint met^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Bes^Berry^
+
+^Between^Tussen^Between^
+
+^Bittersweet^Bitterzoet^Bittersweet^
+
+^BlankPassword^Wachtwoord mag niet leeg zijn.^BlankPassword^
+
+^BlankUserName^Gebruikersnaam kan niet leeg zijn.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Klik hier om het origineel bestand te downloaden.^BlobDownloadHint^
+
+^BlobDownloadLink^downloaden^BlobDownloadLink^
+
+^Bold^Vetgedrukt^Bold^
+
+^BooleanFilterText^Logische Filters^BooleanFilterText^
+
+^BooleanIsExpected^Een logische waarde wordt verwacht.^BooleanIsExpected^
+
+^ButtonShapes^Vormen van toetsen^ButtonShapes^
+
+^Calendar^Kalender^Calendar^
+
+^Cancel^Annuleren^Cancel^
+
+^Cards^Kaarten^Cards^
+
+^Cay^Zandbank^Cay^
+
+^ChangeYourLanguage^Wijzig uw taal^ChangeYourLanguage^
+
+^Citrus^Citrus^Citrus^
+
+^Classic^Klassiek^Classic^
+
+^ClearFilter^Filter van {0}^ClearFilter^
+
+^ClearText^Duidelijke tekst^ClearText^
+
+^ClearToolTip^Duidelijk {0}^ClearToolTip^
+
+^Close^Sluiten^Close^
+
+^Comfortable^Comfortabel^Comfortable^
+
+^Compact^Compact^Compact^
+
+^Condensed^Gecondenseerde^Condensed^
+
+^ConfirmReload^Herladen?^ConfirmReload^
+
+^ConnectionLost^De netwerkverbinding is verbroken. Probeer opnieuw?^ConnectionLost^
+
+^Construct^Construeren^Construct^
+
+^Contains^Bevat^Contains^
+
+^Convention^Conventie^Convention^
+
+^Copy^Kopiëren^Copy^
+
+^CountAggregate^Aantal: {0}^CountAggregate^
+
+^CountAggregateToolTip^Graaf van {0}^CountAggregateToolTip^
+
+^CreateLink^Koppeling maken^CreateLink^
+
+^CustomFilterOption^Filter ...^CustomFilterOption^
+
+^Cut^Snijden^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Donker^DarkTheme^
+
+^DataSheetActionDescription^Toon items met behulp van een data sheet<br/>format.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Show in Data Sheet^DataSheetActionHeaderText^
+
+^Date^Datum^Date^
+
+^DateFilterText^Datumfilters^DateFilterText^
+
+^DateIsExpected^Een datum wordt verwacht.^DateIsExpected^
+
+^DateSortAscending^Eerste bovenaan^DateSortAscending^
+
+^DateSortDescending^Laatste bovenaan^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Sluiten^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Vul dit formulier in druk op de OK-knop om een ​​nieuw record te maken {0}n. Klik op Annuleren om terug te keren naar het vorige scherm.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Dit zijn de velden van het {0} record dat kan worden bewerkt.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Gelieve de onderstaande {0} informatie. Klik op Bewerken om dit record te wijzigen, klikt u op Verwijderen om de record te verwijderen, of klik op Annuleren / Close om terug te keren.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Dit is een lijst van {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Vul het formulier in. Zorg ervoor dat alle verplichte velden worden ingevoerd.^DefaultNewDescription^
+
+^DefaultOption^Verzuim^DefaultOption^
+
+^DefaultReferenceDescription^Aanvullende informatie over {0} zijn opgenomen in de referentie-informatie sectie.^DefaultReferenceDescription^
+
+^Delete^Verwijderen^Delete^
+
+^DeleteActionConfirmation^Verwijderen?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Verwijderen^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Verwijderen)^DeleteSearchBarField^
+
+^DetailsToolTip^Bekijk details voor {0}^DetailsToolTip^
+
+^Directions^Routebeschrijving^Directions^
+
+^DisplayDensity^Weergave Dichtheid^DisplayDensity^
+
+^DisplayedAbove^Boven weergegeven^DisplayedAbove^
+
+^DisplayedBelow^Onder weergegeven^DisplayedBelow^
+
+^Dock^Dokken^Dock^
+
+^DoesNotBeginWith^Begint niet met^DoesNotBeginWith^
+
+^DoesNotContain^Bevat geen^DoesNotContain^
+
+^DoesNotEndWith^Eindigt niet met^DoesNotEndWith^
+
+^DoesNotEqual^Is niet gelijk aan^DoesNotEqual^
+
+^DoesNotInclude^Omvat geen de^DoesNotInclude^
+
+^DoNotMatchAll^Niet overeenkomen met alle omstandigheden^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Niet overeenkomen met alle voorwaarden^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Niet passende voorwaarden^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Leverde geen passende voorwaarden^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Dubbel^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Bewerken^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Annuleren^EditModeCancelActionHeaderText^
+
+^EmptyContext^Acties zijn niet beschikbaar.^EmptyContext^
+
+^EmptyValue^(Leeg)^EmptyValue^
+
+^EndsWith^Eindigt met^EndsWith^
+
+^Equals^Is gelijk aan^Equals^
+
+^ExportCsvActionDescription^Download items in CSV-formaat.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Download^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analyseer items met spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Exporteren naar werkblad^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicaat items met een RSS-lezer.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Bekijk RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Favorieten^Favorites^
+
+^Felt^Vilt^Felt^
+
+^Filter^Filter^Filter^
+
+^FilterApplied^Een filter is toegepast.^FilterApplied^
+
+^FilterByField^Selecteer een veld om een ​​filter te <b>{0}</b> toepassing.^FilterByField^
+
+^FilterByOptions^Selecteer een of meer opties in de lijst hieronder en druk op <b>{2}</b> te filteren <b>{0}</b> door het veld <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^en^FilterLabelAnd^
+
+^FilterLabelClear^Duidelijk^FilterLabelClear^
+
+^FilterLabelEquals^is gelijk aan^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Veranderen^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^omvat^FilterLabelIncludes^
+
+^FilterLabelOr^of^FilterLabelOr^
+
+^FilterLabelSelectAll^(Alles selecteren)^FilterLabelSelectAll^
+
+^FilterSiteMap^Filter site map ...^FilterSiteMap^
+
+^FlatTreeToggle^Overschakelen naar Hiërarchie^FlatTreeToggle^
+
+^FontName^Lettertype^FontName^
+
+^FontSize^Tekengrootte^FontSize^
+
+^ForeColor^Kleur voorgrond^ForeColor^
+
+^ForgotYourPassword^Wachtwoord vergeten?^ForgotYourPassword^
+
+^Freeze^Bevriezen^Freeze^
+
+^Future^Toekomst^Future^
+
+^GeneralTabText^Algemeen^GeneralTabText^
+
+^GenericNewToolTip^Nieuwe^GenericNewToolTip^
+
+^GenericSortAscending^Kleinste bovenaan^GenericSortAscending^
+
+^GenericSortDescending^Grootste bovenaan^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Graniet^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Zwaartekracht^Gravity^
+
+^GreaterThan^Groter dan^GreaterThan^
+
+^Grid^Rooster^Grid^
+
+^GridActionDescription^Weer te geven items in de standaard<br/>list formaat.^GridActionDescription^
+
+^GridActionHeaderText^Show in Standard View^GridActionHeaderText^
+
+^Help^Help^Help^
+
+^HelpClose^Sluiten^HelpClose^
+
+^HelpFullScreen^Volledig scherm^HelpFullScreen^
+
+^HideAdvancedSearch^Verberg Geavanceerd zoeken^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Overschakelen naar Platte lijst^HierarchyTreeModeToggle^
+
+^History^Geschiedenis^History^
+
+^HistoryToolTip^Bekijk de geschiedenis van eerder geselecteerde records^HistoryToolTip^
+
+^HistoryUnavailable^De geschiedenis is niet beschikbaar.^HistoryUnavailable^
+
+^Home^Thuis^Home^
+
+^IdleUser^Bent u daar nog? Log opnieuw in.^IdleUser^
+
+^ImportActionDescription^Upload een CSV, XLS of XLSX bestand<br/>om de records te importeren.^ImportActionDescription^
+
+^ImportActionHeaderText^Importeren uit bestand^ImportActionHeaderText^
+
+^ImportAutoDetect^(Automatische detectie)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Download importbestand template.^ImportDownloadTemplate^
+
+^ImportEmail^Stuur de import te loggen op de volgende e-mailadressen (optioneel)^ImportEmail^
+
+^ImportEmailNotSpecified^Ontvanger van de import log is niet gespecificeerd. Doorgaan?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Er zijn <b>{0}</b> record(s) in het bestand <b>{1}</b> klaar om te worden verwerkt.<br/>Please kaart brengen van de import velden van data-bestand naar de toepassingsgebieden en <i>Import</i> de verwerking te starten.^ImportMappingInstruction^
+
+^ImportProcessing^Importbestand verwerking is gestart. De geïmporteerde records zullen beschikbaar zijn bij een succesvolle verwerking. Mogelijk moet u de relevante standpunten / pagina's vernieuwen om de geïmporteerde records te zien.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Uw bestand wordt geüpload naar de server. Een ogenblik geduld ...^ImportUploading^
+
+^ImportUploadInstruction^Selecteer het bestand dat u wilt uploaden. Het bestand moet in <b>CSV</b>, <b>XLS</b> of <b>XLSX</b> formaat.^ImportUploadInstruction^
+
+^In^in^In^
+
+^Includes^Inclusief^Includes^
+
+^Indent^Inspringen^Indent^
+
+^InfoBarAnd^en^InfoBarAnd^
+
+^InfoBarEmpty^leeg^InfoBarEmpty^
+
+^InfoBarEqualTo^is gelijk aan^InfoBarEqualTo^
+
+^InfoBarGreaterThan^is groter dan^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^is groter of gelijk aan^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^is minder dan^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^is kleiner of gelijk aan^InfoBarLessThanOrEqual^
+
+^InfoBarLike^is als^InfoBarLike^
+
+^InfoBarOr^of^InfoBarOr^
+
+^InfoBarQuickFind^Een veld bevat^InfoBarQuickFind^
+
+^InfoBarStartsWith^begint met^InfoBarStartsWith^
+
+^InitialListMode^Initiële lijst Mode^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Horizontale lijn invoegen^InsertHorizontalRule^
+
+^InsertOrderedList^Plaats Geordende lijst^InsertOrderedList^
+
+^InsertUnorderedList^invoegen ongeordende lijst^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Uw gebruikersnaam en wachtwoord zijn niet geldig.^InvalidUserNameAndPassword^
+
+^Italic^Cursief^Italic^
+
+^ItemsPerPage^Records per pagina:^ItemsPerPage^
+
+^JustifyCenter^Centreren^JustifyCenter^
+
+^JustifyFull^Uitvullen^JustifyFull^
+
+^JustifyLeft^Links uitlijnen^JustifyLeft^
+
+^JustifyRight^Rechts uitlijnen^JustifyRight^
+
+^Lacquer^Lak^Lacquer^
+
+^Laminate^Laminaat^Laminate^
+
+^Landscape^Landschap^Landscape^
+
+^LastMonth^Laatste Maand^LastMonth^
+
+^LastQuarter^Laatste kwartaal^LastQuarter^
+
+^LastWeek^Afgelopen week^LastWeek^
+
+^LastYear^Afgelopen jaar^LastYear^
+
+^LessThan^Minder dan^LessThan^
+
+^Lichen^Lichen^Lichen^
+
+^LightTheme^Licht^LightTheme^
+
+^List^Lijst^List^
+
+^ListOneColumn^List (een kolom)^ListOneColumn^
+
+^Loading^Laden ...^Loading^
+
+^Logical^Logisch^Logical^
+
+^LoginButton^Inloggen^LoginButton^
+
+^LoginLink^Inloggen^LoginLink^
+
+^Logout^Afmelden^Logout^
+
+^LookupInstruction^Selecteer <b>{0}</b> in de lijst.^LookupInstruction^
+
+^LookupOriginalSelection^De oorspronkelijke selectie is <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Kaart^Map^
+
+^MatchAll^Overeenkomen met alle voorwaarden^MatchAll^
+
+^MatchAllPastTense^Matched alle omstandigheden^MatchAllPastTense^
+
+^MatchAny^Passende voorwaarden^MatchAny^
+
+^MatchAnyPastTense^Matched enige voorwaarden^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Maximaal {0}^MaxAggregateToolTip^
+
+^Maximize^Uitbreiden^Maximize^
+
+^Menu^Menu^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Minimaal {0}^MinAggregateToolTip^
+
+^Minimize^Minimaliseren^Minimize^
+
+^Mission^Missie^Mission^
+
+^ModeBrowsing^Browsing^ModeBrowsing^
+
+^ModeEditing^Editing^ModeEditing^
+
+^ModeEntering^Het invoeren^ModeEntering^
+
+^ModeLookup^Zoeken^ModeLookup^
+
+^Modern^Modern^Modern^
+
+^ModernRose^Modern nam^ModernRose^
+
+^ModeViewing^Zien^ModeViewing^
+
+^More^Meer^More^
+
+^Municipal^Gemeentelijk^Municipal^
+
+^MyAccount^Mijn account^MyAccount^
+
+^Never^Nooit^Never^
+
+^NewActionHeaderText^Nieuw^NewActionHeaderText^
+
+^NewRowLink^Klik hier om een ​​nieuw record te maken.^NewRowLink^
+
+^NewToolTip^Nieuwe {0}^NewToolTip^
+
+^Next^Volgende^Next^
+
+^NextMonth^Volgende maand^NextMonth^
+
+^NextQuarter^Volgend kwartaal^NextQuarter^
+
+^NextWeek^Volgende week^NextWeek^
+
+^NextYear^Volgend jaar^NextYear^
+
+^No^Geen^No^
+
+^NoRecords^Geen records gevonden.^NoRecords^
+
+^NoteDeleteConfirm^Verwijderen?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^verwijderen^NoteDeleteLabel^
+
+^NoteEditLabel^edit^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Aantal^Number^
+
+^NumberFilterText^Getalfilters^NumberFilterText^
+
+^NumberIsExpected^Een aantal wordt verwacht.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Open^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Pagina^Page^
+
+^Password^Wachtwoord^Password^
+
+^Past^Verleden^Past^
+
+^Paste^Plakken^Paste^
+
+^PerformAdvancedSearch^Zoeken^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Maak een permanente link voor het geselecteerde record^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink is niet beschikbaar. Selecteer een record.^PermalinkUnavailable^
+
+^Petal^Bloemblad^Petal^
+
+^Pinnate^Pinnate^Pinnate^
+
+^Plastic^Plastic^Plastic^
+
+^Portrait^Portret^Portrait^
+
+^PresentationStyle^Selecteer een data-presentatie stijl.^PresentationStyle^
+
+^Previous^Vorig^Previous^
+
+^PromoteActions^Promoot Acties^PromoteActions^
+
+^Quarter1^Kwartaal 1^Quarter1^
+
+^Quarter2^Kwartaal 2^Quarter2^
+
+^Quarter3^Kwartaal 3^Quarter3^
+
+^Quarter4^Kwartaal 4^Quarter4^
+
+^QuickFindScope^Zoeken in ...^QuickFindScope^
+
+^QuickFindText^Snel zoeken^QuickFindText^
+
+^QuickFindToolTip^Type hier om de records te zoeken en druk op Enter^QuickFindToolTip^
+
+^Recent^Recent^Recent^
+
+^Redo^Opnieuw^Redo^
+
+^Refresh^Verversen^Refresh^
+
+^RememberMe^Herinner mij de volgende keer^RememberMe^
+
+^RemoveCondition^Voorwaarde verwijderen^RemoveCondition^
+
+^RemoveFormat^Opmaak verwijderen^RemoveFormat^
+
+^ReportActionDescription^Maak een rapport in PDF-formaat^ReportActionDescription^
+
+^ReportActionHeaderText^Rapport^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Bekijk items in een geformateerd<br/>Microsoft Excel-spreadsheet.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Spreadsheet^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Bekijk items als een meerdere TIFF-afbeeldingen.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Meerdere Image^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Bekijk items als Adobe PDF document.<br/>Requires een compatibele lezer.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF-document^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Bekijk items in een formatted<br/>Microsoft Word-document.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Nodig^Required^
+
+^RequiredField^Dit veld is verplicht.^RequiredField^
+
+^RequiredFiledMarkerFootNote^geeft een vereist veld^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Reset^ResetAdvancedSearch^
+
+^ResumeBrowsing^Resume Browsing^ResumeBrowsing^
+
+^ResumeEditing^Resume bewerken^ResumeEditing^
+
+^ResumeEntering^Resume invoeren^ResumeEntering^
+
+^ResumeLookup^Resume Lookup^ResumeLookup^
+
+^ResumeViewing^Resume Viewing^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Rollen^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Draaien^Rotate^
+
+^RowCancelActionHeaderText^Annuleren^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Invoegen^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Bewaren^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Update?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Selectie bijwerken^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Bewaren^Save^
+
+^SaveAndNew^Opslaan en Nieuw^SaveAndNew^
+
+^SeeAll^Alle zien^SeeAll^
+
+^SeeAlso^Zie ook^SeeAlso^
+
+^SelectActionHeaderText^Kiezen^SelectActionHeaderText^
+
+^SelectAll^Alles selecteren^SelectAll^
+
+^SelectLink^(Selecteren)^SelectLink^
+
+^SelectToolTip^Selecteer {0}^SelectToolTip^
+
+^Separator^Scheidingsteken^Separator^
+
+^Settings^Instellingen^Settings^
+
+^ShowAdvancedSearch^Tonen Geavanceerd zoeken^ShowAdvancedSearch^
+
+^ShowingItems^Weergave:<b>{0}</b>-<b>{1}</b> van <b>{2}</b> records^ShowingItems^
+
+^ShowingItemsInfo^Resultaat {0} artikelen.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Meld je nu aan^SignUpNow^
+
+^Simple^Eenvoudig^Simple^
+
+^SiteActions^Siteacties^SiteActions^
+
+^Social^Sociaal^Social^
+
+^Sort^Sorteren^Sort^
+
+^SortBy^Sorteer op {0}^SortBy^
+
+^SortByField^Selecteer een veld om de sorteervolgorde van <b>{0}</b> veranderen.^SortByField^
+
+^SortByOptions^Selecteer de sorteervolgorde van <b>{0}</b> door het veld <b>{1}</b> in de lijst van de onderstaande opties.^SortByOptions^
+
+^StrikeThrough^Doorgestreept^StrikeThrough^
+
+^StringSortAscending^Oplopend^StringSortAscending^
+
+^StringSortDescending^Aflopend^StringSortDescending^
+
+^Subscript^Sub Script^Subscript^
+
+^Suggestions^Suggesties^Suggestions^
+
+^SumAggregate^Totaal: {0}^SumAggregate^
+
+^SumAggregateToolTip^Som van {0}^SumAggregateToolTip^
+
+^Summary^Overzicht^Summary^
+
+^Summer^Zomer^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Hervatten^TaskResume^
+
+^Tasks^Taken^Tasks^
+
+^Text^Tekst^Text^
+
+^TextFilterText^Tekst Filters^TextFilterText^
+
+^Theme^Thema^Theme^
+
+^ThisMonth^Deze maand^ThisMonth^
+
+^ThisQuarter^Dit kwartaal^ThisQuarter^
+
+^ThisWeek^Deze week^ThisWeek^
+
+^ThisYear^Dit Jaar^ThisYear^
+
+^Today^Vandaag^Today^
+
+^Tomorrow^Morgen^Tomorrow^
+
+^ToThisWebsite^op deze website^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI wordt niet ondersteund in deze browser.^TouchUINotSupported^
+
+^TransitionFade^Vervagen^TransitionFade^
+
+^TransitionFlip^Tik^TransitionFlip^
+
+^TransitionFlow^Flow^TransitionFlow^
+
+^TransitionNone^Geen^TransitionNone^
+
+^TransitionPop^Knal^TransitionPop^
+
+^Transitions^Overgangen^Transitions^
+
+^TransitionSlide^Glijbaan^TransitionSlide^
+
+^TransitionSlideDown^Schuif omlaag^TransitionSlideDown^
+
+^TransitionSlideUp^Schuif omhoog^TransitionSlideUp^
+
+^TransitionTurn^Beurt^TransitionTurn^
+
+^TreeActionDescription^Hiërarchische verhoudingen weer te geven.^TreeActionDescription^
+
+^TreeActionHeaderText^Tonen Hiërarchie^TreeActionHeaderText^
+
+^Underline^Onderstrepen^Underline^
+
+^Undo^Ongedaan maken^Undo^
+
+^Undock^Loskoppelen^Undock^
+
+^Unfreeze^Ontdooien^Unfreeze^
+
+^UnLink^Unlink^UnLink^
+
+^UnSelect^Deselecteren^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Update?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Selectie bijwerken^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Eén niveau hoger^UpOneLevel^
+
+^UseLEV^Plakken "{0}"^UseLEV^
+
+^UserName^Gebruikersnaam^UserName^
+
+^UsersInRole^Gebruikers met Rol^UsersInRole^
+
+^UsersTab^Gebruikers^UsersTab^
+
+^Vantage^Voordeel^Vantage^
+
+^Verdant^Groen^Verdant^
+
+^View^Bekijk^View^
+
+^Viewpoint^Gezichtspunt^Viewpoint^
+
+^Welcome1^Welkom^Welcome1^
+
+^Welcome2^Vandaag is het^Welcome2^
+
+^WhiteSmoke^White Smoke^WhiteSmoke^
+
+^YearToDate^Jaar tot op heden^YearToDate^
+
+^Yes^Ja^Yes^
+
+^Yesterday^Gisteren^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Zoom in^ZoomIn^
+
+^ZoomOut^Uitzoomen^ZoomOut^
+

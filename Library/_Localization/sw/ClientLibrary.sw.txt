@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Kuhusu^About^
+
+^ActionBarActionsHeaderText^Hatua^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Kufuta^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Kufuta mabadiliko yote rekodi.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Kufuta rekodi mpya.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Kuokoa rekodi mpya kwa database.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Hifadhi^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Kuunda mpya {0} rekodi.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Mpya {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Mpya^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Rekodi^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Ripoti^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Hifadhi mabadiliko ya database.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Hifadhi^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Hali kuongeza^AddCondition^
+
+^AddConditionText^Kuongeza search hali^AddConditionText^
+
+^AddMatchingGroup^Kuongeza kundi vinavyolingana^AddMatchingGroup^
+
+^AddSearchBarField^Zaidi Search Fields^AddSearchBarField^
+
+^AddToFavorites^Kuongeza yoyote^AddToFavorites^
+
+^AdvancedSearch^Advanced Search^AdvancedSearch^
+
+^After^Baada ya^After^
+
+^AlignedLeft^Iliyokaa wa kushoto^AlignedLeft^
+
+^AlignedRight^Iliyokaa Haki^AlignedRight^
+
+^AllDatesInPreriod^Tarehe wote katika kipindi cha^AllDatesInPreriod^
+
+^AlternativeView^Kuchagua mtazamo mbadala ya data.^AlternativeView^
+
+^Always^Daima^Always^
+
+^Apply^Kuomba^Apply^
+
+^Aquarium^Aquarium^Aquarium^
+
+^AvgAggregate^Avg: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Wastani wa {0}^AvgAggregateToolTip^
+
+^Azure^Azure^Azure^
+
+^Back^Kurudi^Back^
+
+^BackColor^Nyuma Rangi^BackColor^
+
+^BatchEditActionHeaderText^Kundi Hariri^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Kundi Edit (Fomu)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^update^BatchUpdate^
+
+^Before^Kabla ya^Before^
+
+^BeginsWith^Waaanza na^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Berry^Berry^
+
+^Between^Kati ya^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Password haiwezi tupu.^BlankPassword^
+
+^BlankUserName^Jina la mtumiaji hawezi kuwa tupu.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Bofya hapa kupakua faili awali.^BlobDownloadHint^
+
+^BlobDownloadLink^shusha^BlobDownloadLink^
+
+^Bold^Ujasiri^Bold^
+
+^BooleanFilterText^Mantiki Filters^BooleanFilterText^
+
+^BooleanIsExpected^thamani mantiki inatarajiwa.^BooleanIsExpected^
+
+^ButtonShapes^Maumbo ya kifungo^ButtonShapes^
+
+^Calendar^Kalenda^Calendar^
+
+^Cancel^Kufuta^Cancel^
+
+^Cards^Kadi^Cards^
+
+^Cay^Nakuru^Cay^
+
+^ChangeYourLanguage^Mabadiliko ya lugha yako^ChangeYourLanguage^
+
+^Citrus^Citrus^Citrus^
+
+^Classic^Classic^Classic^
+
+^ClearFilter^Filter wazi kutoka {0}^ClearFilter^
+
+^ClearText^Wazi Nakala^ClearText^
+
+^ClearToolTip^Wazi {0}^ClearToolTip^
+
+^Close^Karibu^Close^
+
+^Comfortable^Vizuri^Comfortable^
+
+^Compact^Compact^Compact^
+
+^Condensed^Kufupishwa^Condensed^
+
+^ConfirmReload^Reload?^ConfirmReload^
+
+^ConnectionLost^uhusiano wa mtandao imekuwa waliopotea. Jaribu tena?^ConnectionLost^
+
+^Construct^Kujenga^Construct^
+
+^Contains^Ina^Contains^
+
+^Convention^Mkataba^Convention^
+
+^Copy^Nakala^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Count ya {0}^CountAggregateToolTip^
+
+^CreateLink^Kujenga Link^CreateLink^
+
+^CustomFilterOption^Filter ...^CustomFilterOption^
+
+^Cut^Kukata^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Giza^DarkTheme^
+
+^DataSheetActionDescription^Kuonyesha vitu kutumia sheet<br/>format data.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Onyesha katika Karatasi ya Data^DataSheetActionHeaderText^
+
+^Date^Tarehe^Date^
+
+^DateFilterText^Tarehe Filters^DateFilterText^
+
+^DateIsExpected^tarehe inatarajiwa.^DateIsExpected^
+
+^DateSortAscending^Mwanzoni juu ya Juu^DateSortAscending^
+
+^DateSortDescending^Latest juu ya Juu^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Karibu^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Tafadhali jaza fomu hii na bonyeza OK kuunda mpya {0} rekodi. Bonyeza Ghairi kurudi screen uliopita.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Hizi ni mashamba ya rekodi {0} ambayo inaweza kuwa mwisho.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Tafadhali mapitio {0} habari hapa chini. Click Edit na mabadiliko ya rekodi hii, bonyeza Futa kufuta rekodi, au bonyeza Cancel / Karibu na kurudi nyuma.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Hii ni orodha ya {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Kukamilisha fomu. Kuhakikisha kuingia katika nyanja zote zinazohitajika.^DefaultNewDescription^
+
+^DefaultOption^Kiwango^DefaultOption^
+
+^DefaultReferenceDescription^Maelezo ya ziada kuhusu {0} hutolewa katika sehemu ya taarifa ya kumbukumbu.^DefaultReferenceDescription^
+
+^Delete^Kufuta^Delete^
+
+^DeleteActionConfirmation^Futa?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Kufuta^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Delete)^DeleteSearchBarField^
+
+^DetailsToolTip^View maelezo kwa {0}^DetailsToolTip^
+
+^Directions^Maelekezo^Directions^
+
+^DisplayDensity^Kuonyesha Uzito wiani^DisplayDensity^
+
+^DisplayedAbove^Ka zaidi ya^DisplayedAbove^
+
+^DisplayedBelow^Ka Chini ya^DisplayedBelow^
+
+^Dock^Kizimbani^Dock^
+
+^DoesNotBeginWith^Je, si kuanza na^DoesNotBeginWith^
+
+^DoesNotContain^Haina^DoesNotContain^
+
+^DoesNotEndWith^Je, si mwisho Kwa^DoesNotEndWith^
+
+^DoesNotEqual^Je, si sawa^DoesNotEqual^
+
+^DoesNotInclude^Je, ni pamoja na^DoesNotInclude^
+
+^DoNotMatchAll^Je, si mechi masharti yote^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Je, si mechi masharti yote^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Je, si mechi ya masharti yoyote^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Je, si mechi ya masharti yoyote^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Duplicate^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Hariri^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Kufuta^EditModeCancelActionHeaderText^
+
+^EmptyContext^Vitendo hazipatikani.^EmptyContext^
+
+^EmptyValue^(Tupu)^EmptyValue^
+
+^EndsWith^Mwisho Kwa^EndsWith^
+
+^Equals^Sawa^Equals^
+
+^ExportCsvActionDescription^Download vitu katika format CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Shusha^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Kuchambua vitu kwa spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Kuuza nje ya Taarifa^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate vitu na msomaji RSS.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^View RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Mpenzi^Favorites^
+
+^Felt^Waliona^Felt^
+
+^Filter^Chujio^Filter^
+
+^FilterApplied^filter imekuwa inatumika.^FilterApplied^
+
+^FilterByField^Kuchagua uwanja kuomba filter kwa <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Chagua chaguzi moja au zaidi katika orodha ya chini na vyombo vya habari <b>{2}</b> kuchuja <b>{0}</b> na shamba <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^na^FilterLabelAnd^
+
+^FilterLabelClear^Wazi^FilterLabelClear^
+
+^FilterLabelEquals^sawa^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Mabadiliko ya^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^ni pamoja na^FilterLabelIncludes^
+
+^FilterLabelOr^au^FilterLabelOr^
+
+^FilterLabelSelectAll^(Chagua zote)^FilterLabelSelectAll^
+
+^FilterSiteMap^Filter ramani ya tovuti ...^FilterSiteMap^
+
+^FlatTreeToggle^Kubadili Hierarkia^FlatTreeToggle^
+
+^FontName^Font Jina^FontName^
+
+^FontSize^Font Size^FontSize^
+
+^ForeColor^Rangi ya mbele^ForeColor^
+
+^ForgotYourPassword^Umesahau nywila yako?^ForgotYourPassword^
+
+^Freeze^Kufungia^Freeze^
+
+^Future^Baadaye^Future^
+
+^GeneralTabText^Mkuu^GeneralTabText^
+
+^GenericNewToolTip^Kujenga Mpya^GenericNewToolTip^
+
+^GenericSortAscending^Ndogo juu ya Juu^GenericSortAscending^
+
+^GenericSortDescending^Mkubwa juu ya Juu^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Granite^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Mvuto^Gravity^
+
+^GreaterThan^Kubwa kuliko^GreaterThan^
+
+^Grid^Gridi ya taifa^Grid^
+
+^GridActionDescription^Kuonyesha vitu katika format standard<br/>list.^GridActionDescription^
+
+^GridActionHeaderText^Onyesha katika View Standard^GridActionHeaderText^
+
+^Help^Msaada^Help^
+
+^HelpClose^Karibu^HelpClose^
+
+^HelpFullScreen^Kamili Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Ficha Tafuta Advanced^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Orodha ya kubadili Flat^HierarchyTreeModeToggle^
+
+^History^Historia^History^
+
+^HistoryToolTip^View historia ya kumbukumbu za awali kuchaguliwa^HistoryToolTip^
+
+^HistoryUnavailable^Historia ni hazipatikani.^HistoryUnavailable^
+
+^Home^Nyumbani^Home^
+
+^IdleUser^Je, bado kuna? Tafadhali login tena.^IdleUser^
+
+^ImportActionDescription^Upload CSV XLS,, au XLSX kumbukumbu file<br/>to kuagiza.^ImportActionDescription^
+
+^ImportActionHeaderText^Import Kutoka Picha^ImportActionHeaderText^
+
+^ImportAutoDetect^(Auto kuchunguza)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Download kuagiza faili template.^ImportDownloadTemplate^
+
+^ImportEmail^Tuma logi kuagiza kwa anwani zifuatazo email (optional)^ImportEmail^
+
+^ImportEmailNotSpecified^Mpokeaji wa logi kuagiza haijawahi maalum. Kuendelea anyway?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Kuna rekodi <b>{0}</b> (s) katika <b>{1}</b> file tayari processed.<br/>Please ramani mashamba kuagiza kutoka file data kwa mashamba ya maombi na bonyeza <i>Import</i> kuanza usindikaji.^ImportMappingInstruction^
+
+^ImportProcessing^Import usindikaji faili imekuwa ulianzishwa. kumbukumbu za data nje itakuwa kutosha juu ya usindikaji mafanikio. Unaweza haja na kupata mahitaji muhimu maoni / kurasa ya kuona kumbukumbu za nje.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^File yako ni kuwa uploaded kwa seva. Tafadhali kusubiri ...^ImportUploading^
+
+^ImportUploadInstruction^Tafadhali chagua faili upload. file lazima katika muundo <b>CSV</b>, <b>XLS</b>, au <b>XLSX</b>.^ImportUploadInstruction^
+
+^In^katika^In^
+
+^Includes^Ni pamoja na^Includes^
+
+^Indent^Indent^Indent^
+
+^InfoBarAnd^na^InfoBarAnd^
+
+^InfoBarEmpty^tupu^InfoBarEmpty^
+
+^InfoBarEqualTo^ni sawa na^InfoBarEqualTo^
+
+^InfoBarGreaterThan^ni kubwa zaidi kuliko^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^ni kubwa zaidi kuliko au sawa^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^ni chini ya^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^ni chini ya au sawa na^InfoBarLessThanOrEqual^
+
+^InfoBarLike^ni kama^InfoBarLike^
+
+^InfoBarOr^au^InfoBarOr^
+
+^InfoBarQuickFind^Shamba yoyote ina^InfoBarQuickFind^
+
+^InfoBarStartsWith^huanza na^InfoBarStartsWith^
+
+^InitialListMode^Awali Mode ya Orodha^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Kuingiza Utawala Horizontal^InsertHorizontalRule^
+
+^InsertOrderedList^Kuingiza Aliamrisha Orodha^InsertOrderedList^
+
+^InsertUnorderedList^Insert unordered Orodha^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^User name yako na password ni si halali.^InvalidUserNameAndPassword^
+
+^Italic^Italiki^Italic^
+
+^ItemsPerPage^Vitu kwa kila ukurasa:^ItemsPerPage^
+
+^JustifyCenter^Kuhalalisha Center^JustifyCenter^
+
+^JustifyFull^Kuhalalisha Kamili^JustifyFull^
+
+^JustifyLeft^Kuhalalisha kushoto^JustifyLeft^
+
+^JustifyRight^Kuhalalisha Haki^JustifyRight^
+
+^Lacquer^Lacquer^Lacquer^
+
+^Laminate^Laminate^Laminate^
+
+^Landscape^Mazingira^Landscape^
+
+^LastMonth^Jana Mwezi^LastMonth^
+
+^LastQuarter^Robo ya mwisho^LastQuarter^
+
+^LastWeek^Wiki iliyopita^LastWeek^
+
+^LastYear^Mwaka jana^LastYear^
+
+^LessThan^Chini ya^LessThan^
+
+^Lichen^Mwani^Lichen^
+
+^LightTheme^Mwanga^LightTheme^
+
+^List^Orodha ya^List^
+
+^ListOneColumn^Orodha ya (One Column)^ListOneColumn^
+
+^Loading^Loading ...^Loading^
+
+^Logical^Logical^Logical^
+
+^LoginButton^Login^LoginButton^
+
+^LoginLink^Login^LoginLink^
+
+^Logout^Logout^Logout^
+
+^LookupInstruction^Tafadhali kuchagua <b>{0}</b> katika orodha.^LookupInstruction^
+
+^LookupOriginalSelection^awali uteuzi ni <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Ramani^Map^
+
+^MatchAll^Mechi masharti yote^MatchAll^
+
+^MatchAllPastTense^Kuendana masharti yote^MatchAllPastTense^
+
+^MatchAny^Mechi ya masharti yoyote^MatchAny^
+
+^MatchAnyPastTense^Kuendana masharti yoyote^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Upeo wa {0}^MaxAggregateToolTip^
+
+^Maximize^Kupanua^Maximize^
+
+^Menu^Menu^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Kima cha chini cha {0}^MinAggregateToolTip^
+
+^Minimize^Kuanguka^Minimize^
+
+^Mission^Mission^Mission^
+
+^ModeBrowsing^Kuvinjari^ModeBrowsing^
+
+^ModeEditing^Kubadilisha^ModeEditing^
+
+^ModeEntering^Kujenga^ModeEntering^
+
+^ModeLookup^Kutafuta^ModeLookup^
+
+^Modern^Kisasa^Modern^
+
+^ModernRose^Kisasa Rose^ModernRose^
+
+^ModeViewing^Kuangalia^ModeViewing^
+
+^More^Zaidi^More^
+
+^Municipal^Manispaa ya^Municipal^
+
+^MyAccount^Akaunti yangu^MyAccount^
+
+^Never^Kamwe^Never^
+
+^NewActionHeaderText^Mpya^NewActionHeaderText^
+
+^NewRowLink^Bonyeza hapa ili kujenga rekodi mpya.^NewRowLink^
+
+^NewToolTip^Mpya {0}^NewToolTip^
+
+^Next^Next^Next^
+
+^NextMonth^Mwezi ujao^NextMonth^
+
+^NextQuarter^Robo ya pili^NextQuarter^
+
+^NextWeek^Wiki ijayo^NextWeek^
+
+^NextYear^Mwaka ujao^NextYear^
+
+^No^Hakuna^No^
+
+^NoRecords^Hakuna kumbukumbu found.^NoRecords^
+
+^NoteDeleteConfirm^Futa?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^kufuta^NoteDeleteLabel^
+
+^NoteEditLabel^hariri^NoteEditLabel^
+
+^NullValue^n /^NullValue^
+
+^NullValueInForms^N /^NullValueInForms^
+
+^Number^Idadi^Number^
+
+^NumberFilterText^Idadi Filters^NumberFilterText^
+
+^NumberIsExpected^idadi inatarajiwa.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Open^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Kwanza^Page^
+
+^Password^Password^Password^
+
+^Past^Zamani^Past^
+
+^Paste^Kuweka^Paste^
+
+^PerformAdvancedSearch^Tafuta^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Kujenga uhusiano wa kudumu kwa ajili ya kumbukumbu kuchaguliwa^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink ni hazipatikani. Tafadhali chagua rekodi.^PermalinkUnavailable^
+
+^Petal^Petal^Petal^
+
+^Pinnate^Pinnate^Pinnate^
+
+^Plastic^Plastiki^Plastic^
+
+^Portrait^Picha^Portrait^
+
+^PresentationStyle^Kuchagua data kuwasilisha style.^PresentationStyle^
+
+^Previous^Previous^Previous^
+
+^PromoteActions^Kukuza Vitendo^PromoteActions^
+
+^Quarter1^Robo 1^Quarter1^
+
+^Quarter2^Robo 2^Quarter2^
+
+^Quarter3^Robo 3^Quarter3^
+
+^Quarter4^Robo 4^Quarter4^
+
+^QuickFindScope^Search katika ...^QuickFindScope^
+
+^QuickFindText^Quick Find^QuickFindText^
+
+^QuickFindToolTip^Jaribu kutafuta rekodi na waandishi wa habari kuingia^QuickFindToolTip^
+
+^Recent^Hivi karibuni^Recent^
+
+^Redo^Rudia^Redo^
+
+^Refresh^Refresh^Refresh^
+
+^RememberMe^Unikumbuke wakati mwingine^RememberMe^
+
+^RemoveCondition^Hali kuondoa^RemoveCondition^
+
+^RemoveFormat^Kuondoa Format^RemoveFormat^
+
+^ReportActionDescription^Kutoa taarifa katika format PDF^ReportActionDescription^
+
+^ReportActionHeaderText^Ripoti^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^View vitu katika spreadsheet formatted<br/>Microsoft Excel.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Taarifa^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^View vitu kama picha multipage TIFF.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Image Multipage^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^View vitu kama Adobe PDF document.<br/>Requires msomaji sambamba.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF Document^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^View vitu katika hati Neno formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Required^Required^
+
+^RequiredField^Uwanja huu ni required.^RequiredField^
+
+^RequiredFiledMarkerFootNote^inaonyesha shamba required^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Upya^ResetAdvancedSearch^
+
+^ResumeBrowsing^Kuendelea Inatafuta^ResumeBrowsing^
+
+^ResumeEditing^Kuendelea Editing^ResumeEditing^
+
+^ResumeEntering^Kuanza kuingia^ResumeEntering^
+
+^ResumeLookup^Kuendelea Luke^ResumeLookup^
+
+^ResumeViewing^Kuendelea Viewing^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Majukumu^RolesTab^
+
+^RootNodeText^Kiwango cha juu^RootNodeText^
+
+^Rotate^Mzunguko^Rotate^
+
+^RowCancelActionHeaderText^Kufuta^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Insert^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Hifadhi^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Mwisho?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Mwisho Uchaguzi^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Hifadhi^Save^
+
+^SaveAndNew^Kuokoa na New^SaveAndNew^
+
+^SeeAll^Angalia zote^SeeAll^
+
+^SeeAlso^Angalia pia^SeeAlso^
+
+^SelectActionHeaderText^Chagua^SelectActionHeaderText^
+
+^SelectAll^Chagua zote^SelectAll^
+
+^SelectLink^(Chagua)^SelectLink^
+
+^SelectToolTip^Chagua {0}^SelectToolTip^
+
+^Separator^Separator^Separator^
+
+^Settings^Mazingira^Settings^
+
+^ShowAdvancedSearch^Kuonyesha Advanced Search^ShowAdvancedSearch^
+
+^ShowingItems^Showing <b>{0}</b>-<b>{1}</b> ya vitu <b>{2}</b>^ShowingItems^
+
+^ShowingItemsInfo^Kuonyesha {0} vitu.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Ishara kwa sasa^SignUpNow^
+
+^Simple^Rahisi^Simple^
+
+^SiteActions^Hatua tovuti^SiteActions^
+
+^Social^Jamii^Social^
+
+^Sort^Aina^Sort^
+
+^SortBy^Chuja kwa {0}^SortBy^
+
+^SortByField^Kuchagua shamba kubadili mpangilio aina ya <b>{0}</b>.^SortByField^
+
+^SortByOptions^Kuchagua ili aina ya <b>{0}</b> na shamba <b>{1}</b> katika orodha ya chaguzi chini.^SortByOptions^
+
+^StrikeThrough^Kupitia mgomo^StrikeThrough^
+
+^StringSortAscending^Wakipanda^StringSortAscending^
+
+^StringSortDescending^Kushuka^StringSortDescending^
+
+^Subscript^Ndogo Script^Subscript^
+
+^Suggestions^Mapendekezo^Suggestions^
+
+^SumAggregate^Sum: {0}^SumAggregate^
+
+^SumAggregateToolTip^Jumla ya {0}^SumAggregateToolTip^
+
+^Summary^Muhtasari^Summary^
+
+^Summer^Summer^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Kuendelea^TaskResume^
+
+^Tasks^Kazi^Tasks^
+
+^Text^Nakala^Text^
+
+^TextFilterText^Nakala Filters^TextFilterText^
+
+^Theme^Mandhari^Theme^
+
+^ThisMonth^Mwezi huu^ThisMonth^
+
+^ThisQuarter^Hii Robo^ThisQuarter^
+
+^ThisWeek^Wiki Hii^ThisWeek^
+
+^ThisYear^Mwaka huu^ThisYear^
+
+^Today^Leo^Today^
+
+^Tomorrow^Kesho^Tomorrow^
+
+^ToThisWebsite^kwa tovuti hii^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI si mkono katika kivinjari hiki.^TouchUINotSupported^
+
+^TransitionFade^Fade^TransitionFade^
+
+^TransitionFlip^Flip^TransitionFlip^
+
+^TransitionFlow^Flow^TransitionFlow^
+
+^TransitionNone^Hakuna^TransitionNone^
+
+^TransitionPop^Picha^TransitionPop^
+
+^Transitions^Mabadiliko^Transitions^
+
+^TransitionSlide^Slide^TransitionSlide^
+
+^TransitionSlideDown^Slide Down^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Upande^TransitionTurn^
+
+^TreeActionDescription^Kuonyesha uhusiano wa kihierarkia.^TreeActionDescription^
+
+^TreeActionHeaderText^Onyesha Hierarkia^TreeActionHeaderText^
+
+^Underline^Kusisitiza^Underline^
+
+^Undo^Tengua^Undo^
+
+^Undock^Kukatwa^Undock^
+
+^Unfreeze^Unfreeze^Unfreeze^
+
+^UnLink^Kuondoa kiungo^UnLink^
+
+^UnSelect^Kuondoa uteuzi^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Mwisho?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Mwisho Uchaguzi^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Up Level One^UpOneLevel^
+
+^UseLEV^Kuweka &quot;{0}&quot;^UseLEV^
+
+^UserName^Jina la mtumiaji^UserName^
+
+^UsersInRole^Watumiaji katika Wajibu^UsersInRole^
+
+^UsersTab^Watumiaji^UsersTab^
+
+^Vantage^Vantage^Vantage^
+
+^Verdant^Verdant^Verdant^
+
+^View^View^View^
+
+^Viewpoint^Maoni^Viewpoint^
+
+^Welcome1^Karibu^Welcome1^
+
+^Welcome2^Leo ni^Welcome2^
+
+^WhiteSmoke^White Moshi^WhiteSmoke^
+
+^YearToDate^Mwaka kwa tarehe^YearToDate^
+
+^Yes^Ndiyo^Yes^
+
+^Yesterday^Jana^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Kuvuta^ZoomIn^
+
+^ZoomOut^Kuvuta nje^ZoomOut^
+

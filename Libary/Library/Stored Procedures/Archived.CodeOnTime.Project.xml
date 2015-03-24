@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<project xmlns="http://www.codeontime.com/2008/code-generator"
+         xmlns:ontime="http://www.codeontime.com/2008/code-generator"
+         xmlns:p="urn:schemas-codeontime-com:stored-procedures-project"
+         xmlns:bo="urn:schemas-codeontime-com:business-objects"
+         debug="false">
+  <information>
+    <product>COT200807-SP</product>
+    <title>Stored Procedures</title>
+    <description>Generate a collection of stored procedures for your DAL straight from your database. Complete set of CRUD operations is supported. Use the generated stored procedures in the desktop and web applications.</description>
+    <vendor>Code OnTime LLC</vendor>
+    <website>http://www.codeontime.com</website>
+  </information>
+  <build>
+    <!-- load entire project output file/folder tree -->
+    <load path="$ProjectPath">
+      <if test="not(file/@name='StoredProcedures.Project.xml')">
+        <copy input="$LibraryPath\StoredProcedures.Project.xml" output="StoredProcedures.Project.xml"/>
+      </if>
+    </load>
+    <navigate url="StoredProcedures.Start.htm"/>
+    <load path="StoredProcedures.Project.xml">
+      <variable name="ConnectionString" select="p:project/p:connectionString"/>
+      <variable name="ProviderName" select="p:project/p:providerName"/>
+      <variable name="DatabaseObjectFilter" select="p:project/p:databaseObjectFilter"/>
+      <variable name="ProcedureNamePrefix" select="p:project/p:procedureNamePrefix"/>
+      <load path="$ProjectPath">
+        <if test="not(file/@name='StoredProcedures.Metadata.xml')">
+          <execute fileName="CodeOnTime.exe" arguments="/connectionString:&quot;$ConnectionString&quot; /providerName:&quot;$ProviderName&quot; /output:&quot;$ProjectPath\StoredProcedures.Metadata.xml&quot;" mode="wait"/>
+        </if>
+      </load>
+    </load>
+    <retract path="Error.StoredProcedures.Metadata.xml" test="ontime:error!=''" steps="2"/>
+    <!-- load meta data produced by the import process in the previous step and convert it into the standardized project data model -->
+    <load path="StoredProcedures.Metadata.xml">
+      <transform template="$LibraryRoot\_System\DataModel.xslt" output="DataModel.xml">
+        <param name="DatabaseObjectFilter" select="$DatabaseObjectFilter"/>
+      </transform>
+    </load>
+    <!-- convert project data model to business objects -->
+    <load path="DataModel.xml">
+      <transform template="$LibraryRoot\_System\BusinessObjects.xslt" output="BusinessObjects.xml"/>
+    </load>
+    <navigate url="StoredProcedures.BusinessObjects.htm"/>
+    <retract path="StoredProcedures.Project.xml" test="p:project/@nextStep!='Generate'" steps="6"/>
+    <!-- create a backup of the project source code -->
+    <message text="backup the previous version of the project"/>
+    <load path="$ProjectPath">
+      <forEach select="//file">
+        <copy input="$ProjectPath\{@path}" output="$BackupPath\{@path}"/>
+      </forEach>
+    </load>
+    <message text="end backup"/>
+    <load path="StoredProcedures.Project.xml">
+      <variable name="Namespace" select="p:project/p:namespace"/>
+      <load path="BusinessObjects.xml">
+        <forEach select="bo:businessObjectCollection/bo:businessObject">
+          <choose>
+            <when test="starts-with(@name, concat(@nativeSchema, '_'))">
+              <variable name="ProcedureName" select="substring-after(@name, concat(@nativeSchema, '_'))"/>
+            </when>
+            <otherwise>
+              <variable name="ProcedureName" select="@name"/>
+            </otherwise>
+          </choose>
+          <transform template="Select.sql.xslt" output="{@name}\$ProcedureName{'_'}Select.sql">
+            <param name="ProcedureNamePrefix" select="$ProcedureNamePrefix"/>
+          </transform>
+          <transform template="SelectSingle.sql.xslt" output="{@name}\$ProcedureName{'_'}SelectSingle.sql">
+            <param name="ProcedureNamePrefix" select="$ProcedureNamePrefix"/>
+          </transform>
+          <transform template="Insert.sql.xslt" output="{@name}\$ProcedureName{'_'}Insert.sql">
+            <param name="ProviderName" select="$ProviderName"/>
+            <param name="ProcedureNamePrefix" select="$ProcedureNamePrefix"/>
+          </transform>
+          <transform template="Update.sql.xslt" output="{@name}\$ProcedureName{'_'}Update.sql">
+            <param name="ProviderName" select="$ProviderName"/>
+            <param name="ProcedureNamePrefix" select="$ProcedureNamePrefix"/>
+          </transform>
+          <transform template="Delete.sql.xslt" output="{@name}\$ProcedureName{'_'}Delete.sql">
+            <param name="ProcedureNamePrefix" select="$ProcedureNamePrefix"/>
+          </transform>
+        </forEach>
+      </load>
+    </load>
+    <!-- delete the stored procedure assemly CreateAllProcedures.sql and stored procedure assemblies for individual objects -->
+    <delete path="CreateAllProcedures.sql"/>
+    <delete path="DropAllProcedures.sql"/>
+    <load path="$ProjectPath">
+      <forEach select="folder">
+        <delete path="{@name}\{@name}.sql"/>
+      </forEach>
+    </load>
+    <!-- create stored procedure assemblies -->
+    <load path="$ProjectPath">
+      <!-- main assembly CreateAllProcedures.sql -->
+      <forEach select="//file[contains(@name, '.sql')]">
+        <copy input="$ProjectPath\{@path}" output="CreateAllProcedures.sql" mode="append"/>
+      </forEach>
+      <!-- assemblies for each business object -->
+      <forEach select="folder">
+        <variable name="ObjectProcedureAssembly" select="concat(@name, '\', @name, '.sql')"/>
+        <forEach select="file[contains(@name, '.sql')]">
+          <copy input="$ProjectPath\{@path}" output="$ObjectProcedureAssembly" mode="append"/>
+        </forEach>
+      </forEach>
+      <!-- create a drop script for procedures -->
+    </load>
+    <copy input="$ProjectPath\CreateAllProcedures.sql" output="DropAllProcedures.sql">
+      <regex pattern="[\S\s]*?(drop procedure .+\r\n)" replacement="$1"/>
+      <regex pattern="((drop procedure .+\r\n)+)[\S\s]+" replacement="$1"/>
+    </copy>
+    <delete path="DataModel.xml"/>
+    <delete path="BusinessObjects.xml"/>
+    <execute fileName="file://$ProjectPath" arguments="" mode="nowait"/>
+  </build>
+</project>

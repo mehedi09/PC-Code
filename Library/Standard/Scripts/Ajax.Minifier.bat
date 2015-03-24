@@ -1,0 +1,8 @@
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "Web.DataView.js" -o "..\..\Data Aquarium\Scripts\Web.DataView.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "Web.DataViewResources.js" -o "..\..\Data Aquarium\Scripts\Web.DataViewResources.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "Web.Membership.js" -o "..\..\Data Aquarium\Scripts\Web.Membership.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "Web.MembershipManager.js" -o "..\..\Data Aquarium\Scripts\Web.MembershipManager.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "Web.MembershipResources.js" -o "..\..\Data Aquarium\Scripts\Web.MembershipResources.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "Web.Menu.js" -o "..\..\Data Aquarium\Scripts\Web.Menu.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "..\..\Premium\Scripts\Web.DataViewExtensions.debug.js" -o "..\..\Premium\Scripts\Web.DataViewExtensions.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier 4\ajaxmin.exe" -hc -clobber:True "..\..\Premium\Mobile\Web.Mobile.js" -o "..\..\Data Aquarium\Mobile\Web.Mobile.js"

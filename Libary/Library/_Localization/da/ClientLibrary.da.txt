@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Om^About^
+
+^ActionBarActionsHeaderText^Handlinger^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Annuller^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Annuller alle registrere ændringer.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Annuller ny rekord.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Gem ny rekord til databasen.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Gem^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Opret en ny {0} rekord.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Nye {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Nyt^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Optag^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Rapport^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Gem ændringer til databasen.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Gem^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Tilføj betingelse^AddCondition^
+
+^AddConditionText^Tilføj søgebetingelse^AddConditionText^
+
+^AddMatchingGroup^Tilføj matchende gruppe^AddMatchingGroup^
+
+^AddSearchBarField^Flere søgefelter^AddSearchBarField^
+
+^AddToFavorites^Tilføj til favoritter^AddToFavorites^
+
+^AdvancedSearch^Avanceret søgning^AdvancedSearch^
+
+^After^Efter^After^
+
+^AlignedLeft^Venstrejusteret^AlignedLeft^
+
+^AlignedRight^Højrejusteret^AlignedRight^
+
+^AllDatesInPreriod^Alle datoer i perioden^AllDatesInPreriod^
+
+^AlternativeView^Vælg et alternativ visning af data.^AlternativeView^
+
+^Always^Altid^Always^
+
+^Apply^Anvend^Apply^
+
+^Aquarium^Akvarium^Aquarium^
+
+^AvgAggregate^Avg: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Gennemsnit af {0}^AvgAggregateToolTip^
+
+^Azure^Azure^Azure^
+
+^Back^Tilbage^Back^
+
+^BackColor^Back Color^BackColor^
+
+^BatchEditActionHeaderText^Batch Edit^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Batch Edit (formular)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^Opdater^BatchUpdate^
+
+^Before^Før^Before^
+
+^BeginsWith^Begynder med^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Berry^Berry^
+
+^Between^Mellem^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Adgangskode kan ikke være tomt.^BlankPassword^
+
+^BlankUserName^Bruger navn kan ikke være tomt.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Klik her for at hente den originale fil.^BlobDownloadHint^
+
+^BlobDownloadLink^Hent^BlobDownloadLink^
+
+^Bold^Fed^Bold^
+
+^BooleanFilterText^Logisk Filtre^BooleanFilterText^
+
+^BooleanIsExpected^En logisk værdi forventes.^BooleanIsExpected^
+
+^ButtonShapes^Knapfaconer^ButtonShapes^
+
+^Calendar^Kalender^Calendar^
+
+^Cancel^Annuller^Cancel^
+
+^Cards^Kort^Cards^
+
+^Cay^Cay^Cay^
+
+^ChangeYourLanguage^Skift sprog^ChangeYourLanguage^
+
+^Citrus^Citrus^Citrus^
+
+^Classic^Classic^Classic^
+
+^ClearFilter^Fjern filter fra {0}^ClearFilter^
+
+^ClearText^Klar tekst^ClearText^
+
+^ClearToolTip^Klar {0}^ClearToolTip^
+
+^Close^Luk^Close^
+
+^Comfortable^Komfortabel^Comfortable^
+
+^Compact^Compact^Compact^
+
+^Condensed^Condensed^Condensed^
+
+^ConfirmReload^Opdater?^ConfirmReload^
+
+^ConnectionLost^Netværksforbindelsen er gået tabt. Prøv igen?^ConnectionLost^
+
+^Construct^Construct^Construct^
+
+^Contains^Indeholder^Contains^
+
+^Convention^Konventionen^Convention^
+
+^Copy^Kopier^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Greven af ​​{0}^CountAggregateToolTip^
+
+^CreateLink^Opret link^CreateLink^
+
+^CustomFilterOption^Filter ...^CustomFilterOption^
+
+^Cut^Skær^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Mørk^DarkTheme^
+
+^DataSheetActionDescription^Vis elementer ved hjælp af en data sheet<br/>format.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Vis i Data Sheet^DataSheetActionHeaderText^
+
+^Date^Dato^Date^
+
+^DateFilterText^Datofiltre^DateFilterText^
+
+^DateIsExpected^En dato er forventet.^DateIsExpected^
+
+^DateSortAscending^Ældste on Top^DateSortAscending^
+
+^DateSortDescending^Seneste nyt om Top^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Luk^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Udfyld denne formular og klik på OK-knappen for at oprette en ny {0} rekord. Klik på Annuller for at vende tilbage til den forrige skærm.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Det er de felter i {0} post, der kan redigeres.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Du bedes gennemgå {0} oplysninger nedenfor. Klik på Rediger for at ændre dette, klik på Slet for at slette posten, eller klik på Annuller / Luk for at vende tilbage.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Dette er en liste over {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Udfyld formularen. Sørg for at indtaste alle de påkrævede felter.^DefaultNewDescription^
+
+^DefaultOption^Standard^DefaultOption^
+
+^DefaultReferenceDescription^Yderligere oplysninger om {0} findes i reference information sektionen.^DefaultReferenceDescription^
+
+^Delete^Slet^Delete^
+
+^DeleteActionConfirmation^Slet?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Slet^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Slet)^DeleteSearchBarField^
+
+^DetailsToolTip^Se detaljer for {0}^DetailsToolTip^
+
+^Directions^Kørselsvejledning^Directions^
+
+^DisplayDensity^Display Density^DisplayDensity^
+
+^DisplayedAbove^Vises over^DisplayedAbove^
+
+^DisplayedBelow^Vises under^DisplayedBelow^
+
+^Dock^Forbinde^Dock^
+
+^DoesNotBeginWith^Begynder ikke med^DoesNotBeginWith^
+
+^DoesNotContain^Indeholder ikke^DoesNotContain^
+
+^DoesNotEndWith^Slutter ikke med^DoesNotEndWith^
+
+^DoesNotEqual^Er ikke lig^DoesNotEqual^
+
+^DoesNotInclude^Indeholder ikke^DoesNotInclude^
+
+^DoNotMatchAll^Passer ikke alle forhold^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Matchede ikke alle forhold^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Matcher ikke nogen betingelser^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Matchede ikke nogen betingelser^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Dupliker^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Rediger^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Annuller^EditModeCancelActionHeaderText^
+
+^EmptyContext^Handlinger er ikke tilgængelige.^EmptyContext^
+
+^EmptyValue^(Tom)^EmptyValue^
+
+^EndsWith^Slutter med^EndsWith^
+
+^Equals^Lig^Equals^
+
+^ExportCsvActionDescription^Hente elementer i CSV-format.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Hent^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analyser genstande med spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Eksporter til regneark^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate artikler med en RSS-læser.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Vis RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Foretrukne^Favorites^
+
+^Felt^Filt^Felt^
+
+^Filter^Filter^Filter^
+
+^FilterApplied^Et filter er blevet anvendt.^FilterApplied^
+
+^FilterByField^Vælg et felt for at anvende et filter til at <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Vælg en eller flere indstillinger i listen nedenfor, og tryk på <b>{2}</b> at filtrere <b>{0}</b> af feltet <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^og^FilterLabelAnd^
+
+^FilterLabelClear^Ryd^FilterLabelClear^
+
+^FilterLabelEquals^lig^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Skift^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^omfatter^FilterLabelIncludes^
+
+^FilterLabelOr^eller^FilterLabelOr^
+
+^FilterLabelSelectAll^(Vælg alle)^FilterLabelSelectAll^
+
+^FilterSiteMap^Filter site map...^FilterSiteMap^
+
+^FlatTreeToggle^Skift til Hierarkiet^FlatTreeToggle^
+
+^FontName^Font Name^FontName^
+
+^FontSize^Font Size^FontSize^
+
+^ForeColor^Fore Color^ForeColor^
+
+^ForgotYourPassword^Har du glemt din adgangskode?^ForgotYourPassword^
+
+^Freeze^Frys^Freeze^
+
+^Future^Fremtidige^Future^
+
+^GeneralTabText^Generelt^GeneralTabText^
+
+^GenericNewToolTip^Opret ny^GenericNewToolTip^
+
+^GenericSortAscending^Mindste on Top^GenericSortAscending^
+
+^GenericSortDescending^Største on Top^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Granit^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Gravity^Gravity^
+
+^GreaterThan^Større end^GreaterThan^
+
+^Grid^Grid^Grid^
+
+^GridActionDescription^Vis emner i standard<br/>list format.^GridActionDescription^
+
+^GridActionHeaderText^Vis i Standard View^GridActionHeaderText^
+
+^Help^Hjælp^Help^
+
+^HelpClose^Luk^HelpClose^
+
+^HelpFullScreen^Fuld skærm^HelpFullScreen^
+
+^HideAdvancedSearch^Skjul Avanceret Søgning^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Skift til flad liste^HierarchyTreeModeToggle^
+
+^History^Historie^History^
+
+^HistoryToolTip^Vis oversigt over tidligere udvalgte poster^HistoryToolTip^
+
+^HistoryUnavailable^Historien er ikke tilgængelig.^HistoryUnavailable^
+
+^Home^Hjem^Home^
+
+^IdleUser^Er du stadig der? Log venligst ind igen.^IdleUser^
+
+^ImportActionDescription^Upload en CSV, XLS, eller XLSX file<br/>to importere registreringer.^ImportActionDescription^
+
+^ImportActionHeaderText^Importer fra fil^ImportActionHeaderText^
+
+^ImportAutoDetect^(Auto detektere)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Hent importfilen skabelon.^ImportDownloadTemplate^
+
+^ImportEmail^Send import-loggen til følgende e-mail adresser (valgfrit)^ImportEmail^
+
+^ImportEmailNotSpecified^Modtageren af ​​import-loggen er ikke blevet specificeret. Fortsæt alligevel?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Der er <b>{0}</b> record (s) i filen <b>{1}</b> klar til at blive processed.<br/>Please kort import felter fra datafilen til ansøgningen felterne og klik <i>Import</i> at starte behandlingen.^ImportMappingInstruction^
+
+^ImportProcessing^Import filbehandling er blevet indledt. Den importerede dataposter vil blive tilgængelige efter vellykket behandling. Det kan være nødvendigt at opdatere relevante synspunkter / sider for at se de importerede poster.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Din fil er ved at blive uploadet til serveren. Vent venligst ...^ImportUploading^
+
+^ImportUploadInstruction^Vælg venligst den fil, der skal uploades. Filen skal være i <b>CSV</b>, <b>XLS</b> eller <b>XLSX</b> format.^ImportUploadInstruction^
+
+^In^i^In^
+
+^Includes^Indeholder^Includes^
+
+^Indent^Indrykning^Indent^
+
+^InfoBarAnd^og^InfoBarAnd^
+
+^InfoBarEmpty^tom^InfoBarEmpty^
+
+^InfoBarEqualTo^er lig med^InfoBarEqualTo^
+
+^InfoBarGreaterThan^er større end^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^er større end eller lig med^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^er mindre end^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^er mindre end eller lig med^InfoBarLessThanOrEqual^
+
+^InfoBarLike^er ligesom^InfoBarLike^
+
+^InfoBarOr^eller^InfoBarOr^
+
+^InfoBarQuickFind^Alle felter indeholder^InfoBarQuickFind^
+
+^InfoBarStartsWith^starter med^InfoBarStartsWith^
+
+^InitialListMode^Indledende Liste tilstand^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Indsæt Horisontal regel^InsertHorizontalRule^
+
+^InsertOrderedList^Indsæt Bestilt List^InsertOrderedList^
+
+^InsertUnorderedList^Indsæt usorteret liste^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Dit brugernavn og adgangskode er ikke gyldig.^InvalidUserNameAndPassword^
+
+^Italic^Kursiv^Italic^
+
+^ItemsPerPage^Varer per side:^ItemsPerPage^
+
+^JustifyCenter^Begrund center^JustifyCenter^
+
+^JustifyFull^Begrund Full^JustifyFull^
+
+^JustifyLeft^Begrund Venstre^JustifyLeft^
+
+^JustifyRight^Begrund Right^JustifyRight^
+
+^Lacquer^Lak^Lacquer^
+
+^Laminate^Laminat^Laminate^
+
+^Landscape^Landskab^Landscape^
+
+^LastMonth^Sidste måned^LastMonth^
+
+^LastQuarter^Sidste kvartal^LastQuarter^
+
+^LastWeek^Sidste uge^LastWeek^
+
+^LastYear^Sidste år^LastYear^
+
+^LessThan^Mindre end^LessThan^
+
+^Lichen^Lichen^Lichen^
+
+^LightTheme^Lys^LightTheme^
+
+^List^Liste^List^
+
+^ListOneColumn^Liste (en kolonne)^ListOneColumn^
+
+^Loading^Loading ...^Loading^
+
+^Logical^Logisk^Logical^
+
+^LoginButton^Log ind^LoginButton^
+
+^LoginLink^Log ind^LoginLink^
+
+^Logout^Logout^Logout^
+
+^LookupInstruction^Vælg <b>{0}</b> på listen.^LookupInstruction^
+
+^LookupOriginalSelection^Den oprindelige udvælgelse er <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Kort^Map^
+
+^MatchAll^Match alle forhold^MatchAll^
+
+^MatchAllPastTense^Matchet alle forhold^MatchAllPastTense^
+
+^MatchAny^Match eventuelle betingelser^MatchAny^
+
+^MatchAnyPastTense^Matchet eventuelle betingelser^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Højst {0}^MaxAggregateToolTip^
+
+^Maximize^Udvid^Maximize^
+
+^Menu^Menu^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Mindst {0}^MinAggregateToolTip^
+
+^Minimize^Collapse^Minimize^
+
+^Mission^Mission^Mission^
+
+^ModeBrowsing^Visning^ModeBrowsing^
+
+^ModeEditing^Redigering^ModeEditing^
+
+^ModeEntering^Indtastning^ModeEntering^
+
+^ModeLookup^Søger^ModeLookup^
+
+^Modern^Moderne^Modern^
+
+^ModernRose^Moderne Rose^ModernRose^
+
+^ModeViewing^Visning^ModeViewing^
+
+^More^Mere^More^
+
+^Municipal^Municipal^Municipal^
+
+^MyAccount^Min konto^MyAccount^
+
+^Never^Aldrig^Never^
+
+^NewActionHeaderText^Nyt^NewActionHeaderText^
+
+^NewRowLink^Klik her for at oprette en ny rekord.^NewRowLink^
+
+^NewToolTip^Nye {0}^NewToolTip^
+
+^Next^Næste^Next^
+
+^NextMonth^Næste måned^NextMonth^
+
+^NextQuarter^Næste kvartal^NextQuarter^
+
+^NextWeek^Næste uge^NextWeek^
+
+^NextYear^Næste år^NextYear^
+
+^No^Ingen^No^
+
+^NoRecords^Ingen poster fundet.^NoRecords^
+
+^NoteDeleteConfirm^Slet?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^Slet^NoteDeleteLabel^
+
+^NoteEditLabel^edit^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Nummer^Number^
+
+^NumberFilterText^Talfiltre^NumberFilterText^
+
+^NumberIsExpected^Et antal forventes.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Open^OpenActionHeaderText^
+
+^Outdent^Udrykke^Outdent^
+
+^Page^Side^Page^
+
+^Password^Password^Password^
+
+^Past^Past^Past^
+
+^Paste^Indsæt^Paste^
+
+^PerformAdvancedSearch^Søg^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Opret et permanent link for udvalgte rekord^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink er ikke tilgængelig. Vælg en rekord.^PermalinkUnavailable^
+
+^Petal^Petal^Petal^
+
+^Pinnate^Finnede^Pinnate^
+
+^Plastic^Plastic^Plastic^
+
+^Portrait^Portræt^Portrait^
+
+^PresentationStyle^Vælg et datapræsentation stil.^PresentationStyle^
+
+^Previous^Forrige^Previous^
+
+^PromoteActions^Fremme Handlinger^PromoteActions^
+
+^Quarter1^1. kvartal^Quarter1^
+
+^Quarter2^2. kvartal^Quarter2^
+
+^Quarter3^Quarter 3^Quarter3^
+
+^Quarter4^4. kvartal^Quarter4^
+
+^QuickFindScope^Søg i ...^QuickFindScope^
+
+^QuickFindText^Hurtig søgning^QuickFindText^
+
+^QuickFindToolTip^Indtast for at søge i journaler og tryk Enter^QuickFindToolTip^
+
+^Recent^Seneste^Recent^
+
+^Redo^Redo^Redo^
+
+^Refresh^Opdater^Refresh^
+
+^RememberMe^Husk mig til næste gang^RememberMe^
+
+^RemoveCondition^Fjern Condition^RemoveCondition^
+
+^RemoveFormat^Fjern Format^RemoveFormat^
+
+^ReportActionDescription^Render en rapport i PDF-format^ReportActionDescription^
+
+^ReportActionHeaderText^Rapport^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Vis emner i en formatted<br/>Microsoft Excel-regneark.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Regneark^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Vis emner som en flersidet TIFF-billede.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Flersidet billede^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Vis emner som Adobe PDF document.<br/>Requires en kompatibel læser.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF-dokument^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Vis emner i en formatted<br/>Microsoft Word-dokument.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Nødvendig^Required^
+
+^RequiredField^Dette felt er påkrævet.^RequiredField^
+
+^RequiredFiledMarkerFootNote^angiver et obligatorisk felt^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Reset^ResetAdvancedSearch^
+
+^ResumeBrowsing^Genoptag Browsing^ResumeBrowsing^
+
+^ResumeEditing^Genoptag redigering^ResumeEditing^
+
+^ResumeEntering^Genoptag Indtastning^ResumeEntering^
+
+^ResumeLookup^Genoptag Opslag^ResumeLookup^
+
+^ResumeViewing^Genoptage visningen^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Roller^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Roter^Rotate^
+
+^RowCancelActionHeaderText^Annuller^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Indsæt^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Gem^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Opdater?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Opdater markeringen^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Gem^Save^
+
+^SaveAndNew^Gem og New^SaveAndNew^
+
+^SeeAll^Se alle^SeeAll^
+
+^SeeAlso^Se også^SeeAlso^
+
+^SelectActionHeaderText^Vælg^SelectActionHeaderText^
+
+^SelectAll^Vælge Alle^SelectAll^
+
+^SelectLink^(Vælg)^SelectLink^
+
+^SelectToolTip^Vælg {0}^SelectToolTip^
+
+^Separator^Separator^Separator^
+
+^Settings^Indstillinger^Settings^
+
+^ShowAdvancedSearch^Vis Avanceret søgning^ShowAdvancedSearch^
+
+^ShowingItems^Viser <b>{0}</b>-<b>{1}</b> af <b>{2}</b> emner^ShowingItems^
+
+^ShowingItemsInfo^Viser {0} poster.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Tilmeld dig nu^SignUpNow^
+
+^Simple^Simple^Simple^
+
+^SiteActions^Webstedshandlinger^SiteActions^
+
+^Social^Social^Social^
+
+^Sort^Ordre^Sort^
+
+^SortBy^Sorter efter {0}^SortBy^
+
+^SortByField^Vælg et felt for at ændre sorteringsrækkefølgen af ​​<b>{0}</b>.^SortByField^
+
+^SortByOptions^Vælg den sorteringsrækkefølge <b>{0}</b> af feltet <b>{1}</b> på listen over nedenstående muligheder.^SortByOptions^
+
+^StrikeThrough^Gennemstrege^StrikeThrough^
+
+^StringSortAscending^Stigende^StringSortAscending^
+
+^StringSortDescending^Faldende^StringSortDescending^
+
+^Subscript^Sub Script^Subscript^
+
+^Suggestions^Forslag^Suggestions^
+
+^SumAggregate^Sum: {0}^SumAggregate^
+
+^SumAggregateToolTip^Summen af ​​{0}^SumAggregateToolTip^
+
+^Summary^Resumé^Summary^
+
+^Summer^Sommer^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Fortsæt^TaskResume^
+
+^Tasks^Opgaver^Tasks^
+
+^Text^Tekst^Text^
+
+^TextFilterText^Tekst Filtre^TextFilterText^
+
+^Theme^Tema^Theme^
+
+^ThisMonth^Denne måned^ThisMonth^
+
+^ThisQuarter^Dette kvartal^ThisQuarter^
+
+^ThisWeek^Denne uge^ThisWeek^
+
+^ThisYear^Dette år^ThisYear^
+
+^Today^I dag^Today^
+
+^Tomorrow^I morgen^Tomorrow^
+
+^ToThisWebsite^til dette website^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI er ikke understøttet i denne browser.^TouchUINotSupported^
+
+^TransitionFade^Fade^TransitionFade^
+
+^TransitionFlip^Flip^TransitionFlip^
+
+^TransitionFlow^Flow^TransitionFlow^
+
+^TransitionNone^Ingen^TransitionNone^
+
+^TransitionPop^Pop^TransitionPop^
+
+^Transitions^Overgange^Transitions^
+
+^TransitionSlide^Slide^TransitionSlide^
+
+^TransitionSlideDown^Glid ned^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Turn^TransitionTurn^
+
+^TreeActionDescription^Display hierarkiske relationer.^TreeActionDescription^
+
+^TreeActionHeaderText^Vis Hierarki^TreeActionHeaderText^
+
+^Underline^Understreget^Underline^
+
+^Undo^Fortryd^Undo^
+
+^Undock^Frigør^Undock^
+
+^Unfreeze^Frigøre^Unfreeze^
+
+^UnLink^Fjern sammenkædning^UnLink^
+
+^UnSelect^Fravælg^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Opdater?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Opdater markeringen^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Et niveau op^UpOneLevel^
+
+^UseLEV^Indsæt &quot;{0}&quot;^UseLEV^
+
+^UserName^Bruger Navn^UserName^
+
+^UsersInRole^Brugere i Rolle^UsersInRole^
+
+^UsersTab^Brugere^UsersTab^
+
+^Vantage^Vantage^Vantage^
+
+^Verdant^Verdant^Verdant^
+
+^View^Vis^View^
+
+^Viewpoint^Udsigtspunkt^Viewpoint^
+
+^Welcome1^Velkommen^Welcome1^
+
+^Welcome2^I dag er det^Welcome2^
+
+^WhiteSmoke^Hvid røg^WhiteSmoke^
+
+^YearToDate^År til dato^YearToDate^
+
+^Yes^Ja^Yes^
+
+^Yesterday^I går^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Zoom ind^ZoomIn^
+
+^ZoomOut^Zoom ud^ZoomOut^
+

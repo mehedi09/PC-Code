@@ -1,0 +1,183 @@
+﻿body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+}
+
+div#DNN6 {
+    position: relative;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+div#Header {
+    background-image: url(Header-BG.png);
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    height: 63px;
+}
+
+div#Background {
+    background-position-x: 0px;
+    background-position-y: bottom;
+    background-size: auto;
+    height: 240px;
+    background-color: rgb(250, 250, 250);
+    background-image: url(Body-BG.png);
+    bottom: 0px;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+div#Content {
+    color: #333;
+    min-height: 600px;
+}
+
+div#Panes {
+    width: 960px;
+    margin: auto;
+}
+
+div#LogoRow {
+    padding: 8px 0px 12px 0px;
+    background-image: url(Logo.png);
+    background-repeat: no-repeat;
+    height: 68px;
+}
+
+div#Breadcrumb {
+}
+
+div#dnn_ContentPane {
+    clear: both;
+}
+
+div#dnn_LeftPane {
+    float: left;
+    width: 630px;
+    margin: 0px 30px 0px 0px;
+}
+
+div#dnn_RightPane {
+    float: left;
+    width: 300px;
+}
+
+div#dnn_BottomPane {
+    clear: both;
+}
+
+div#Footer {
+    background-color: rgb(34, 34, 34);
+    min-height: 45px;
+}
+
+.DnnModule h1.Title {
+    overflow: hidden;
+    font-size: 26px;
+    margin: 0px 0px 0.5em 0px;
+    background-image: url(Title-BG-Red.png);
+    background-position: left center;
+}
+
+    .DnnModule h1.Title .Head {
+        text-transform: uppercase;
+        font-size: 22px;
+        line-height: 24px;
+        padding: 0px 10px 0px 0px;
+        background-color: White;
+    }
+
+
+span.SmallText {
+    color: Silver;
+    font-size: 7.5pt;
+}
+
+a.LinkButton {
+    text-decoration: none;
+    color: #3297E3;
+}
+
+    a.LinkButton:hover {
+        text-decoration: underline;
+        color: #1B4D79;
+    }
+
+div#LogoRow div.Controls {
+    float: right;
+}
+
+    div#LogoRow div.Controls div.Buttons {
+        text-align: right;
+    }
+
+        div#LogoRow div.Controls div.Buttons a, div#LogoRow div.Controls div.Buttons span {
+            height: 16px;
+            display: inline-block;
+            padding-top: 4px;
+        }
+
+a.LinkButton.Settings {
+    padding: 4px 0px 0px 20px;
+    background-image: url(action_settings.gif);
+    background-position: left center;
+    background-repeat: no-repeat;
+    margin-right: 24px;
+}
+
+
+.SettingsPanel ul.Buttons {
+    clear: both;
+    margin: 1em 0px 1em 0px;
+    padding: 1em 0px 0px 0px;
+    border-top: double medium #ccc;
+}
+
+    .SettingsPanel ul.Buttons li {
+        display: block;
+        float: left;
+        list-style-type: none;
+        list-style-position: outside;
+        font-weight: bold;
+    }
+
+        .SettingsPanel ul.Buttons li.Primary {
+            background-color: rgb(129, 129, 129);
+        }
+
+        .SettingsPanel ul.Buttons li a {
+            text-decoration: none;
+            line-height: 2.5;
+            padding: 0px 1em 0px 1em;
+            color: #036;
+            font-weight: bold;
+        }
+
+            .SettingsPanel ul.Buttons li a:hover {
+                color: Black;
+            }
+
+        .SettingsPanel ul.Buttons li.Primary a {
+            color: white;
+        }
+
+            .SettingsPanel ul.Buttons li.Primary a:hover {
+                color: #000;
+            }
+
+.SettingsPanel {
+    padding-bottom: 1em !important;
+    background-color: White !important;
+}
+
+    .SettingsPanel .Clear {
+        clear: both;
+    }
+
+.Hosted .AutoCompleteFrame input {
+    background-color:transparent;
+}

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Code OnTime Designer</title>
+    <script type="text/javascript" language="javascript" src="../../_System/CodeOnTime.Designer.js"></script>
+    <script type="text/javascript" language="javascript">
+
+        function pageLoad() {
+            if (!document.body) return;
+            initializeDesigner('Home');
+            createTabbedControllers('Placeholder', [
+                new CodeOnTime.DesignerTab('Pages', 'Pages', [$cookie()]),
+                new CodeOnTime.DesignerTab('Controllers', 'Controllers', [$cookie()]),
+                new CodeOnTime.DesignerTab('User Controls', 'UserControls', [$cookie()]),
+                new CodeOnTime.DesignerTab('All Commands', 'Commands', [$cookie(), { 'name': 'pageSize', 'value': 5}]),
+                new CodeOnTime.DesignerTab('All Fields', 'Fields', [$cookie()]),
+                new CodeOnTime.DesignerTab('All Views', 'Views', [$cookie(), { 'name': 'pageSize', 'value': 7}]),
+                new CodeOnTime.DesignerTab('All Data Fields', 'DataFields', [$cookie()])
+                ]);
+        }
+
+        function pageUnload() {
+            Web.HoverMonitor._instance.close()
+        }
+
+    </script>
+</head>
+<body>
+    <!-- page body -->
+    <div id="Main" title="Designer">
+        <div id="Placeholder">
+            <div style="padding-left: 50px; padding-bottom: 50px; padding-top: 70px; font-family: Tahoma;
+                font-size: 8.5pt; background-image: url(../../../_System/Wait.gif); background-repeat: no-repeat;
+                background-position: 15px 65px;">
+                Loading Project Designer...</div>
+        </div>
+    </div>
+</body>
+</html>

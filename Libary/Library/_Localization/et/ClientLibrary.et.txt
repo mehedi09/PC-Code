@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Umbes^About^
+
+^ActionBarActionsHeaderText^Meetmete^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Tühistama^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Tühista kõik salvestada muutused.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Loobu uus rekord.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Salvesta uus rekord andmebaasi.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Välja arvatud^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Loo uus {0} rekord.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^New {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Uus^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Rekord^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Aruanne^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Salvesta muudatused andmebaasi.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Välja arvatud^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Lisa Seisukord^AddCondition^
+
+^AddConditionText^Lisa otsingu tingimus^AddConditionText^
+
+^AddMatchingGroup^Lisa sobitamine grupp^AddMatchingGroup^
+
+^AddSearchBarField^More Search Fields^AddSearchBarField^
+
+^AddToFavorites^Lisa eelistustesse^AddToFavorites^
+
+^AdvancedSearch^Täpsem otsing^AdvancedSearch^
+
+^After^Pärast^After^
+
+^AlignedLeft^Joondatud vasakule^AlignedLeft^
+
+^AlignedRight^Joondatud paremale^AlignedRight^
+
+^AllDatesInPreriod^Kõik kuupäevad perioodi^AllDatesInPreriod^
+
+^AlternativeView^Valige alternatiivne vaade andmeid.^AlternativeView^
+
+^Always^Alati^Always^
+
+^Apply^Rakenda^Apply^
+
+^Aquarium^Akvaarium^Aquarium^
+
+^AvgAggregate^Avg: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Keskmine {0}^AvgAggregateToolTip^
+
+^Azure^Taevasina^Azure^
+
+^Back^Tagasi^Back^
+
+^BackColor^Tagasi värv^BackColor^
+
+^BatchEditActionHeaderText^Batch Edit^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Batch Edit (vorm)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^ajakohastama^BatchUpdate^
+
+^Before^Enne^Before^
+
+^BeginsWith^Algab^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Mari^Berry^
+
+^Between^Vahel^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Parool ei saa olla tühi.^BlankPassword^
+
+^BlankUserName^Kasutaja nimi ei saa olla tühi.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Click here to download originaalfaili.^BlobDownloadHint^
+
+^BlobDownloadLink^lae alla^BlobDownloadLink^
+
+^Bold^Julge^Bold^
+
+^BooleanFilterText^Loogiline Filtrid^BooleanFilterText^
+
+^BooleanIsExpected^Loogiline väärtus on oodata.^BooleanIsExpected^
+
+^ButtonShapes^Kujundid nupud^ButtonShapes^
+
+^Calendar^Kalender^Calendar^
+
+^Cancel^Tühistama^Cancel^
+
+^Cards^Kaardid^Cards^
+
+^Cay^Cay^Cay^
+
+^ChangeYourLanguage^Muuda oma keel^ChangeYourLanguage^
+
+^Citrus^Tsitrus^Citrus^
+
+^Classic^Klassikaline^Classic^
+
+^ClearFilter^Selge filter {0}^ClearFilter^
+
+^ClearText^Kustuta tekst^ClearText^
+
+^ClearToolTip^Selge {0}^ClearToolTip^
+
+^Close^Lähedal^Close^
+
+^Comfortable^Mugav^Comfortable^
+
+^Compact^Kompaktne^Compact^
+
+^Condensed^Kondenseeritud^Condensed^
+
+^ConfirmReload^Värskenda?^ConfirmReload^
+
+^ConnectionLost^Võrguühendus on katkenud. Proovi uuesti?^ConnectionLost^
+
+^Construct^Ehitama^Construct^
+
+^Contains^Sisaldab^Contains^
+
+^Convention^Konventsioon^Convention^
+
+^Copy^Kopeeri^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Krahv {0}^CountAggregateToolTip^
+
+^CreateLink^Loo Link^CreateLink^
+
+^CustomFilterOption^Filter ...^CustomFilterOption^
+
+^Cut^Lõigatud^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Tume^DarkTheme^
+
+^DataSheetActionDescription^Display üksusi, kasutades andmeid sheet<br/>format.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Show Data Sheet^DataSheetActionHeaderText^
+
+^Date^Kuupäev^Date^
+
+^DateFilterText^Kuupäev Filtrid^DateFilterText^
+
+^DateIsExpected^Kuupäeva ei ole oodata.^DateIsExpected^
+
+^DateSortAscending^Varem Top^DateSortAscending^
+
+^DateSortDescending^Hiljemalt Top^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Lähedal^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Palun täitke see vorm ja klõpsake OK nuppu, et luua uus {0} rekord. Click Cancel naasmiseks eelmisele ekraanile.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Need on valdkonnad {0} registreerida, et ei saa redigeerida.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Palun vaadake {0} allpool toodud andmed. Click Muuda selle kirje, klõpsake Kustuta rekord, või klõpsake Cancel / Sulge naasta.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^See on nimekiri {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Täitke vorm. Veenduge, et sisestate kõik kohustuslikud väljad.^DefaultNewDescription^
+
+^DefaultOption^Vaikimisi^DefaultOption^
+
+^DefaultReferenceDescription^Lisaandmed umbes {0} on esitatud viide info osa.^DefaultReferenceDescription^
+
+^Delete^Kustutama^Delete^
+
+^DeleteActionConfirmation^Kustutada?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Kustutama^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Kustutatud)^DeleteSearchBarField^
+
+^DetailsToolTip^View details for {0}^DetailsToolTip^
+
+^Directions^Directions^Directions^
+
+^DisplayDensity^Display Density^DisplayDensity^
+
+^DisplayedAbove^Kuvatud^DisplayedAbove^
+
+^DisplayedBelow^Kuvatakse allpool^DisplayedBelow^
+
+^Dock^ühendama^Dock^
+
+^DoesNotBeginWith^Ei alga^DoesNotBeginWith^
+
+^DoesNotContain^Ei sisalda^DoesNotContain^
+
+^DoesNotEndWith^Ei lõpe^DoesNotEndWith^
+
+^DoesNotEqual^Ei võrdu^DoesNotEqual^
+
+^DoesNotInclude^Ei sisalda^DoesNotInclude^
+
+^DoNotMatchAll^Ärge sobitada kõik tingimused^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Ei sobi kõik tingimused^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Ei sobi ühegi tingimused^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Ei vastanud ükski tingimused^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Duplikaat^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Edit^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Tühistama^EditModeCancelActionHeaderText^
+
+^EmptyContext^Tegevused ei ole kättesaadavad.^EmptyContext^
+
+^EmptyValue^(Tühi)^EmptyValue^
+
+^EndsWith^Lõppeb^EndsWith^
+
+^Equals^Võrdub^Equals^
+
+^ExportCsvActionDescription^Objektide allalaadimine CSV formaadis.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Download^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analüüsige esemed spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Ekspordi arvutustabelisse^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate esemed RSS-lugeja.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Vaata RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Lemmikud^Favorites^
+
+^Felt^Vilt^Felt^
+
+^Filter^Filter^Filter^
+
+^FilterApplied^Filter on kohaldatud.^FilterApplied^
+
+^FilterByField^Valige väli, et kasutada filtrit <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Vali üks või rohkem võimalusi allolevast nimekirjast ja vajutage <b>{2}</b> filtreerida <b>{0}</b> poolt välja <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^ja^FilterLabelAnd^
+
+^FilterLabelClear^Selge^FilterLabelClear^
+
+^FilterLabelEquals^võrdub^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Muudatus^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^hõlmab^FilterLabelIncludes^
+
+^FilterLabelOr^või^FilterLabelOr^
+
+^FilterLabelSelectAll^(Vali kõik)^FilterLabelSelectAll^
+
+^FilterSiteMap^Filter sisukord...^FilterSiteMap^
+
+^FlatTreeToggle^Switch to Hierarhia^FlatTreeToggle^
+
+^FontName^Font Name^FontName^
+
+^FontSize^Fondi suurus^FontSize^
+
+^ForeColor^Fore värv^ForeColor^
+
+^ForgotYourPassword^Unustasid oma parooli?^ForgotYourPassword^
+
+^Freeze^Külmutama^Freeze^
+
+^Future^Tulevik^Future^
+
+^GeneralTabText^Üldine^GeneralTabText^
+
+^GenericNewToolTip^Loo uus^GenericNewToolTip^
+
+^GenericSortAscending^Väikseim on Top^GenericSortAscending^
+
+^GenericSortDescending^Suurim peal^GenericSortDescending^
+
+^Graham^Täistera-^Graham^
+
+^Granite^Graniit^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Raskus^Gravity^
+
+^GreaterThan^Suurem kui^GreaterThan^
+
+^Grid^Võre^Grid^
+
+^GridActionDescription^Display kirjed standard<br/>list formaadis.^GridActionDescription^
+
+^GridActionHeaderText^Näita Standard View^GridActionHeaderText^
+
+^Help^Aitama^Help^
+
+^HelpClose^Lähedal^HelpClose^
+
+^HelpFullScreen^Full Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Hide Advanced Search^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Switch to Flat List^HierarchyTreeModeToggle^
+
+^History^Ajalugu^History^
+
+^HistoryToolTip^Vaata ajalugu varem valitud kirjeid^HistoryToolTip^
+
+^HistoryUnavailable^Ajalugu ei ole saadaval.^HistoryUnavailable^
+
+^Home^Kodu^Home^
+
+^IdleUser^Oled sa veel seal? Palun logi uuesti sisse.^IdleUser^
+
+^ImportActionDescription^Laadi CSV, XLS või XLSX file<br/>to import arvestust.^ImportActionDescription^
+
+^ImportActionHeaderText^Impordi failist^ImportActionHeaderText^
+
+^ImportAutoDetect^(Automaatse identifitseerimissüsteemi)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Lae import fail malli.^ImportDownloadTemplate^
+
+^ImportEmail^Saada import logi järgmisel e-posti aadressid (valikuline)^ImportEmail^
+
+^ImportEmailNotSpecified^Saaja Import Log ei ole täpsustatud. Jätkata?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^On <b>{0}</b> kirje (te) faili <b>{1}</b> valmis processed.<br/>Please kaart import väljad andmefaili taotluse väljad ja klõpsake <i>Import</i> alustame.^ImportMappingInstruction^
+
+^ImportProcessing^Import failikäsitlust on algatatud. Imporditud andmekirjeid muutub kättesaadavaks pärast edukat töötlemist. Teil võib tekkida vajadus värskendada asjakohaseid seisukohti / pages näha imporditud arvestust.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Teie fail on üles laetud server. Palun oodake ...^ImportUploading^
+
+^ImportUploadInstruction^Palun valige fail. Fail peab olema <b>CSV</b>, <b>XLS</b> või <b>XLSX</b> formaadis.^ImportUploadInstruction^
+
+^In^sisse^In^
+
+^Includes^Sisaldab^Includes^
+
+^Indent^Taane^Indent^
+
+^InfoBarAnd^ja^InfoBarAnd^
+
+^InfoBarEmpty^tühi^InfoBarEmpty^
+
+^InfoBarEqualTo^on võrdne^InfoBarEqualTo^
+
+^InfoBarGreaterThan^on suurem kui^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^on suurem või võrdne^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^on väiksem kui^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^on väiksem või võrdne^InfoBarLessThanOrEqual^
+
+^InfoBarLike^on nagu^InfoBarLike^
+
+^InfoBarOr^või^InfoBarOr^
+
+^InfoBarQuickFind^Iga väli sisaldab^InfoBarQuickFind^
+
+^InfoBarStartsWith^algab^InfoBarStartsWith^
+
+^InitialListMode^Esialgne loetelu režiimis^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Sisesta horisontaaljoon^InsertHorizontalRule^
+
+^InsertOrderedList^Sisesta järjestuses^InsertOrderedList^
+
+^InsertUnorderedList^Insert Tavalise nimekirja^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Teie kasutajanimi ja parool ei sobi.^InvalidUserNameAndPassword^
+
+^Italic^Kald-^Italic^
+
+^ItemsPerPage^Kirjed lehel:^ItemsPerPage^
+
+^JustifyCenter^Justify Center^JustifyCenter^
+
+^JustifyFull^Justify Full^JustifyFull^
+
+^JustifyLeft^Justify Left^JustifyLeft^
+
+^JustifyRight^Justify Right^JustifyRight^
+
+^Lacquer^Lakk^Lacquer^
+
+^Laminate^Laminaat^Laminate^
+
+^Landscape^Maastik^Landscape^
+
+^LastMonth^Viimane kuu^LastMonth^
+
+^LastQuarter^Viimane veerand^LastQuarter^
+
+^LastWeek^Viimane nädal^LastWeek^
+
+^LastYear^Mullu^LastYear^
+
+^LessThan^Vähem kui^LessThan^
+
+^Lichen^Samblik^Lichen^
+
+^LightTheme^Valgus^LightTheme^
+
+^List^Nimekiri^List^
+
+^ListOneColumn^List (üks veerg)^ListOneColumn^
+
+^Loading^Loading ...^Loading^
+
+^Logical^Loogiline^Logical^
+
+^LoginButton^Kasutajanimi^LoginButton^
+
+^LoginLink^Kasutajanimi^LoginLink^
+
+^Logout^Logi välja^Logout^
+
+^LookupInstruction^Palun valige <b>{0}</b> nimekirjas.^LookupInstruction^
+
+^LookupOriginalSelection^Esialgne valik on <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Kaart^Map^
+
+^MatchAll^Sobima peavad kõik tingimused^MatchAll^
+
+^MatchAllPastTense^Vastavad kõik tingimused^MatchAllPastTense^
+
+^MatchAny^Sobima peab mõni tingimused^MatchAny^
+
+^MatchAnyPastTense^Vastavad kõik tingimused^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Kuni {0}^MaxAggregateToolTip^
+
+^Maximize^Laiendama^Maximize^
+
+^Menu^Menüü^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Vähemalt {0}^MinAggregateToolTip^
+
+^Minimize^Kollaps^Minimize^
+
+^Mission^Missioon^Mission^
+
+^ModeBrowsing^Sirvima^ModeBrowsing^
+
+^ModeEditing^Toimetus^ModeEditing^
+
+^ModeEntering^Sisenemine^ModeEntering^
+
+^ModeLookup^Otsing^ModeLookup^
+
+^Modern^Kaasaegne^Modern^
+
+^ModernRose^Modern Rose^ModernRose^
+
+^ModeViewing^Vaatamine^ModeViewing^
+
+^More^Rohkem^More^
+
+^Municipal^Munitsipaal-^Municipal^
+
+^MyAccount^Minu konto^MyAccount^
+
+^Never^Mitte kunagi^Never^
+
+^NewActionHeaderText^Uus^NewActionHeaderText^
+
+^NewRowLink^Vajuta siia, et luua uus rekord.^NewRowLink^
+
+^NewToolTip^New {0}^NewToolTip^
+
+^Next^Järgmine^Next^
+
+^NextMonth^Järgmine kuu^NextMonth^
+
+^NextQuarter^Järgmine kvartal^NextQuarter^
+
+^NextWeek^Järgmine nädal^NextWeek^
+
+^NextYear^Järgmine aasta^NextYear^
+
+^No^Ei^No^
+
+^NoRecords^Kirjeid ei leitud.^NoRecords^
+
+^NoteDeleteConfirm^Kustutada?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^kustutama^NoteDeleteLabel^
+
+^NoteEditLabel^muuta^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Number^Number^
+
+^NumberFilterText^Arvufiltrid^NumberFilterText^
+
+^NumberIsExpected^Number ei ole oodata.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Avatud^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Lehekülg^Page^
+
+^Password^Parool^Password^
+
+^Past^Minevik^Past^
+
+^Paste^Pasta^Paste^
+
+^PerformAdvancedSearch^Otsing^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Loo püsiühendus valitud salvestada^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink ei ole saadaval. Palun valige rekord.^PermalinkUnavailable^
+
+^Petal^Kroonleht^Petal^
+
+^Pinnate^Sulgjate^Pinnate^
+
+^Plastic^Plast^Plastic^
+
+^Portrait^Portree^Portrait^
+
+^PresentationStyle^Valige andmed esitlus stiilis.^PresentationStyle^
+
+^Previous^Eelmine^Previous^
+
+^PromoteActions^Reklaamitud nuppu^PromoteActions^
+
+^Quarter1^Kvartal 1^Quarter1^
+
+^Quarter2^2. kvartali^Quarter2^
+
+^Quarter3^3. kvartali^Quarter3^
+
+^Quarter4^Quarter 4^Quarter4^
+
+^QuickFindScope^Otsi ...^QuickFindScope^
+
+^QuickFindText^Otsing^QuickFindText^
+
+^QuickFindToolTip^Tippige otsinguks arvestust ja vajuta Enter^QuickFindToolTip^
+
+^Recent^Hiljutine^Recent^
+
+^Redo^Tee uuesti^Redo^
+
+^Refresh^Värskenda^Refresh^
+
+^RememberMe^Mäleta mind järgmisel korral^RememberMe^
+
+^RemoveCondition^Eemalda Seisukord^RemoveCondition^
+
+^RemoveFormat^Eemalda Format^RemoveFormat^
+
+^ReportActionDescription^Render aruanne PDF-formaadis^ReportActionDescription^
+
+^ReportActionHeaderText^Aruanne^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Vaata kirjed formatted<br/>Microsoft Exceli tabelisse.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Arvutustabeli^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Vaata esemeid mitmeleheküljeliste TIFF pilti.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Mitmeleheline Image^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Vaata tooteid nagu Adobe PDF document.<br/>Requires ühilduv lugeja.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF dokument^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Vaata kirjed formatted<br/>Microsoft Wordi dokumenti.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Nõutav^Required^
+
+^RequiredField^Selles valdkonnas on vaja.^RequiredField^
+
+^RequiredFiledMarkerFootNote^märgistab nõutud välja^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Reset^ResetAdvancedSearch^
+
+^ResumeBrowsing^Jätka sirvimine^ResumeBrowsing^
+
+^ResumeEditing^Jätka redigeerimist^ResumeEditing^
+
+^ResumeEntering^Jätka sisestamine^ResumeEntering^
+
+^ResumeLookup^Jätka Otsing^ResumeLookup^
+
+^ResumeViewing^Jätka vaatamine^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Rollid^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Pöörlema^Rotate^
+
+^RowCancelActionHeaderText^Tühistama^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Sisesta^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Välja arvatud^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Update?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Uuenda Selection^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Välja arvatud^Save^
+
+^SaveAndNew^Salvesta ja New^SaveAndNew^
+
+^SeeAll^Vaata kõiki^SeeAll^
+
+^SeeAlso^Vaata ka^SeeAlso^
+
+^SelectActionHeaderText^Vali^SelectActionHeaderText^
+
+^SelectAll^Vali kõik^SelectAll^
+
+^SelectLink^(Vali)^SelectLink^
+
+^SelectToolTip^Vali {0}^SelectToolTip^
+
+^Separator^Eraldaja^Separator^
+
+^Settings^Seaded^Settings^
+
+^ShowAdvancedSearch^Show Advanced Search^ShowAdvancedSearch^
+
+^ShowingItems^Näitan <b>{0}</b>-<b>{1}</b> ja <b>{2}</b> teemad^ShowingItems^
+
+^ShowingItemsInfo^Näitan {0} teemad.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Registreeru nüüd^SignUpNow^
+
+^Simple^Lihtne^Simple^
+
+^SiteActions^Saiditoimingud^SiteActions^
+
+^Social^Sotsiaal-^Social^
+
+^Sort^Sorteeri^Sort^
+
+^SortBy^Sorteeri {0}^SortBy^
+
+^SortByField^Valige väli muuta sortimisjärjekord <b>{0}</b>.^SortByField^
+
+^SortByOptions^Vali sortimisjärjekord <b>{0}</b> poolt valdkonna <b>{1}</b> nimekirja allolevatest valikutest.^SortByOptions^
+
+^StrikeThrough^Läbi lööma^StrikeThrough^
+
+^StringSortAscending^Tõusev^StringSortAscending^
+
+^StringSortDescending^Kahanev^StringSortDescending^
+
+^Subscript^Sub Script^Subscript^
+
+^Suggestions^Ettepanekud^Suggestions^
+
+^SumAggregate^Summa: {0}^SumAggregate^
+
+^SumAggregateToolTip^Summas {0}^SumAggregateToolTip^
+
+^Summary^Kokkuvõte^Summary^
+
+^Summer^Suvi^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Jätkama^TaskResume^
+
+^Tasks^Ülesanded^Tasks^
+
+^Text^Tekst^Text^
+
+^TextFilterText^Tekst Filtrid^TextFilterText^
+
+^Theme^Teema^Theme^
+
+^ThisMonth^Sellel kuul^ThisMonth^
+
+^ThisQuarter^See Quarter^ThisQuarter^
+
+^ThisWeek^See nädal^ThisWeek^
+
+^ThisYear^See aasta^ThisYear^
+
+^Today^Täna^Today^
+
+^Tomorrow^Homme^Tomorrow^
+
+^ToThisWebsite^sellele leheküljele^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI ei toeta see brauser.^TouchUINotSupported^
+
+^TransitionFade^Tuhmuma^TransitionFade^
+
+^TransitionFlip^Flip^TransitionFlip^
+
+^TransitionFlow^Flow^TransitionFlow^
+
+^TransitionNone^Mitte ükski^TransitionNone^
+
+^TransitionPop^Pop-^TransitionPop^
+
+^Transitions^Üleminekud^Transitions^
+
+^TransitionSlide^Slaid^TransitionSlide^
+
+^TransitionSlideDown^Lükake alla^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Pööre^TransitionTurn^
+
+^TreeActionDescription^Display alluvussuhted.^TreeActionDescription^
+
+^TreeActionHeaderText^Show Hierarhia^TreeActionHeaderText^
+
+^Underline^Rõhutama^Underline^
+
+^Undo^Tühistama^Undo^
+
+^Undock^Lahti haakida^Undock^
+
+^Unfreeze^Lahti külmutama^Unfreeze^
+
+^UnLink^Lahti ühendama^UnLink^
+
+^UnSelect^Tühista valik^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Update?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Uuenda Selection^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Up One Level^UpOneLevel^
+
+^UseLEV^Aseta &quot;{0}&quot;^UseLEV^
+
+^UserName^Kasutajanimi^UserName^
+
+^UsersInRole^Kasutajad roll^UsersInRole^
+
+^UsersTab^Kasutajad^UsersTab^
+
+^Vantage^Eelis^Vantage^
+
+^Verdant^Haljendav^Verdant^
+
+^View^Vaade^View^
+
+^Viewpoint^Vaatepunkt^Viewpoint^
+
+^Welcome1^Teretulnud^Welcome1^
+
+^Welcome2^Täna on^Welcome2^
+
+^WhiteSmoke^Valge suits^WhiteSmoke^
+
+^YearToDate^Aasta algusest^YearToDate^
+
+^Yes^Jah^Yes^
+
+^Yesterday^Eile^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Zoom sisse^ZoomIn^
+
+^ZoomOut^Zoom out^ZoomOut^
+

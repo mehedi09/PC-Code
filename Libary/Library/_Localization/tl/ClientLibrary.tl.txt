@@ -1,0 +1,621 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Tungkol sa^About^
+
+^ActionBarActionsHeaderText^Aksyon^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Kanselahin^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Kanselahin lahat ng mga pagbabago na record.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Kanselahin ang bagong record.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^I-save ang bagong record sa database.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^I-save ang^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Lumikha ng isang bagong tala ng {0}.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Bagong {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Bago^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Talaan^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Ulat^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^I-save ang mga pagbabago sa database.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^I-save ang^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Magdagdag Kondisyon^AddCondition^
+
+^AddConditionText^Magdagdag ng paghahanap kondisyon^AddConditionText^
+
+^AddSearchBarField^Dagdag pang mga Search Patlang^AddSearchBarField^
+
+^AddToFavorites^Idagdag sa mga Paborito^AddToFavorites^
+
+^After^Pagkatapos^After^
+
+^AllDatesInPreriod^Lahat ng mga petsa sa Panahon^AllDatesInPreriod^
+
+^AlternativeView^Pumili ng isang alternatibong view ng data.^AlternativeView^
+
+^AvgAggregate^Avg: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Average ng {0}^AvgAggregateToolTip^
+
+^Back^Bumalik^Back^
+
+^BackColor^Bumalik Kulay^BackColor^
+
+^BatchEditActionHeaderText^Batch Edit^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Batch Edit (Form)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^update^BatchUpdate^
+
+^Before^Bago^Before^
+
+^BeginsWith^Nagsisimula sa^BeginsWith^
+
+^Between^Sa pagitan ng^Between^
+
+^BlankPassword^Password ay hindi maaaring blangko.^BlankPassword^
+
+^BlankUserName^Pangalan ng gumagamit ay hindi maaaring blangko.^BlankUserName^
+
+^BlankValue^(Blangko)^BlankValue^
+
+^BlobDownloadHint^Mag-click dito upang i-download ang orihinal na file.^BlobDownloadHint^
+
+^BlobDownloadLink^download^BlobDownloadLink^
+
+^Bold^Matapang^Bold^
+
+^BooleanFilterText^Lohiko Filter^BooleanFilterText^
+
+^BooleanIsExpected^Ang isang makatuwirang halaga ay inaasahan.^BooleanIsExpected^
+
+^Cancel^Kanselahin^Cancel^
+
+^Cards^Kard^Cards^
+
+^ClearFilter^Limasin ang Filter mula sa {0}^ClearFilter^
+
+^ClearToolTip^Maaliwalas {0}^ClearToolTip^
+
+^Close^Isara^Close^
+
+^ConnectionLost^Koneksyon sa network ay nawala. Subukang muli?^ConnectionLost^
+
+^Contains^Naglalaman ng^Contains^
+
+^Copy^Kopyahin^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Bilang ng mga {0}^CountAggregateToolTip^
+
+^CreateLink^Lumikha ng Link^CreateLink^
+
+^CustomFilterOption^Filter ...^CustomFilterOption^
+
+^Cut^Putulin^Cut^
+
+^DataSheetActionDescription^Ipakita ang mga item gamit ang isang data sheet<br/>format.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Ipakita sa Data Sheet^DataSheetActionHeaderText^
+
+^DateFilterText^Petsa ng Filter^DateFilterText^
+
+^DateIsExpected^Ang petsa ay inaasahan.^DateIsExpected^
+
+^DateSortAscending^Pinakamaaga sa Tuktok^DateSortAscending^
+
+^DateSortDescending^Pinakabagong sa Tuktok^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Isara^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Mangyaring punan ang form na ito at i-click ang OK na pindutan upang lumikha ng isang bagong record {0}. I-click ang Kanselahin upang bumalik sa nakaraang screen.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Ito ay ang mga larangan ng {0} sa rekord na maaaring ma-edit.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Mangyaring suriin ang {0} impormasyon sa ibaba. I-click ang I-edit upang baguhin ito record, i-click ang Tanggalin upang tanggalin ang tala, o i-click ang Kanselahin / Isara ang buwelta.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Ito ay isang listahan ng mga {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Kumpletuhin ang form. Tiyaking ipasok ang lahat ng kinakailangang mga patlang.^DefaultNewDescription^
+
+^DefaultOption^Pamantayan^DefaultOption^
+
+^DefaultReferenceDescription^Karagdagang mga detalye tungkol sa {0} ay ibinigay sa seksyon ng impormasyon ng sanggunian.^DefaultReferenceDescription^
+
+^Delete^Alisin^Delete^
+
+^DeleteActionConfirmation^Tanggalin?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Alisin^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Tanggalin)^DeleteSearchBarField^
+
+^DetailsToolTip^Tingnan ang mga detalye para sa {0}^DetailsToolTip^
+
+^Dock^Pumundo^Dock^
+
+^DoesNotBeginWith^Ba Hindi Magsimula Sa^DoesNotBeginWith^
+
+^DoesNotContain^Ay hindi naglalaman ng^DoesNotContain^
+
+^DoesNotEndWith^Ba Hindi End Sa^DoesNotEndWith^
+
+^DoesNotEqual^Ba hindi katumbas^DoesNotEqual^
+
+^DoesNotInclude^Ay hindi kasama^DoesNotInclude^
+
+^DuplicateActionHeaderText^Kopyahin^DuplicateActionHeaderText^
+
+^EditActionHeaderText^I-edit ang^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Kanselahin^EditModeCancelActionHeaderText^
+
+^EmptyContext^Pagkilos ay hindi magagamit.^EmptyContext^
+
+^EmptyValue^(Empty)^EmptyValue^
+
+^EndsWith^Nagtatapos Sa^EndsWith^
+
+^Equals^Katumbas^Equals^
+
+^ExportCsvActionDescription^I-download ang mga item sa CSV na format.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Download^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Pag-aralan ang mga item sa spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^I-export sa Spreadsheet^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate ng mga item sa isang RSS reader.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Tingnan ang RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Mga Paborito^Favorites^
+
+^Filter^Salain^Filter^
+
+^FilterApplied^Ang isang filter ay na-apply na.^FilterApplied^
+
+^FilterLabelAnd^at^FilterLabelAnd^
+
+^FilterLabelClear^Malinaw^FilterLabelClear^
+
+^FilterLabelEquals^katumbas^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Baguhin^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^Kasama^FilterLabelIncludes^
+
+^FilterLabelOr^o^FilterLabelOr^
+
+^FilterLabelSelectAll^(Piliin Lahat)^FilterLabelSelectAll^
+
+^FilterSiteMap^Site Filter mapa ...^FilterSiteMap^
+
+^FlatTreeToggle^Lumipat sa hierarchy^FlatTreeToggle^
+
+^FontName^Pangalan ng Font^FontName^
+
+^FontSize^Laki ng Font^FontSize^
+
+^ForeColor^Unahan ng Kulay^ForeColor^
+
+^ForgotYourPassword^Nakalimutan mo ang iyong password?^ForgotYourPassword^
+
+^Freeze^Palamigin nang mabuti^Freeze^
+
+^Future^Hinaharap^Future^
+
+^GeneralTabText^Pangkalahatan^GeneralTabText^
+
+^GenericNewToolTip^Lumikha ng Bagong^GenericNewToolTip^
+
+^GenericSortAscending^Pinakamaliit sa Tuktok^GenericSortAscending^
+
+^GenericSortDescending^Pinakamalaking sa Tuktok^GenericSortDescending^
+
+^GreaterThan^Mas malaki kaysa sa^GreaterThan^
+
+^Grid^Parilya^Grid^
+
+^GridActionDescription^Magpakita ng mga item sa standard<br/>list format.^GridActionDescription^
+
+^GridActionHeaderText^Ipakita sa Standard View^GridActionHeaderText^
+
+^Help^Tulong^Help^
+
+^HelpClose^Isara^HelpClose^
+
+^HelpFullScreen^Buong Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Itago ang Advanced na Paghahanap^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Lumipat sa Flat List^HierarchyTreeModeToggle^
+
+^History^Kasaysayan^History^
+
+^HistoryToolTip^Tingnan ang kasaysayan ng mga nakaraang napiling talaan^HistoryToolTip^
+
+^HistoryUnavailable^Kasaysayan ay hindi magagamit.^HistoryUnavailable^
+
+^IdleUser^Sigurado ka pa rin doon? Mangyaring mag-login ulit.^IdleUser^
+
+^ImportActionDescription^Mag-upload ng isang CSV, XLS, o talaan ng XLSX file<br/>to import.^ImportActionDescription^
+
+^ImportActionHeaderText^-Import Mula sa File^ImportActionHeaderText^
+
+^ImportAutoDetect^(Auto detect)^ImportAutoDetect^
+
+^ImportDownloadTemplate^I-download ang template ng file ng import.^ImportDownloadTemplate^
+
+^ImportEmail^Ipadala ang log ng import sa sumusunod na email address (opsyonal)^ImportEmail^
+
+^ImportEmailNotSpecified^Tatanggap ng log-import ay hindi pa tinukoy. Magpatuloy pa rin?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^May <b>{0}</b> record (s) sa <b>{1}</b> file na handa na ang processed.<br/>Please mapa ang mga patlang-import mula sa file ng data sa mga patlang application at i-click <i>Import</i> upang simulan ang processing.^ImportMappingInstruction^
+
+^ImportProcessing^-Import ang file processing ay pinasimulan. Ang import na data talaan ay magiging magagamit sa matagumpay na pagproseso. Maaaring kailanganin mong i-refresh ang mga kaugnay na mga view / pahina upang makita ang import talaan.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Ang iyong file ay na-upload sa server. Mangyaring maghintay ...^ImportUploading^
+
+^ImportUploadInstruction^Mangyaring piliin ang file na ia-upload. Ang file ay dapat sa <b>CSV</b>, <b>XLS</b>, o <b>XLSX</b> format.^ImportUploadInstruction^
+
+^Includes^Kasama^Includes^
+
+^Indent^Mag-urong^Indent^
+
+^InfoBarAnd^at^InfoBarAnd^
+
+^InfoBarEmpty^walang laman^InfoBarEmpty^
+
+^InfoBarEqualTo^ay katumbas ng^InfoBarEqualTo^
+
+^InfoBarGreaterThan^ay mas malaki kaysa^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^ay mas malaki kaysa sa o katumbas ng^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^ay mas mababa kaysa^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^ay mas mababa kaysa sa o katumbas^InfoBarLessThanOrEqual^
+
+^InfoBarLike^ay parang^InfoBarLike^
+
+^InfoBarOr^o^InfoBarOr^
+
+^InfoBarQuickFind^Patlang Anumang naglalaman ng^InfoBarQuickFind^
+
+^InfoBarStartsWith^nagsisimula sa^InfoBarStartsWith^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Magpasok ng Horizontal Rule^InsertHorizontalRule^
+
+^InsertOrderedList^Ipasok ayos na Listahan^InsertOrderedList^
+
+^InsertUnorderedList^Ipasok Unordered Listahan^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Ang iyong user name at password ay hindi wasto.^InvalidUserNameAndPassword^
+
+^Italic^Italic^Italic^
+
+^ItemsPerPage^Item sa bawat pahina:^ItemsPerPage^
+
+^JustifyCenter^Ipantay Center^JustifyCenter^
+
+^JustifyFull^Ipantay sa Buong^JustifyFull^
+
+^JustifyLeft^Ipantay sa Kaliwa^JustifyLeft^
+
+^JustifyRight^I-right-justify^JustifyRight^
+
+^LastMonth^Nakaraang Buwan^LastMonth^
+
+^LastQuarter^Huling Quarter^LastQuarter^
+
+^LastWeek^Nakaraang Linggo^LastWeek^
+
+^LastYear^Nakaraang taon^LastYear^
+
+^LessThan^Mas mababa sa^LessThan^
+
+^List^Listahan^List^
+
+^Loading^Naglo-load ...^Loading^
+
+^LoginButton^Login^LoginButton^
+
+^LoginLink^Login^LoginLink^
+
+^Logout^Logout^Logout^
+
+^LookupInstruction^Mangyaring pumili <b>{0}</b> sa listahan.^LookupInstruction^
+
+^LookupOriginalSelection^Ang orihinal na seleksyon ay <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Maximum ng {0}^MaxAggregateToolTip^
+
+^Maximize^Lumawak^Maximize^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Minimum ng {0}^MinAggregateToolTip^
+
+^Minimize^Pagbagsak^Minimize^
+
+^ModeBrowsing^Pag-browse^ModeBrowsing^
+
+^ModeEditing^Pag-edit^ModeEditing^
+
+^ModeEntering^Pagpasok^ModeEntering^
+
+^ModeLookup^Hanapin^ModeLookup^
+
+^ModeViewing^Pagtingin^ModeViewing^
+
+^MyAccount^Aking Account^MyAccount^
+
+^NewActionHeaderText^Bago^NewActionHeaderText^
+
+^NewRowLink^Mag-click dito upang lumikha ng isang bagong tala.^NewRowLink^
+
+^NewToolTip^Bagong {0}^NewToolTip^
+
+^Next^Susunod^Next^
+
+^NextMonth^Susunod na buwan^NextMonth^
+
+^NextQuarter^Susunod na Quarter^NextQuarter^
+
+^NextWeek^Susunod na linggo^NextWeek^
+
+^NextYear^Susunod na taon^NextYear^
+
+^No^Hindi^No^
+
+^NoRecords^Walang nahanap na mga talaan.^NoRecords^
+
+^NoteDeleteConfirm^Tanggalin?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^alisin^NoteDeleteLabel^
+
+^NoteEditLabel^edit^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^NumberFilterText^Numero ng Filter^NumberFilterText^
+
+^NumberIsExpected^Ang numero ay inaasahan.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Bukas^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Pahina^Page^
+
+^Password^Password^Password^
+
+^Past^Nakalipas^Past^
+
+^Paste^I-paste^Paste^
+
+^PerformAdvancedSearch^Paghahanap^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Lumikha ng isang permanenteng link para sa napiling record^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink ay hindi magagamit. Mangyaring pumili ng isang talaan.^PermalinkUnavailable^
+
+^PresentationStyle^Pumili ng isang estilo pagtatanghal ng data.^PresentationStyle^
+
+^Previous^Nakaraan^Previous^
+
+^Quarter1^Quarter 1^Quarter1^
+
+^Quarter2^Quarter 2^Quarter2^
+
+^Quarter3^Quarter 3^Quarter3^
+
+^Quarter4^Quarter 4^Quarter4^
+
+^QuickFindText^Quick Hanapin^QuickFindText^
+
+^QuickFindToolTip^I-type upang maghanap ng mga tala at pindutin ang Enter^QuickFindToolTip^
+
+^Redo^Gumawang muli^Redo^
+
+^Refresh^I-refresh^Refresh^
+
+^RememberMe^Tandaan ako susunod na^RememberMe^
+
+^RemoveCondition^Alisin Kondisyon^RemoveCondition^
+
+^RemoveFormat^Alisin ang Format^RemoveFormat^
+
+^ReportActionDescription^Render ng isang ulat sa PDF format^ReportActionDescription^
+
+^ReportActionHeaderText^Ulat^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Tingnan ang mga item sa isang Excel spreadsheet formatted<br/>Microsoft.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Spreadsheet^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Tingnan ang item bilang isang imahe ng multipage TIFF.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Multipage Imahe^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Tingnan ang mga item ng Adobe PDF document.<br/>Requires isang katugmang reader.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF Dokumento^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Tingnan ang mga aytem sa isang dokumento ng Word ng formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^RequiredField^Ang patlang na ito ay kinakailangan.^RequiredField^
+
+^RequiredFiledMarkerFootNote^ay nagpapahiwatig ng isang kinakailangang patlang^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^I-reset^ResetAdvancedSearch^
+
+^RolesTab^Tungkulin^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Paikutin^Rotate^
+
+^RowCancelActionHeaderText^Kanselahin^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Magpasok^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^I-save ang^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Update?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Update Pinili^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^I-save ang^Save^
+
+^SaveAndNew^I-save at New^SaveAndNew^
+
+^SeeAlso^Tingnan din^SeeAlso^
+
+^SelectActionHeaderText^Piliin^SelectActionHeaderText^
+
+^SelectAll^Piliin ang Lahat^SelectAll^
+
+^SelectLink^(Piliin ang)^SelectLink^
+
+^SelectToolTip^Piliin ang {0}^SelectToolTip^
+
+^Separator^Panghiwalay^Separator^
+
+^ShowAdvancedSearch^Ipakita ang Advanced na Paghahanap^ShowAdvancedSearch^
+
+^ShowingItems^Pagpapakita ng <b>{0}</b>-<b>{1}</b> ng mga item sa <b>{2}</b>^ShowingItems^
+
+^SignUpNow^Mag-sign up ngayon^SignUpNow^
+
+^SiteActions^Site Aksyon^SiteActions^
+
+^Sort^Uriin^Sort^
+
+^SortBy^Pagsunud-sunurin sa pamamagitan ng {0}^SortBy^
+
+^SortByField^Pumili ng isang patlang upang baguhin ang uri ng order ng <b>{0}</b>.^SortByField^
+
+^SortByOptions^Piliin ang uri ng order ng <b>{0}</b> sa pamamagitan ng patlang na <b>{1}</b> sa listahan ng mga pagpipilian sa ibaba.^SortByOptions^
+
+^StrikeThrough^Hampasin Through^StrikeThrough^
+
+^StringSortAscending^Pataas^StringSortAscending^
+
+^StringSortDescending^Pababang^StringSortDescending^
+
+^Subscript^Sub Script^Subscript^
+
+^SumAggregate^Sum: {0}^SumAggregate^
+
+^SumAggregateToolTip^Suma ng {0}^SumAggregateToolTip^
+
+^Summary^Buod^Summary^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Pagpatuloy^TaskResume^
+
+^Tasks^Gawain^Tasks^
+
+^TextFilterText^Text Filter^TextFilterText^
+
+^ThisMonth^Sa Buwang Ito^ThisMonth^
+
+^ThisQuarter^Ito Quarter^ThisQuarter^
+
+^ThisWeek^Sa Linggong Ito^ThisWeek^
+
+^ThisYear^Taong Ito^ThisYear^
+
+^Today^Ngayon^Today^
+
+^Tomorrow^Bukas^Tomorrow^
+
+^ToThisWebsite^sa website na ito^ToThisWebsite^
+
+^TreeActionDescription^Ipakita ang mga hierarchical relasyon.^TreeActionDescription^
+
+^TreeActionHeaderText^Ipakita ang hierarchy^TreeActionHeaderText^
+
+^Underline^Guhitan sa ilalim^Underline^
+
+^Undo^Magpawalang-saysay^Undo^
+
+^Undock^Tanggalin^Undock^
+
+^Unfreeze^Tumunaw^Unfreeze^
+
+^UnLink^Tanggalin^UnLink^
+
+^UnSelect^Alisin sa pagkakapili^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Update?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Update Pinili^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Up One Antas^UpOneLevel^
+
+^UseLEV^Ilagay &quot;{0}&quot;^UseLEV^
+
+^UserName^User name^UserName^
+
+^UsersInRole^Ang mga gumagamit sa Tungkulin^UsersInRole^
+
+^UsersTab^Mga gumagamit^UsersTab^
+
+^View^Tingnan^View^
+
+^Welcome1^Maligayang pagdating^Welcome1^
+
+^Welcome2^Ngayon ay^Welcome2^
+
+^YearToDate^Taon sa Petsa^YearToDate^
+
+^Yes^Oo^Yes^
+
+^Yesterday^Kahapon^Yesterday^
+

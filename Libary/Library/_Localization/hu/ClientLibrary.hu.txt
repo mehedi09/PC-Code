@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Tipp^About^
+
+^ActionBarActionsHeaderText^Tevékenységek^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Mégsem^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Minden változás visszavonása.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Új rekord visszavonása.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Új rekord mentése.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Mentés^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Új rekord létrehozása: {0}.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Új {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Új^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Rekord^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Riport^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Változások mentése.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Mentés^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Helyezze állapotban^AddCondition^
+
+^AddConditionText^Helyezze keresési feltétel^AddConditionText^
+
+^AddMatchingGroup^Add illő csoport^AddMatchingGroup^
+
+^AddSearchBarField^További kereső mezők^AddSearchBarField^
+
+^AddToFavorites^Hozzáadás kedvencekhez^AddToFavorites^
+
+^AdvancedSearch^Részletes keresés^AdvancedSearch^
+
+^After^Után^After^
+
+^AlignedLeft^Balra igazítva^AlignedLeft^
+
+^AlignedRight^Jobbra igazított^AlignedRight^
+
+^AllDatesInPreriod^Időszak valamennyi dátuma^AllDatesInPreriod^
+
+^AlternativeView^Válasszon ki egy másik nézet az adatokat.^AlternativeView^
+
+^Always^Mindig^Always^
+
+^Apply^Alkalmazza^Apply^
+
+^Aquarium^Akvárium^Aquarium^
+
+^AvgAggregate^Átlag: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^{0} átlaga^AvgAggregateToolTip^
+
+^Azure^Égszínkék^Azure^
+
+^Back^Visszaad^Back^
+
+^BackColor^Back Color^BackColor^
+
+^BatchEditActionHeaderText^Tömeges szerkesztés^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Tömeges szerkesztés (Űrlap)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^módosítás^BatchUpdate^
+
+^Before^Előtt^Before^
+
+^BeginsWith^Eleje^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Bogyó^Berry^
+
+^Between^Között^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Jelszó nem lehet üres.^BlankPassword^
+
+^BlankUserName^Felhasználói név nem lehet üres.^BlankUserName^
+
+^BlankValue^(Üres)^BlankValue^
+
+^BlobDownloadHint^Klikkeljen ide az eredeti fájl letöltéséhez.^BlobDownloadHint^
+
+^BlobDownloadLink^letöltés^BlobDownloadLink^
+
+^Bold^Bátor^Bold^
+
+^BooleanFilterText^Szűrők^BooleanFilterText^
+
+^BooleanIsExpected^Logikai kifejezés szükséges.^BooleanIsExpected^
+
+^ButtonShapes^Gomb alakzatok^ButtonShapes^
+
+^Calendar^Naptár^Calendar^
+
+^Cancel^Mégsem^Cancel^
+
+^Cards^Kártyák^Cards^
+
+^Cay^Homokzátony^Cay^
+
+^ChangeYourLanguage^A nyelv módosítása^ChangeYourLanguage^
+
+^Citrus^Citrom-és narancsfélék^Citrus^
+
+^Classic^Klasszikus^Classic^
+
+^ClearFilter^Szűrő törlése {0}^ClearFilter^
+
+^ClearText^Clear Text^ClearText^
+
+^ClearToolTip^Törlés {0}^ClearToolTip^
+
+^Close^Bezár^Close^
+
+^Comfortable^Kényelmes^Comfortable^
+
+^Compact^Kompakt^Compact^
+
+^Condensed^Sűrített^Condensed^
+
+^ConfirmReload^Felüdít?^ConfirmReload^
+
+^ConnectionLost^A hálózati kapcsolat megszakadt. Próbálja meg újra?^ConnectionLost^
+
+^Construct^Épít^Construct^
+
+^Contains^Tartalmazza^Contains^
+
+^Convention^Konvenció^Convention^
+
+^Copy^Másolás^Copy^
+
+^CountAggregate^Darabszám: {0}^CountAggregate^
+
+^CountAggregateToolTip^{0} darabszáma^CountAggregateToolTip^
+
+^CreateLink^Hivatkozás létrehozása^CreateLink^
+
+^CustomFilterOption^Szűrő...^CustomFilterOption^
+
+^Cut^Vágott^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Sötét^DarkTheme^
+
+^DataSheetActionDescription^Adatok megjelenítése munkalapon<br/>.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Megjelenítés minkalapon^DataSheetActionHeaderText^
+
+^Date^Dátum^Date^
+
+^DateFilterText^Dátum szűrők^DateFilterText^
+
+^DateIsExpected^Dátum megadása szükséges.^DateIsExpected^
+
+^DateSortAscending^Legkorábbi felül^DateSortAscending^
+
+^DateSortDescending^Legkésőbbi felül^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Bezár^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Töltse ki az űrlapot, és nyomja meg a Rendben gombot az új {0} rekord létrehozásához. Visszatéréshez nyomja meg a Mégsem gombot.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^A {0} rekord mezői módosíthatók.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Ellenőrizze a {0} információt. Módosításhoz nyomja meg a Szerkeszt gombot, rekord törléséhez a Töröl gombot, vagy visszatéréshez nyomja meg a Mégsem/Bezár gombot.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^{0} lista.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Töltse ki az űrlapot. Minden kötelező mezőt töltsön ki.^DefaultNewDescription^
+
+^DefaultOption^Standard^DefaultOption^
+
+^DefaultReferenceDescription^További {0} részletek a referencia információ részben.^DefaultReferenceDescription^
+
+^Delete^Töröl^Delete^
+
+^DeleteActionConfirmation^Törlés?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Töröl^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(törlés)^DeleteSearchBarField^
+
+^DetailsToolTip^{0} részletei^DetailsToolTip^
+
+^Directions^Directions^Directions^
+
+^DisplayDensity^Kijelző Density^DisplayDensity^
+
+^DisplayedAbove^Fölött látható^DisplayedAbove^
+
+^DisplayedBelow^Alatt jelenik meg^DisplayedBelow^
+
+^Dock^összekapcsol^Dock^
+
+^DoesNotBeginWith^Nem eleje^DoesNotBeginWith^
+
+^DoesNotContain^Nem tartalmazza^DoesNotContain^
+
+^DoesNotEndWith^Nem vége^DoesNotEndWith^
+
+^DoesNotEqual^Nem egyenlő^DoesNotEqual^
+
+^DoesNotInclude^Nem tartalmazza^DoesNotInclude^
+
+^DoNotMatchAll^Nem egyeznek minden körülmények között^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Nem egyezik minden körülmények között^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Nem tartozik egyetlen feltételek^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Nincs találat feltételek^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Megkettőz^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Szerkeszt^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Mégsem^EditModeCancelActionHeaderText^
+
+^EmptyContext^Intézkedések nem állnak rendelkezésre.^EmptyContext^
+
+^EmptyValue^(üres)^EmptyValue^
+
+^EndsWith^Vége^EndsWith^
+
+^Equals^Egyenlő^Equals^
+
+^ExportCsvActionDescription^Adatok letöltése CSV formátumban.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Letöltés^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Adatok vizsgálata táblázatkezelő<br/>alkalmazással.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Exportálás táblázatkezelőbe^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Tételek közzététele RSS olvasóban.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^RSS olvasó áttekintése^ExportRssActionHeaderText^
+
+^Favorites^Kedvencek^Favorites^
+
+^Felt^Érzett^Felt^
+
+^Filter^Szűrő^Filter^
+
+^FilterApplied^Szűrő alkalmazva.^FilterApplied^
+
+^FilterByField^Válasszon ki egy mezőt kell alkalmazni a szűrőt <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Válasszon ki egy vagy több lehetőséget a listából, majd nyomja meg <b>{2}</b> szűrni <b>{0}</b> a mező <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^és^FilterLabelAnd^
+
+^FilterLabelClear^Töröl^FilterLabelClear^
+
+^FilterLabelEquals^egyenlő^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Módosít^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^tartalmazza^FilterLabelIncludes^
+
+^FilterLabelOr^vagy^FilterLabelOr^
+
+^FilterLabelSelectAll^(Mindent kiválaszt)^FilterLabelSelectAll^
+
+^FilterSiteMap^Szűrő oldaltérkép ...^FilterSiteMap^
+
+^FlatTreeToggle^Átváltás hierarchiára^FlatTreeToggle^
+
+^FontName^Betűkészlet neve^FontName^
+
+^FontSize^Betűméret^FontSize^
+
+^ForeColor^Fore Color^ForeColor^
+
+^ForgotYourPassword^Elfelejtette jelszavát?^ForgotYourPassword^
+
+^Freeze^Fagy^Freeze^
+
+^Future^Jövő^Future^
+
+^GeneralTabText^Általános^GeneralTabText^
+
+^GenericNewToolTip^Új létrehozása^GenericNewToolTip^
+
+^GenericSortAscending^Legkisebb felül^GenericSortAscending^
+
+^GenericSortDescending^Legnagyobb felül^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Gránit^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Súly^Gravity^
+
+^GreaterThan^Nagyobb, mint^GreaterThan^
+
+^Grid^Rács^Grid^
+
+^GridActionDescription^Tételek megjelenítése <br/>lista nézetben.^GridActionDescription^
+
+^GridActionHeaderText^Szokásos nézet^GridActionHeaderText^
+
+^Help^Súgó^Help^
+
+^HelpClose^Bezár^HelpClose^
+
+^HelpFullScreen^Teljes képernyő^HelpFullScreen^
+
+^HideAdvancedSearch^Összetett keresés eltüntetése^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Átváltás lista nézetre^HierarchyTreeModeToggle^
+
+^History^Napló^History^
+
+^HistoryToolTip^A korábban választott rekordok naplója.^HistoryToolTip^
+
+^HistoryUnavailable^Napló nem elérhető.^HistoryUnavailable^
+
+^Home^Otthon^Home^
+
+^IdleUser^Itt van még? Jelentkezzen be újra.^IdleUser^
+
+^ImportActionDescription^CSV, XLS, vagy XLSX fájlok feltöltése<br/>rekordok importolására.^ImportActionDescription^
+
+^ImportActionHeaderText^Import fájlból^ImportActionHeaderText^
+
+^ImportAutoDetect^(automatikus)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Import fájl minta letöltése.^ImportDownloadTemplate^
+
+^ImportEmail^Küldje el az import naplót a következő email címre (opcionális)^ImportEmail^
+
+^ImportEmailNotSpecified^Az import napló címzettje hiányzik. Folytatja?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^<b>{0}</b> rekordot tartalmaz a fájl <b>{1}</b> feldolgozásra kész.<br/>Képezze le az import fájl adatait az alkalmazás mezőire, és nyomja meg az <i>Import</i> gombot a feldolgozáshoz.^ImportMappingInstruction^
+
+^ImportProcessing^Import fájl feldolgozás folyamatban. Az importált adatok a sikeres feldolgozás lezárás után érhetőek el. Lehetséges, hogy frissítenie kell a kérdéses oldalakat, hogy lássa az importált adatokat.^ImportProcessing^
+
+^ImportStartButton^Import^ImportStartButton^
+
+^ImportUploading^Fájl feltöltés a szerverre folyamatban. Kérjük, várjon...^ImportUploading^
+
+^ImportUploadInstruction^Válassza ki a feltöltendő fájlt. A fájlnak <b>CSV</b>, <b>XLS</b>, vagy <b>XLSX</b> formátumú lehet.^ImportUploadInstruction^
+
+^In^-ban^In^
+
+^Includes^Tartalmazza^Includes^
+
+^Indent^Bekezdés^Indent^
+
+^InfoBarAnd^és^InfoBarAnd^
+
+^InfoBarEmpty^üres^InfoBarEmpty^
+
+^InfoBarEqualTo^egyenlő^InfoBarEqualTo^
+
+^InfoBarGreaterThan^nagyobb^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^nagyobb egyenlő^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^kisebb^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^kisebb egyenlő^InfoBarLessThanOrEqual^
+
+^InfoBarLike^olyan, mint^InfoBarLike^
+
+^InfoBarOr^vagy^InfoBarOr^
+
+^InfoBarQuickFind^Bármely mező tartalmazza^InfoBarQuickFind^
+
+^InfoBarStartsWith^eleje^InfoBarStartsWith^
+
+^InitialListMode^A lista első Mode^InitialListMode^
+
+^InsertActionHeaderText^Rendben^InsertActionHeaderText^
+
+^InsertHorizontalRule^Helyezze Vízszintes vonal^InsertHorizontalRule^
+
+^InsertOrderedList^Számozott felsorolás beszúrása^InsertOrderedList^
+
+^InsertUnorderedList^Insert Rendezetlen lista^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Érvénytelen felhasználó név és jelszó.^InvalidUserNameAndPassword^
+
+^Italic^Kurzív^Italic^
+
+^ItemsPerPage^Elemek száma oldalanként:^ItemsPerPage^
+
+^JustifyCenter^Indokolja Center^JustifyCenter^
+
+^JustifyFull^Sorkizárás^JustifyFull^
+
+^JustifyLeft^Indokolja Bal^JustifyLeft^
+
+^JustifyRight^Indokolja Right^JustifyRight^
+
+^Lacquer^Lakk^Lacquer^
+
+^Laminate^Laminált^Laminate^
+
+^Landscape^Táj^Landscape^
+
+^LastMonth^Előző hónap^LastMonth^
+
+^LastQuarter^Előző negyedév^LastQuarter^
+
+^LastWeek^Előző hét^LastWeek^
+
+^LastYear^Előző év^LastYear^
+
+^LessThan^Kisebb^LessThan^
+
+^Lichen^Zuzmó^Lichen^
+
+^LightTheme^Fény^LightTheme^
+
+^List^Lista^List^
+
+^ListOneColumn^List (One Column)^ListOneColumn^
+
+^Loading^Töltés...^Loading^
+
+^Logical^Logikus^Logical^
+
+^LoginButton^Bejelentkezés^LoginButton^
+
+^LoginLink^Bejelentkezés^LoginLink^
+
+^Logout^Kijelentkezés^Logout^
+
+^LookupInstruction^Válassza ki <b>{0}</b> a listán.^LookupInstruction^
+
+^LookupOriginalSelection^Az eredeti kiválasztás <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Térkép^Map^
+
+^MatchAll^A mérkőzés minden körülmények között^MatchAll^
+
+^MatchAllPastTense^Egyeztetett minden körülmények között^MatchAllPastTense^
+
+^MatchAny^Bármelyik feltételek^MatchAny^
+
+^MatchAnyPastTense^Egyeztetett semmilyen körülmények között^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^{0} maximuma^MaxAggregateToolTip^
+
+^Maximize^Kinyit^Maximize^
+
+^Menu^Étlap^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^{0} minimuma^MinAggregateToolTip^
+
+^Minimize^Bezár^Minimize^
+
+^Mission^Küldetés^Mission^
+
+^ModeBrowsing^Legelészés^ModeBrowsing^
+
+^ModeEditing^Szerkesztés^ModeEditing^
+
+^ModeEntering^Belépés^ModeEntering^
+
+^ModeLookup^Keresés^ModeLookup^
+
+^Modern^Modern^Modern^
+
+^ModernRose^Modern Rose^ModernRose^
+
+^ModeViewing^Megtekintése^ModeViewing^
+
+^More^Több^More^
+
+^Municipal^Városi^Municipal^
+
+^MyAccount^Saját fiókom^MyAccount^
+
+^Never^Soha^Never^
+
+^NewActionHeaderText^Új^NewActionHeaderText^
+
+^NewRowLink^Klikkeljen ide új rekord létrehozásához.^NewRowLink^
+
+^NewToolTip^Új {0}^NewToolTip^
+
+^Next^Következő^Next^
+
+^NextMonth^Következő hónap^NextMonth^
+
+^NextQuarter^Következő negyedév^NextQuarter^
+
+^NextWeek^Következő hét^NextWeek^
+
+^NextYear^Következő év^NextYear^
+
+^No^Nem^No^
+
+^NoRecords^Nincs rekord.^NoRecords^
+
+^NoteDeleteConfirm^Törlés?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^töröl^NoteDeleteLabel^
+
+^NoteEditLabel^szerkeszt^NoteEditLabel^
+
+^NullValue^-^NullValue^
+
+^NullValueInForms^-^NullValueInForms^
+
+^Number^Szám^Number^
+
+^NumberFilterText^Szám szűrők^NumberFilterText^
+
+^NumberIsExpected^Szám beírása szükséges.^NumberIsExpected^
+
+^OK^Rendben^OK^
+
+^OpenActionHeaderText^Megnyit^OpenActionHeaderText^
+
+^Outdent^Behúzás csökkentése^Outdent^
+
+^Page^Oldal^Page^
+
+^Password^Jelszó^Password^
+
+^Past^Múlt^Past^
+
+^Paste^Paszta^Paste^
+
+^PerformAdvancedSearch^Keres^PerformAdvancedSearch^
+
+^Permalink^Állandó link^Permalink^
+
+^PermalinkToolTip^Kiválasztott rekordhoz állandó link készítése^PermalinkToolTip^
+
+^PermalinkUnavailable^Állandó link nem elérhető. Válasszon rekordot.^PermalinkUnavailable^
+
+^Petal^Virágszirom^Petal^
+
+^Pinnate^Szárnyas^Pinnate^
+
+^Plastic^Műanyag^Plastic^
+
+^Portrait^Portré^Portrait^
+
+^PresentationStyle^Válasszon adatok bemutatása stílusban.^PresentationStyle^
+
+^Previous^Előző^Previous^
+
+^PromoteActions^Fellépések támogatása^PromoteActions^
+
+^Quarter1^1. negyedév^Quarter1^
+
+^Quarter2^2. negyedév^Quarter2^
+
+^Quarter3^3. negyedév^Quarter3^
+
+^Quarter4^4. negyedév^Quarter4^
+
+^QuickFindScope^Keresés a ...^QuickFindScope^
+
+^QuickFindText^Gyors keresés^QuickFindText^
+
+^QuickFindToolTip^Írjon be egy részletet és nyomja meg az Entert^QuickFindToolTip^
+
+^Recent^Új^Recent^
+
+^Redo^Helyrehoz^Redo^
+
+^Refresh^Frissít^Refresh^
+
+^RememberMe^Emlékezzen rám^RememberMe^
+
+^RemoveCondition^Vegye állapotban^RemoveCondition^
+
+^RemoveFormat^Formázás eltávolítása^RemoveFormat^
+
+^ReportActionDescription^Riport előállítása PDF formátumban^ReportActionDescription^
+
+^ReportActionHeaderText^Riport^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Tételek megtekintése formázott <br/>Microsoft Excel űrlapon.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Táblázatkezelő^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Tételek megtekintése többoldalas TIFF képfájlban.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Több képfájl^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Tételek megtekintése Adobe PDF dokumentumban.<br/>Kompatibilis olvasó szükséges.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF Dokumentum^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Tételek megtekintése formázott<br/>Microsoft Word dokumentumban.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Kötelező^Required^
+
+^RequiredField^Kötelező mező.^RequiredField^
+
+^RequiredFiledMarkerFootNote^kötelező mező^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Visszaállít^ResetAdvancedSearch^
+
+^ResumeBrowsing^Folytatás böngészés^ResumeBrowsing^
+
+^ResumeEditing^Önéletrajz szerkesztése^ResumeEditing^
+
+^ResumeEntering^Folytatása bevitele^ResumeEntering^
+
+^ResumeLookup^Folytatás keresése^ResumeLookup^
+
+^ResumeViewing^Önéletrajz megtekintése^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Szerepkörök^RolesTab^
+
+^RootNodeText^Felső szint^RootNodeText^
+
+^Rotate^Elforgat^Rotate^
+
+^RowCancelActionHeaderText^Mégsem^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Beszúr^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Ment^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Módosít?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Választás módosítása^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Kivéve^Save^
+
+^SaveAndNew^Mentés és Új^SaveAndNew^
+
+^SeeAll^Minden^SeeAll^
+
+^SeeAlso^További infó^SeeAlso^
+
+^SelectActionHeaderText^Választ^SelectActionHeaderText^
+
+^SelectAll^Az összes kijelölése^SelectAll^
+
+^SelectLink^(választ)^SelectLink^
+
+^SelectToolTip^{0} választás^SelectToolTip^
+
+^Separator^Szétválasztó^Separator^
+
+^Settings^Beállítások^Settings^
+
+^ShowAdvancedSearch^Kibővített keresés^ShowAdvancedSearch^
+
+^ShowingItems^Listázva <b>{0}</b>-<b>{1}</b> / <b>{2}</b> tétel^ShowingItems^
+
+^ShowingItemsInfo^A következő {0} elemeket.^ShowingItemsInfo^
+
+^Sidebar^Sidebar^Sidebar^
+
+^SignUpNow^Regisztráljon most^SignUpNow^
+
+^Simple^Egyszerű^Simple^
+
+^SiteActions^Alkalmazás tevékenységek^SiteActions^
+
+^Social^Társadalmi^Social^
+
+^Sort^Rendez^Sort^
+
+^SortBy^Rendezés {0}^SortBy^
+
+^SortByField^Válassza ki a mezőt a rendezési sorrendjének <b>{0}</b>.^SortByField^
+
+^SortByOptions^Válassza ki a rendezési sorrendjének <b>{0}</b> a mező <b>{1}</b> az opciók listáját az alábbiakban.^SortByOptions^
+
+^StrikeThrough^Áthúzott^StrikeThrough^
+
+^StringSortAscending^Növekvő^StringSortAscending^
+
+^StringSortDescending^Csökkenő^StringSortDescending^
+
+^Subscript^Sub Script^Subscript^
+
+^Suggestions^Javaslatok^Suggestions^
+
+^SumAggregate^Össz: {0}^SumAggregate^
+
+^SumAggregateToolTip^Összesen {0}^SumAggregateToolTip^
+
+^Summary^Összesítés^Summary^
+
+^Summer^Nyári^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Folytatódik^TaskResume^
+
+^Tasks^Feladatok^Tasks^
+
+^Text^Szöveg^Text^
+
+^TextFilterText^Szöveg szűrők^TextFilterText^
+
+^Theme^Téma^Theme^
+
+^ThisMonth^Aktuális hónap^ThisMonth^
+
+^ThisQuarter^Aktuális negyedév^ThisQuarter^
+
+^ThisWeek^Aktuális hét^ThisWeek^
+
+^ThisYear^Aktuális év^ThisYear^
+
+^Today^Ma^Today^
+
+^Tomorrow^Holnap^Tomorrow^
+
+^ToThisWebsite^erre az oldalra^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI nem támogatja az ebben a böngészőben.^TouchUINotSupported^
+
+^TransitionFade^Halványul^TransitionFade^
+
+^TransitionFlip^Megfricskáz^TransitionFlip^
+
+^TransitionFlow^Flow^TransitionFlow^
+
+^TransitionNone^Semmi^TransitionNone^
+
+^TransitionPop^Pukkanás^TransitionPop^
+
+^Transitions^Transitions^Transitions^
+
+^TransitionSlide^Csúszik^TransitionSlide^
+
+^TransitionSlideDown^Lecsúszni^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Fordulat^TransitionTurn^
+
+^TreeActionDescription^Hierarchikus kapcsolatok megjelenítése.^TreeActionDescription^
+
+^TreeActionHeaderText^Hierarchia mutatása^TreeActionHeaderText^
+
+^Underline^Aláhúzás^Underline^
+
+^Undo^Kibont^Undo^
+
+^Undock^Válassza le^Undock^
+
+^Unfreeze^Kiolvaszt^Unfreeze^
+
+^UnLink^Kiold^UnLink^
+
+^UnSelect^Törölje^UnSelect^
+
+^UpdateActionHeaderText^Rendben^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Módosít?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Választás módosítása^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Egy szinttel feljebb^UpOneLevel^
+
+^UseLEV^Beszúr "{0}"^UseLEV^
+
+^UserName^Felhasználó név^UserName^
+
+^UsersInRole^Felhasználók szerepe^UsersInRole^
+
+^UsersTab^Felhasználók^UsersTab^
+
+^Vantage^Előny^Vantage^
+
+^Verdant^Zöldellő^Verdant^
+
+^View^Nézet^View^
+
+^Viewpoint^Nézőpont^Viewpoint^
+
+^Welcome1^Üdvözöljük^Welcome1^
+
+^Welcome2^Dátum:^Welcome2^
+
+^WhiteSmoke^Fehér füst^WhiteSmoke^
+
+^YearToDate^Idei^YearToDate^
+
+^Yes^Igen^Yes^
+
+^Yesterday^Tegnap^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Nagyítás^ZoomIn^
+
+^ZoomOut^Kicsinyítés^ZoomOut^
+

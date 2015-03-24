@@ -1,0 +1,198 @@
+﻿body
+{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 8pt;
+    background-color: #fff;
+}
+
+.v4master .SP_Ribbon
+{
+    height: 44px;
+    background-image: url(Ribbon.gif);
+    background-repeat: repeat-x;
+    background-position: top left; /*position: fixed;     top: 0px;*/
+    width: 100%;
+}
+
+.SP_Ribbon span.Login
+{
+    float: right;
+    margin: 12px 45px 12px 0px;
+    font-family: Verdana, sans-serif;
+    font-size: 1em;
+    color: #fff;
+}
+
+.v4master .SP_Header
+{
+    /*margin-top: 44px;*/
+    height: 65px;
+    background-image: url(Header.gif);
+    background-repeat: repeat-x;
+    background-position: top left;
+}
+
+.SP_Header ul
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.SP_Header ul li
+{
+    list-style-type: none;
+    float: left;
+    margin-top: 15px;
+    padding: 5px 0px;
+}
+
+.SP_Header .SP_TeamSite
+{
+    font-family: Verdana, Arial, sans-serif;
+    color: #003759;
+    font-size: 1.4em;
+    background-image: url(DefaultLogo.gif);
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin-left: 10px;
+    padding-left: 40px;
+    height: 30px;
+}
+
+.SP_Header .SP_Divider
+{
+    width: 6px;
+    padding:8px;
+    background-image: url(Arrow.gif);
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+
+.SP_Header .SP_PageTitle
+{
+    font-family: Verdana, Arial, sans-serif;
+    display: inline-block;
+    color: #5d6878;
+    font-size: 1.4em;
+    width: 50px;
+}
+
+.v4master .SP_MenuBar
+{
+    height: 26px;
+    background-image: url(MenuBar.gif);
+    background-repeat: repeat-x;
+    background-position: top left;
+}
+
+.v4master .SP_MenuBar ul
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.v4master .SP_MenuBar ul li
+{
+    float: left;
+    list-style-type: none;
+}
+
+.v4master .SP_MenuBar li.Item
+{
+    margin: 0px 0px 0px 5px;
+    border-right: solid 1px #91CDF2;
+    border-left: solid 1px #91CDF2;
+    color: #003759;
+    display: inline-block;
+    height: 19px;
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 8pt;
+    background-image: url(MenuItem.gif);
+    background-repeat: repeat-x;
+    background-position: top left;
+}
+
+
+table.SP_Page
+{
+    width: 100%;
+    border-width: 0px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    min-height: 450px;
+    height: 450px;
+}
+
+table.SP_Page td.SP_SideBar
+{
+    min-width: 160px;
+    max-width: 160px;
+    width: 160px;
+    padding: 0px;
+}
+
+.SP_SideBar .SP_SidePanel
+{
+    border-right: solid 1px #DBDDDE;
+    border-bottom: solid 1px #DBDDDE;
+    padding: 8px;
+    height: 440px;
+}
+
+.SP_SideBar .SP_SidePanel a, .SP_Settings a
+{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 8pt;
+    color: #3b4f65;
+    text-decoration: none;
+}
+
+.SP_Settings a
+{
+    color: #0072bc;
+}
+
+.SP_SideBar .SP_SidePanel a:hover, .SP_Settings a:hover
+{
+    text-decoration: underline;
+}
+
+table.SP_Page td.SP_Settings
+{
+    min-width: 247px;
+    max-width: 247px;
+    width: 247px;
+    background-color:#fff;
+    background-image:url(DesignerTop.gif);
+    background-repeat:no-repeat;
+    padding:55px 8px 8px 8px;
+    border-left:solid 1px #90959A;
+    border-right:solid 1px #90959A;
+    border-bottom:solid 1px #90959A;
+}
+
+table.SP_Page td.SP_Settings ul.Buttons
+{
+    padding:0px;
+    margin:0px;
+}
+
+table.SP_Page td.SP_Settings ul.Buttons li
+{
+    float:left;
+    list-style-type:none;
+    margin: 12px 2px 0px 0px;
+}
+
+table.SP_Page td.SP_Settings ul.Buttons li input
+{
+    width:67px;
+}
+
+table.SP_Page .SP_Body
+{
+    padding: 16px;
+}

@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Par^About^
+
+^ActionBarActionsHeaderText^Darbības^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Atcelt^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Atcelt visu reģistrēt izmaiņas.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Atcelt jaunu ierakstu.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Saglabāt jaunu ierakstu datu bāzē.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Saglabāt^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Izveidot jaunu {0} ierakstu.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^New {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^New^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Ierakstu^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Ziņojums^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Saglabājiet izmaiņas datu bāzē.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Saglabāt^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Pievienot stāvoklis^AddCondition^
+
+^AddConditionText^Pievienot meklēšanas nosacījumu^AddConditionText^
+
+^AddMatchingGroup^Pievienot Matching grupu^AddMatchingGroup^
+
+^AddSearchBarField^Vairāk meklēšanas laukus^AddSearchBarField^
+
+^AddToFavorites^Pievienot favorītiem^AddToFavorites^
+
+^AdvancedSearch^Izvērstā meklēšana^AdvancedSearch^
+
+^After^Pēc^After^
+
+^AlignedLeft^Jāsaskaņo pa kreisi^AlignedLeft^
+
+^AlignedRight^Jāsaskaņo Tiesības^AlignedRight^
+
+^AllDatesInPreriod^Visi datumi periodā^AllDatesInPreriod^
+
+^AlternativeView^Izvēlēties alternatīvu skatu datu.^AlternativeView^
+
+^Always^Vienmēr^Always^
+
+^Apply^Piesakies^Apply^
+
+^Aquarium^Akvārijs^Aquarium^
+
+^AvgAggregate^Vidējais: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Vidējā {0}^AvgAggregateToolTip^
+
+^Azure^Debeszils^Azure^
+
+^Back^Atpakaļ^Back^
+
+^BackColor^Atpakaļ Krāsa^BackColor^
+
+^BatchEditActionHeaderText^Pamata rediģēšana^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Pamata rediģēšana (veidlapa)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^update^BatchUpdate^
+
+^Before^Pirms^Before^
+
+^BeginsWith^Sākas ar^BeginsWith^
+
+^Belltown^Belltown^Belltown^
+
+^Berry^Oga^Berry^
+
+^Between^Starp^Between^
+
+^Bittersweet^Bittersweet^Bittersweet^
+
+^BlankPassword^Parole nedrīkst būt tukša.^BlankPassword^
+
+^BlankUserName^Lietotāja vārds nevar būt tukšs.^BlankUserName^
+
+^BlankValue^(Blank)^BlankValue^
+
+^BlobDownloadHint^Klikšķiniet šeit, lai lejupielādētu oriģinālo failu.^BlobDownloadHint^
+
+^BlobDownloadLink^download^BlobDownloadLink^
+
+^Bold^Drosmīgs^Bold^
+
+^BooleanFilterText^Loģiskā filtri^BooleanFilterText^
+
+^BooleanIsExpected^Loģiskā vērtība tiek gaidīts.^BooleanIsExpected^
+
+^ButtonShapes^Poga Formas^ButtonShapes^
+
+^Calendar^Kalendārs^Calendar^
+
+^Cancel^Atcelt^Cancel^
+
+^Cards^Kārtis^Cards^
+
+^Cay^Koraļļu rifs^Cay^
+
+^ChangeYourLanguage^Mainiet savu valodu^ChangeYourLanguage^
+
+^Citrus^Citrusaugs^Citrus^
+
+^Classic^Klasisks^Classic^
+
+^ClearFilter^Notīrīt filtru no {0}^ClearFilter^
+
+^ClearText^Skaidrs teksts^ClearText^
+
+^ClearToolTip^Notīrīt {0}^ClearToolTip^
+
+^Close^Aizvērt^Close^
+
+^Comfortable^Ērts^Comfortable^
+
+^Compact^Kompakts^Compact^
+
+^Condensed^Kondensēts^Condensed^
+
+^ConfirmReload^Pārlādēt?^ConfirmReload^
+
+^ConnectionLost^Tīkla savienojums ir zudis. Mēģināt vēlreiz?^ConnectionLost^
+
+^Construct^Konstruēt^Construct^
+
+^Contains^Satur^Contains^
+
+^Convention^Konvencija^Convention^
+
+^Copy^Kopēt^Copy^
+
+^CountAggregate^Count: {0}^CountAggregate^
+
+^CountAggregateToolTip^Skaitīt {0}^CountAggregateToolTip^
+
+^CreateLink^Izveidot saiti^CreateLink^
+
+^CustomFilterOption^Filtrs ...^CustomFilterOption^
+
+^Cut^Samazināt^Cut^
+
+^DarkKnight^Dark Knight^DarkKnight^
+
+^DarkTheme^Tumšs^DarkTheme^
+
+^DataSheetActionDescription^Display objektus, izmantojot datu sheet<br/>format.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Rādīt Data Sheet^DataSheetActionHeaderText^
+
+^Date^Datums^Date^
+
+^DateFilterText^Datumu filtri^DateFilterText^
+
+^DateIsExpected^Datums ir plānots.^DateIsExpected^
+
+^DateSortAscending^Agrākais uz augšu^DateSortAscending^
+
+^DateSortDescending^Jaunākais uz augšu^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Aizvērt^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Lūdzu aizpildiet šo veidlapu un noklikšķiniet uz pogas Labi, lai izveidotu jaunu {0} ierakstu. Noklikšķiniet uz Atcelt, lai atgrieztos iepriekšējā ekrānā.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Šīs ir jomas {0} ieraksts, kas var rediģēt.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Lūdzu, pārskatiet {0} informāciju. Noklikšķiniet uz Rediģēt, lai mainītu šo ierakstu, noklikšķiniet uz Dzēst, lai izdzēstu ierakstu, vai noklikšķiniet uz Atcelt / Aizvērt, lai atgrieztos atpakaļ.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Šis ir saraksts ar {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Aizpildiet formu. Pārliecinieties, lai ievadītu visus nepieciešamos laukus.^DefaultNewDescription^
+
+^DefaultOption^Standarta^DefaultOption^
+
+^DefaultReferenceDescription^Papildu informācija par {0} ir sniegta atsauces informācija sadaļā.^DefaultReferenceDescription^
+
+^Delete^Izdzēst^Delete^
+
+^DeleteActionConfirmation^Dzēst?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Dzēst^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Dzēst)^DeleteSearchBarField^
+
+^DetailsToolTip^Skatīt sīkāku informāciju par {0}^DetailsToolTip^
+
+^Directions^Virzieni^Directions^
+
+^DisplayDensity^Attēlojums^DisplayDensity^
+
+^DisplayedAbove^Parādīts Virs^DisplayedAbove^
+
+^DisplayedBelow^Redzams zemāk^DisplayedBelow^
+
+^Dock^Novietot dokā^Dock^
+
+^DoesNotBeginWith^Nesākas ar^DoesNotBeginWith^
+
+^DoesNotContain^Nesatur^DoesNotContain^
+
+^DoesNotEndWith^Nebeidzas ar^DoesNotEndWith^
+
+^DoesNotEqual^Nav vienāds^DoesNotEqual^
+
+^DoesNotInclude^Neietver^DoesNotInclude^
+
+^DoNotMatchAll^Nesakrīt visus nosacījumus^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Nesakrita visus nosacījumus^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Nesakrīt nekādus nosacījumus^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Nesakrita nekādus nosacījumus^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Dublikāts^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Rediģēt^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Atcelt^EditModeCancelActionHeaderText^
+
+^EmptyContext^Darbības nav pieejami.^EmptyContext^
+
+^EmptyValue^(Empty)^EmptyValue^
+
+^EndsWith^Beidzas ar^EndsWith^
+
+^Equals^Vienāds^Equals^
+
+^ExportCsvActionDescription^Objektu ielāde CSV formātā.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Download^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Analizēt vienības ar spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Eksportēt uz izklājlapu^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate preces ar RSS lasītājs.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^View RSS Feed^ExportRssActionHeaderText^
+
+^Favorites^Izlase^Favorites^
+
+^Felt^Filcs^Felt^
+
+^Filter^Filtrs^Filter^
+
+^FilterApplied^Filtrs ir piemērots.^FilterApplied^
+
+^FilterByField^Izvēlieties lauku, lai piemērotu filtru <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Izvēlieties vienu vai vairākas iespējas zemāk sarakstā un nospiediet <b>{2}</b> filtrēt <b>{0}</b> pēc lauka <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^un^FilterLabelAnd^
+
+^FilterLabelClear^Skaidrs^FilterLabelClear^
+
+^FilterLabelEquals^vienāds^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Mainīt^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^ietver^FilterLabelIncludes^
+
+^FilterLabelOr^vai^FilterLabelOr^
+
+^FilterLabelSelectAll^(Atlasīt visu)^FilterLabelSelectAll^
+
+^FilterSiteMap^Filtrs lapas karte ...^FilterSiteMap^
+
+^FlatTreeToggle^Pārslēgties uz Hierarhijas^FlatTreeToggle^
+
+^FontName^Fonta nosaukums^FontName^
+
+^FontSize^Fonta lielums^FontSize^
+
+^ForeColor^Fore Krāsa^ForeColor^
+
+^ForgotYourPassword^Aizmirsi savu paroli?^ForgotYourPassword^
+
+^Freeze^Sasalt^Freeze^
+
+^Future^Nākotnes^Future^
+
+^GeneralTabText^Vispārīgi^GeneralTabText^
+
+^GenericNewToolTip^Izveidot jaunu^GenericNewToolTip^
+
+^GenericSortAscending^Mazākais uz augšu^GenericSortAscending^
+
+^GenericSortDescending^Lielākais uz augšu^GenericSortDescending^
+
+^Graham^Graham^Graham^
+
+^Granite^Granīts^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Nopietnība^Gravity^
+
+^GreaterThan^Greater Than^GreaterThan^
+
+^Grid^Skala^Grid^
+
+^GridActionDescription^Displejs preces standard<br/>list formātā.^GridActionDescription^
+
+^GridActionHeaderText^Rādīt Standarta skats^GridActionHeaderText^
+
+^Help^Palīdzība^Help^
+
+^HelpClose^Aizvērt^HelpClose^
+
+^HelpFullScreen^Full Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Slēpt Izvērstā meklēšana^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Pārslēgties uz Flat List^HierarchyTreeModeToggle^
+
+^History^Vēsture^History^
+
+^HistoryToolTip^Skatīt vēsturi iepriekš atlasītos ierakstus^HistoryToolTip^
+
+^HistoryUnavailable^Vēsture nav pieejams.^HistoryUnavailable^
+
+^Home^Mājas^Home^
+
+^IdleUser^Vai jums vēl joprojām pastāv? Lūdzu, piesakieties vēlreiz.^IdleUser^
+
+^ImportActionDescription^Augšupielādējiet CSV, XLS vai XLSX file<br/>to importēt ierakstus.^ImportActionDescription^
+
+^ImportActionHeaderText^Importēt no faila^ImportActionHeaderText^
+
+^ImportAutoDetect^(Auto atklāt)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Download importēt failu veidni.^ImportDownloadTemplate^
+
+^ImportEmail^Sūtīt importa žurnāla e-pasta adreses (pēc izvēles)^ImportEmail^
+
+^ImportEmailNotSpecified^Saņēmējs importa log nav noteikts. Turpināt jebkurā gadījumā?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Ir <b>{0}</b> ierakstu (s) failu <b>{1}</b> gatavs processed.<br/>Please karte importa lauki no datu faila pieteikumu laukus un noklikšķiniet uz <i>Import</i> lai sāktu apstrādi.^ImportMappingInstruction^
+
+^ImportProcessing^Importēt failu apstrāde ir uzsākta. Importēto datu ierakstus, būs pieejama pēc veiksmīgas apstrādes. Jums var būt nepieciešams atsvaidzināt nozīmīgie viedokļi / pages, lai redzētu importēto ierakstus.^ImportProcessing^
+
+^ImportStartButton^Imports^ImportStartButton^
+
+^ImportUploading^Jūsu fails tiek augšupielādēts uz servera. Lūdzu, uzgaidiet ...^ImportUploading^
+
+^ImportUploadInstruction^Lūdzu izvēlieties failu augšupielādes. Fails jābūt <b>CSV</b>, <b>XLS</b> vai <b>XLSX</b> formātā.^ImportUploadInstruction^
+
+^In^uz^In^
+
+^Includes^Ietver^Includes^
+
+^Indent^Atkāpe^Indent^
+
+^InfoBarAnd^un^InfoBarAnd^
+
+^InfoBarEmpty^tukšs^InfoBarEmpty^
+
+^InfoBarEqualTo^ir vienāds ar^InfoBarEqualTo^
+
+^InfoBarGreaterThan^ir lielāks nekā^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^ir lielāks vai vienāds ar^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^ir mazāks nekā^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^ir mazāks vai vienāds ar^InfoBarLessThanOrEqual^
+
+^InfoBarLike^ir kā^InfoBarLike^
+
+^InfoBarOr^vai^InfoBarOr^
+
+^InfoBarQuickFind^Jebkurš lauks satur^InfoBarQuickFind^
+
+^InfoBarStartsWith^sākas ar^InfoBarStartsWith^
+
+^InitialListMode^Sākotnējā Latviešu Mode^InitialListMode^
+
+^InsertActionHeaderText^OK^InsertActionHeaderText^
+
+^InsertHorizontalRule^Ievietot horizontālu noteikums^InsertHorizontalRule^
+
+^InsertOrderedList^Ievietot Sakārtots saraksts^InsertOrderedList^
+
+^InsertUnorderedList^Ieliktnis Nekārtots saraksts^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Jūsu lietotāja vārds un parole nav derīgi.^InvalidUserNameAndPassword^
+
+^Italic^Kursīvs^Italic^
+
+^ItemsPerPage^Lapā:^ItemsPerPage^
+
+^JustifyCenter^Justify Center^JustifyCenter^
+
+^JustifyFull^Justify Full^JustifyFull^
+
+^JustifyLeft^Justify Left^JustifyLeft^
+
+^JustifyRight^Justify Tiesības^JustifyRight^
+
+^Lacquer^Laka^Lacquer^
+
+^Laminate^Lamināta^Laminate^
+
+^Landscape^Ainava^Landscape^
+
+^LastMonth^Pēdējais mēnesis^LastMonth^
+
+^LastQuarter^Pēdējais ceturksnis^LastQuarter^
+
+^LastWeek^Pagājušajā nedēļā^LastWeek^
+
+^LastYear^Pagājušajā gadā^LastYear^
+
+^LessThan^Mazāk nekā^LessThan^
+
+^Lichen^Ķērpis^Lichen^
+
+^LightTheme^Gaisma^LightTheme^
+
+^List^Saraksts^List^
+
+^ListOneColumn^Saraksts (viena sleja)^ListOneColumn^
+
+^Loading^Loading ...^Loading^
+
+^Logical^Loģisks^Logical^
+
+^LoginButton^Login^LoginButton^
+
+^LoginLink^Login^LoginLink^
+
+^Logout^Logout^Logout^
+
+^LookupInstruction^Lūdzu, izvēlieties <b>{0}</b> sarakstā.^LookupInstruction^
+
+^LookupOriginalSelection^Sākotnējā izvēle ir <b>&quot;{0}&quot;</b>.^LookupOriginalSelection^
+
+^Map^Karte^Map^
+
+^MatchAll^Atbilst visiem nosacījumiem^MatchAll^
+
+^MatchAllPastTense^Pagatavo visus nosacījumus^MatchAllPastTense^
+
+^MatchAny^Match nekādus nosacījumus^MatchAny^
+
+^MatchAnyPastTense^Pagatavo nekādus nosacījumus^MatchAnyPastTense^
+
+^MaxAggregate^Max: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Maksimālais {0}^MaxAggregateToolTip^
+
+^Maximize^Izvērst^Maximize^
+
+^Menu^Ēdienkarte^Menu^
+
+^MinAggregate^Min: {0}^MinAggregate^
+
+^MinAggregateToolTip^Vismaz {0}^MinAggregateToolTip^
+
+^Minimize^Sabrukums^Minimize^
+
+^Mission^Misija^Mission^
+
+^ModeBrowsing^Pārlūkošanu^ModeBrowsing^
+
+^ModeEditing^Rediģēšana^ModeEditing^
+
+^ModeEntering^Ievietojot^ModeEntering^
+
+^ModeLookup^Meklēt^ModeLookup^
+
+^Modern^Mūsdienu^Modern^
+
+^ModernRose^Modern Rose^ModernRose^
+
+^ModeViewing^Skatīšanās^ModeViewing^
+
+^More^Vairāk^More^
+
+^Municipal^Pašvaldības^Municipal^
+
+^MyAccount^Mans konts^MyAccount^
+
+^Never^Nekad^Never^
+
+^NewActionHeaderText^New^NewActionHeaderText^
+
+^NewRowLink^Klikšķiniet šeit, lai izveidotu jaunu ierakstu.^NewRowLink^
+
+^NewToolTip^New {0}^NewToolTip^
+
+^Next^Nākamā^Next^
+
+^NextMonth^Nākamais mēnesis^NextMonth^
+
+^NextQuarter^Nākamais ceturksnis^NextQuarter^
+
+^NextWeek^Nākamā nedēļa^NextWeek^
+
+^NextYear^Nākamais gads^NextYear^
+
+^No^Nē^No^
+
+^NoRecords^Ieraksti nav atrasti.^NoRecords^
+
+^NoteDeleteConfirm^Dzēst?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^Dzēst^NoteDeleteLabel^
+
+^NoteEditLabel^rediģēt^NoteEditLabel^
+
+^NullValue^n / a^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Numurs^Number^
+
+^NumberFilterText^Skaitļu filtri^NumberFilterText^
+
+^NumberIsExpected^Numurs ir gaidāms.^NumberIsExpected^
+
+^OK^OK^OK^
+
+^OpenActionHeaderText^Atvērt^OpenActionHeaderText^
+
+^Outdent^Outdent^Outdent^
+
+^Page^Page^Page^
+
+^Password^Parole^Password^
+
+^Past^Iepriekšējie^Past^
+
+^Paste^Pasta^Paste^
+
+^PerformAdvancedSearch^Meklēšana^PerformAdvancedSearch^
+
+^Permalink^Permalink^Permalink^
+
+^PermalinkToolTip^Izveidot pastāvīgu saikni, lai atlasītos ierakstus^PermalinkToolTip^
+
+^PermalinkUnavailable^Permalink nav pieejams. Lūdzu, izvēlieties ierakstu.^PermalinkUnavailable^
+
+^Petal^Ziedlapa^Petal^
+
+^Pinnate^Pinnate^Pinnate^
+
+^Plastic^Plastmasa^Plastic^
+
+^Portrait^Portrets^Portrait^
+
+^PresentationStyle^Izvēlieties datu prezentācijas stilu.^PresentationStyle^
+
+^Previous^Iepriekšējais^Previous^
+
+^PromoteActions^Veicināt darbības^PromoteActions^
+
+^Quarter1^Ceturksnis 1^Quarter1^
+
+^Quarter2^Ceturksnis 2^Quarter2^
+
+^Quarter3^Ceturksnis 3^Quarter3^
+
+^Quarter4^Ceturksnis 4^Quarter4^
+
+^QuickFindScope^Meklēt ...^QuickFindScope^
+
+^QuickFindText^Ātrā meklēšana^QuickFindText^
+
+^QuickFindToolTip^Ierakstiet, lai meklētu ierakstus un nospiediet Enter^QuickFindToolTip^
+
+^Recent^Nesens^Recent^
+
+^Redo^Pārtaisīt^Redo^
+
+^Refresh^Atsvaidzināt^Refresh^
+
+^RememberMe^Atcerēties mani nākamreiz^RememberMe^
+
+^RemoveCondition^Noņemt stāvoklis^RemoveCondition^
+
+^RemoveFormat^Noņemt stilus^RemoveFormat^
+
+^ReportActionDescription^Render ziņojumu PDF formātā^ReportActionDescription^
+
+^ReportActionHeaderText^Ziņojums^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Skatīt vienumus formatted<br/>Microsoft Excel izklājlapā.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Izklājlapas^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Skatīt posteņi, kā vairāklapu TIFF attēlu.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Vairāku attēlu^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Skatīt posteņi, kā Adobe PDF document.<br/>Requires saderīgs lasītājs.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^PDF dokuments^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Skatīt vienumus formatted<br/>Microsoft Word dokumentu.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Nepieciešams^Required^
+
+^RequiredField^Šis lauks ir nepieciešams.^RequiredField^
+
+^RequiredFiledMarkerFootNote^norāda nepieciešamo lauku^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Reset^ResetAdvancedSearch^
+
+^ResumeBrowsing^Atsākt pārlūkošanai^ResumeBrowsing^
+
+^ResumeEditing^Atsākt rediģēšanu^ResumeEditing^
+
+^ResumeEntering^Atsākt ievadīšana^ResumeEntering^
+
+^ResumeLookup^Atsākt Meklēt^ResumeLookup^
+
+^ResumeViewing^Atsākt skatīšanu^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^Lomas^RolesTab^
+
+^RootNodeText^Top Level^RootNodeText^
+
+^Rotate^Rotēt^Rotate^
+
+^RowCancelActionHeaderText^Atcelt^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Ievietot^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Saglabāt^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Update?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Update izvēle^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Saglabāt^Save^
+
+^SaveAndNew^Saglabāt un New^SaveAndNew^
+
+^SeeAll^Skatīt visu^SeeAll^
+
+^SeeAlso^Skatiet arī^SeeAlso^
+
+^SelectActionHeaderText^Izvēlieties^SelectActionHeaderText^
+
+^SelectAll^Izvēlēties visu^SelectAll^
+
+^SelectLink^(Izvēlēties)^SelectLink^
+
+^SelectToolTip^Izvēlieties {0}^SelectToolTip^
+
+^Separator^Separators^Separator^
+
+^Settings^Iestatījumi^Settings^
+
+^ShowAdvancedSearch^Rādīt Izvērstā meklēšana^ShowAdvancedSearch^
+
+^ShowingItems^Rāda <b>{0}</b>-<b>{1}</b> no <b>{2}</b> preces^ShowingItems^
+
+^ShowingItemsInfo^Rāda {0} priekšmetus.^ShowingItemsInfo^
+
+^Sidebar^Sānjoslas^Sidebar^
+
+^SignUpNow^Piereģistrējies tagad!^SignUpNow^
+
+^Simple^Vienkāršs^Simple^
+
+^SiteActions^Vietnes darbības^SiteActions^
+
+^Social^Sociāls^Social^
+
+^Sort^Šķirot^Sort^
+
+^SortBy^Kārtot pēc {0}^SortBy^
+
+^SortByField^Izvēlieties lauku, lai mainītu kārtošanas secību <b>{0}</b>.^SortByField^
+
+^SortByOptions^Izvēlieties kārtošanas secību <b>{0}</b> pēc lauka <b>{1}</b> sarakstā iespējas zemāk.^SortByOptions^
+
+^StrikeThrough^Strike Caur^StrikeThrough^
+
+^StringSortAscending^Augošā secībā^StringSortAscending^
+
+^StringSortDescending^Dilstošā secībā^StringSortDescending^
+
+^Subscript^Sub Script^Subscript^
+
+^Suggestions^Ieteikumi^Suggestions^
+
+^SumAggregate^Summa: {0}^SumAggregate^
+
+^SumAggregateToolTip^Summa {0}^SumAggregateToolTip^
+
+^Summary^Kopsavilkums^Summary^
+
+^Summer^Vasara^Summer^
+
+^Superscript^Super Script^Superscript^
+
+^TaskResume^Atsākt^TaskResume^
+
+^Tasks^Uzdevumi^Tasks^
+
+^Text^Teksts^Text^
+
+^TextFilterText^Teksta filtri^TextFilterText^
+
+^Theme^Tēma^Theme^
+
+^ThisMonth^Šis mēnesis^ThisMonth^
+
+^ThisQuarter^Šis ceturksnis^ThisQuarter^
+
+^ThisWeek^Šī nedēļa^ThisWeek^
+
+^ThisYear^Šogad^ThisYear^
+
+^Today^Šodien^Today^
+
+^Tomorrow^Rīt^Tomorrow^
+
+^ToThisWebsite^uz šo mājas lapu^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI neatbalsta šo pārlūku.^TouchUINotSupported^
+
+^TransitionFade^Izbalināt^TransitionFade^
+
+^TransitionFlip^Uzsist^TransitionFlip^
+
+^TransitionFlow^Plūsma^TransitionFlow^
+
+^TransitionNone^Neviens^TransitionNone^
+
+^TransitionPop^Pop^TransitionPop^
+
+^Transitions^Transitions^Transitions^
+
+^TransitionSlide^Slidkalniņš^TransitionSlide^
+
+^TransitionSlideDown^Slīdēt uz leju^TransitionSlideDown^
+
+^TransitionSlideUp^Slide Up^TransitionSlideUp^
+
+^TransitionTurn^Kārta^TransitionTurn^
+
+^TreeActionDescription^Display hierarhiskās attiecības.^TreeActionDescription^
+
+^TreeActionHeaderText^Rādīt hierarhija^TreeActionHeaderText^
+
+^Underline^Pasvītrot^Underline^
+
+^Undo^Atpogāt^Undo^
+
+^Undock^Atdokotu^Undock^
+
+^Unfreeze^Atsaldēt^Unfreeze^
+
+^UnLink^Atvienot^UnLink^
+
+^UnSelect^Atsijāt^UnSelect^
+
+^UpdateActionHeaderText^OK^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Update?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Update izvēle^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^Vienu līmeni uz augšu^UpOneLevel^
+
+^UseLEV^Ielīmēt &quot;{0}&quot;^UseLEV^
+
+^UserName^Lietotāja Vārds^UserName^
+
+^UsersInRole^Lietotāji loma^UsersInRole^
+
+^UsersTab^Lietotāji^UsersTab^
+
+^Vantage^Priekšroka^Vantage^
+
+^Verdant^Nenobriedis^Verdant^
+
+^View^Apskatīt^View^
+
+^Viewpoint^Viedoklis^Viewpoint^
+
+^Welcome1^Laipni lūdzam^Welcome1^
+
+^Welcome2^Šodien ir^Welcome2^
+
+^WhiteSmoke^White Dūmu^WhiteSmoke^
+
+^YearToDate^No gada sākuma^YearToDate^
+
+^Yes^Jā^Yes^
+
+^Yesterday^Vakar^Yesterday^
+
+^Yoshi^Yoshi^Yoshi^
+
+^ZoomIn^Tuvinātu^ZoomIn^
+
+^ZoomOut^Tālināt^ZoomOut^
+

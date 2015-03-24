@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Form Builder</title>
+    <link href="../_System/CodeOnTime.css" type="text/css" rel="Stylesheet" />
+
+    <script type="text/javascript" language="javascript" src="../_System/MicrosoftAjax.js"></script>
+
+    <script type="text/javascript" language="javascript" src="../_System/CodeOnTime.Client.js"></script>
+
+    <script type="text/javascript" language="javascript">
+    
+    var project = null;
+    
+    function pageLoad() {
+        project = CodeOnTime.Client.loadFromProject('StoredProcedures.Project.xml');
+        var controllers = CodeOnTime.Client.loadFromProject('BusinessObjects.xml');
+        var html = CodeOnTime.Client.transform(controllers, 'StoredProcedures.UI.BusinessObjects.xslt');
+        $get('ControllerList').innerHTML = html;
+    }
+    
+    function Continue(step) {
+        project.selectSingleNode('p:project').setAttribute('nextStep', step);
+        project.save(project.url);
+        CodeOnTime.Client.proceed();
+    }
+    
+    function Cancel() {
+       CodeOnTime.Client.cancel();
+    }
+    </script>
+
+</head>
+<body>
+    <!-- page body -->
+    <div id="Main" title="Business Objects">
+        <div class="Content">
+            The analysis of your database has been completed. Code generation will start immediately
+            when you click the <i>Next</i> button.
+        </div>
+        <div class="Heading">
+            Business Objects</div>
+        <div class="Content">
+            <div>
+                The following business objects will be provided with a complete set of CRUD stored
+                procedures.
+            </div>
+            <div id="ControllerList" class="ScrollBox" style="width: 300px; height: 180px; margin-top: 4px;
+                margin-bottom: 4px;">
+            </div>
+            <div>
+                If your database has changed then not all of the tables may be displayed in the
+                list. Please return to the <i>Database Connection</i> section and request to update
+                the database meta data.
+                <br />
+                <br />
+                All existing files in the current project folder are automatically backed up.</div>
+        </div>
+        <div class="Buttons">
+            <button onclick="Cancel()">
+                Cancel</button>
+            <button onclick="Continue('Connection')">
+                Back</button>
+            <button onclick="Continue('Generate')">
+                Next</button>
+        </div>
+    </div>
+</body>
+</html>

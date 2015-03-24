@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^حول^About^
+
+^ActionBarActionsHeaderText^الإجراءات^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^إلغاء^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^إلغاء جميع التغييرات السجل.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^إلغاء السجل الجديد.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^حفظ سجل جديد إلى قاعدة البيانات.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^حفظ^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^إنشاء سجل {0} جديدة.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^{0} جديدة^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^جديد^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^سجل^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^تقرير^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^حفظ التغييرات إلى قاعدة البيانات.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^حفظ^ActionBarUpdateActionHeaderText^
+
+^AddCondition^إضافة حالة^AddCondition^
+
+^AddConditionText^إضافة شرط البحث^AddConditionText^
+
+^AddMatchingGroup^إضافة مجموعة مطابقة^AddMatchingGroup^
+
+^AddSearchBarField^حقول أكثر للبحث^AddSearchBarField^
+
+^AddToFavorites^أضف إلى المفضلة^AddToFavorites^
+
+^AdvancedSearch^البحث المتقدم^AdvancedSearch^
+
+^After^بعد^After^
+
+^AlignedLeft^محاذاة إلى اليسار^AlignedLeft^
+
+^AlignedRight^محاذاة اليمين^AlignedRight^
+
+^AllDatesInPreriod^جميع التواريخ في الفترة^AllDatesInPreriod^
+
+^AlternativeView^حدد وجهة نظر بديلة من البيانات.^AlternativeView^
+
+^Always^دائما^Always^
+
+^Apply^تطبيق^Apply^
+
+^Aquarium^حوض السمك^Aquarium^
+
+^AvgAggregate^التقييم : {0}^AvgAggregate^
+
+^AvgAggregateToolTip^متوسط ​​{0}^AvgAggregateToolTip^
+
+^Azure^أزرق سماوي^Azure^
+
+^Back^ظهر^Back^
+
+^BackColor^يعود اللون^BackColor^
+
+^BatchEditActionHeaderText^الدفعة تحرير^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^الدفعة تحرير (نموذج)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^التحديث^BatchUpdate^
+
+^Before^قبل^Before^
+
+^BeginsWith^يبدأ^BeginsWith^
+
+^Belltown^بيلتون^Belltown^
+
+^Berry^حبة^Berry^
+
+^Between^بين^Between^
+
+^Bittersweet^حلو ومر^Bittersweet^
+
+^BlankPassword^كلمة السر لا يمكن أن يكون فارغا.^BlankPassword^
+
+^BlankUserName^يمكن أن لا يكون اسم المستخدم فارغا.^BlankUserName^
+
+^BlankValue^(فارغ)^BlankValue^
+
+^BlobDownloadHint^انقر هنا لتحميل الملف الأصلي.^BlobDownloadHint^
+
+^BlobDownloadLink^تحميل^BlobDownloadLink^
+
+^Bold^جريء^Bold^
+
+^BooleanFilterText^مرشحات منطقية^BooleanFilterText^
+
+^BooleanIsExpected^ومن المتوقع ان قيمة منطقية.^BooleanIsExpected^
+
+^ButtonShapes^الأشكال زر^ButtonShapes^
+
+^Calendar^تقويم^Calendar^
+
+^Cancel^إلغاء^Cancel^
+
+^Cards^بطاقات^Cards^
+
+^Cay^جزيرة صغيرة منخفضة^Cay^
+
+^ChangeYourLanguage^تغيير لغتك^ChangeYourLanguage^
+
+^Citrus^ليمون^Citrus^
+
+^Classic^كلاسيكي^Classic^
+
+^ClearFilter^تصفية واضحة من {0}^ClearFilter^
+
+^ClearText^نص واضح^ClearText^
+
+^ClearToolTip^واضح {0}^ClearToolTip^
+
+^Close^قريب^Close^
+
+^Comfortable^مريح^Comfortable^
+
+^Compact^مدمج^Compact^
+
+^Condensed^الموجزة^Condensed^
+
+^ConfirmReload^تحديث؟^ConfirmReload^
+
+^ConnectionLost^تم فقدان الاتصال بالشبكة. المحاولة مرة أخرى؟^ConnectionLost^
+
+^Construct^بناء^Construct^
+
+^Contains^يحتوي^Contains^
+
+^Convention^اتفاقية^Convention^
+
+^Copy^نسخ^Copy^
+
+^CountAggregate^العد : {0}^CountAggregate^
+
+^CountAggregateToolTip^عد من {0}^CountAggregateToolTip^
+
+^CreateLink^إنشاء رابط^CreateLink^
+
+^CustomFilterOption^تصفية...^CustomFilterOption^
+
+^Cut^قطع^Cut^
+
+^DarkKnight^فارس الظلام^DarkKnight^
+
+^DarkTheme^مظلم^DarkTheme^
+
+^DataSheetActionDescription^عرض العناصر باستخدام sheet<br/>format البيانات.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^تظهر في ورقة البيانات^DataSheetActionHeaderText^
+
+^Date^تاريخ^Date^
+
+^DateFilterText^تاريخ مرشحات^DateFilterText^
+
+^DateIsExpected^ومن المتوقع تحديد موعد.^DateIsExpected^
+
+^DateSortAscending^على أقرب الأعلى^DateSortAscending^
+
+^DateSortDescending^آخر يوم الأعلى^DateSortDescending^
+
+^DefaultCancelActionHeaderText^قريب^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^يرجى ملء هذا النموذج وانقر على زر موافق لإنشاء سجل {0} جديدة. فوق إلغاء للعودة الى الشاشة السابقة.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^هذه هي حقول السجل {0} التي يمكن تحريرها.^DefaultEditDescription^
+
+^DefaultEditViewDescription^يرجى مراجعة المعلومات الواردة أدناه {0}. انقر على تحرير لتغيير هذا السجل ، انقر فوق حذف لحذف السجل ، أو انقر فوق إلغاء / إغلاق للعودة الى الوراء.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^هذه هي قائمة {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^استكمال النموذج. تأكد من إدخال جميع الحقول المطلوبة.^DefaultNewDescription^
+
+^DefaultOption^الافتراضي^DefaultOption^
+
+^DefaultReferenceDescription^وترد تفاصيل إضافية حول {0} في قسم المعلومات المرجعية.^DefaultReferenceDescription^
+
+^Delete^حذف^Delete^
+
+^DeleteActionConfirmation^حذف؟^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^حذف^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(حذف)^DeleteSearchBarField^
+
+^DetailsToolTip^عرض تفاصيل عن {0}^DetailsToolTip^
+
+^Directions^الاتجاهات^Directions^
+
+^DisplayDensity^عرض الكثافة^DisplayDensity^
+
+^DisplayedAbove^عرض فوق^DisplayedAbove^
+
+^DisplayedBelow^عرض بالأسفل^DisplayedBelow^
+
+^Dock^قفص الاتهام^Dock^
+
+^DoesNotBeginWith^لا يبدأ ب^DoesNotBeginWith^
+
+^DoesNotContain^لا يحتوي^DoesNotContain^
+
+^DoesNotEndWith^لا تنتهي^DoesNotEndWith^
+
+^DoesNotEqual^لا تكافؤ^DoesNotEqual^
+
+^DoesNotInclude^لا تتضمن^DoesNotInclude^
+
+^DoNotMatchAll^لا تطابق كل الشروط^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^لم تطابق كل الشروط^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^لا تطابق اي شروط^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^لم تطابق اي شروط^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^مكررة^DuplicateActionHeaderText^
+
+^EditActionHeaderText^تحرير^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^إلغاء^EditModeCancelActionHeaderText^
+
+^EmptyContext^الإجراءات ليست متاحة.^EmptyContext^
+
+^EmptyValue^(فارغ)^EmptyValue^
+
+^EndsWith^ينتهي^EndsWith^
+
+^Equals^يساوي^Equals^
+
+^ExportCsvActionDescription^تنزيل عناصر في تنسيق CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^تحميل^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^تحليل العناصر مع spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^تصدير إلى جدول بيانات^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^بنود النقابة مع قارئ آر إس إس.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^عرض آر إس إس^ExportRssActionHeaderText^
+
+^Favorites^المفضلة^Favorites^
+
+^Felt^شعر^Felt^
+
+^Filter^مرشح^Filter^
+
+^FilterApplied^وقد طبق التصفية.^FilterApplied^
+
+^FilterByField^حدد حقلا لتطبيق فلتر ل<b>{0}</b>.^FilterByField^
+
+^FilterByOptions^تحديد خيارات واحد أو أكثر في القائمة أدناه ثم اضغط <b>{2}</b> لتصفية <b>{0}</b> حسب الحقل <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^و^FilterLabelAnd^
+
+^FilterLabelClear^واضح^FilterLabelClear^
+
+^FilterLabelEquals^يساوي^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^تغيير^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^ويشمل^FilterLabelIncludes^
+
+^FilterLabelOr^أو^FilterLabelOr^
+
+^FilterLabelSelectAll^(تحديد الكل)^FilterLabelSelectAll^
+
+^FilterSiteMap^خريطة الموقع تصفية ...^FilterSiteMap^
+
+^FlatTreeToggle^التبديل إلى التسلسل الهرمي^FlatTreeToggle^
+
+^FontName^اسم الخط^FontName^
+
+^FontSize^حجم الخط^FontSize^
+
+^ForeColor^اللون الصدارة^ForeColor^
+
+^ForgotYourPassword^نسيت كلمة السر؟^ForgotYourPassword^
+
+^Freeze^تجمد^Freeze^
+
+^Future^مستقبل^Future^
+
+^GeneralTabText^عام^GeneralTabText^
+
+^GenericNewToolTip^خلق فرص عمل جديدة^GenericNewToolTip^
+
+^GenericSortAscending^أصغر في الأعلى^GenericSortAscending^
+
+^GenericSortDescending^الأكبر في الأعلى^GenericSortDescending^
+
+^Graham^غراهام^Graham^
+
+^Granite^صوان^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^خطورة^Gravity^
+
+^GreaterThan^أكبر من^GreaterThan^
+
+^Grid^شبكة^Grid^
+
+^GridActionDescription^عرض العناصر في الشكل standard<br/>list.^GridActionDescription^
+
+^GridActionHeaderText^تظهر في طريقة عرض قياسية^GridActionHeaderText^
+
+^Help^مساعدة^Help^
+
+^HelpClose^قريب^HelpClose^
+
+^HelpFullScreen^كامل الشاشة^HelpFullScreen^
+
+^HideAdvancedSearch^إخفاء البحث المتقدم^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^التبديل إلى قائمة مسطح^HierarchyTreeModeToggle^
+
+^History^تاريخ^History^
+
+^HistoryToolTip^عرض سجلات التاريخ المحدد مسبقا^HistoryToolTip^
+
+^HistoryUnavailable^التاريخ غير متوفر.^HistoryUnavailable^
+
+^Home^منزل^Home^
+
+^IdleUser^هل ما زلت هناك؟ الرجاء تسجيل الدخول مرة أخرى.^IdleUser^
+
+^ImportActionDescription^تحميل CSV ، XLS ، XLSX أو سجلات الاستيراد file<br/>to.^ImportActionDescription^
+
+^ImportActionHeaderText^استيراد من ملف^ImportActionHeaderText^
+
+^ImportAutoDetect^(الكشف عن السيارات)^ImportAutoDetect^
+
+^ImportDownloadTemplate^تحميل ملف استيراد القالب.^ImportDownloadTemplate^
+
+^ImportEmail^إرسال السجل الاستيراد إلى عناوين البريد الإلكتروني التالي (اختياري)^ImportEmail^
+
+^ImportEmailNotSpecified^لم يكن المستفيد من سجل الاستيراد المحدد. المتابعة على أية حال؟^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^هناك سجل <b>{0}</b> (s) في ملف <b>{1}</b> جاهزة للprocessed.<br/>Please خريطة حقول الاستيراد من ملف البيانات إلى حقول التطبيق وفوق <i>Import</i> لبدء المعالجة.^ImportMappingInstruction^
+
+^ImportProcessing^وقد بدأت معالجة ملف الاستيراد. سوف تصبح مستوردة سجلات البيانات المتاحة عند معالجة ناجحة. قد تحتاج لتحديث الآراء ذات الصلة / صفحات لمشاهدة السجلات المستوردة.^ImportProcessing^
+
+^ImportStartButton^استيراد^ImportStartButton^
+
+^ImportUploading^يتم تحميله ملف إلى الخادم. يرجى الانتظار...^ImportUploading^
+
+^ImportUploadInstruction^الرجاء اختيار ملف للتحميل. يجب أن يكون الملف في تنسيق <b>CSV</b> <b>XLS</b> ، أو <b>XLSX</b>.^ImportUploadInstruction^
+
+^In^في^In^
+
+^Includes^ويشمل^Includes^
+
+^Indent^المسافة البادئة^Indent^
+
+^InfoBarAnd^و^InfoBarAnd^
+
+^InfoBarEmpty^فارغ^InfoBarEmpty^
+
+^InfoBarEqualTo^يساوي^InfoBarEqualTo^
+
+^InfoBarGreaterThan^أكبر من^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^أكبر من أو يساوي^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^أقل من^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^أقل من أو يساوي^InfoBarLessThanOrEqual^
+
+^InfoBarLike^مثل^InfoBarLike^
+
+^InfoBarOr^أو^InfoBarOr^
+
+^InfoBarQuickFind^أي حقل يحتوي^InfoBarQuickFind^
+
+^InfoBarStartsWith^يبدأ^InfoBarStartsWith^
+
+^InitialListMode^وضع قائمة أولية^InitialListMode^
+
+^InsertActionHeaderText^موافق^InsertActionHeaderText^
+
+^InsertHorizontalRule^إدراج خط أفقي^InsertHorizontalRule^
+
+^InsertOrderedList^إدراج قائمة مرتبة^InsertOrderedList^
+
+^InsertUnorderedList^إدراج قائمة غير مرتبة^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^اسم المستخدم وكلمة المرور غير صالحة.^InvalidUserNameAndPassword^
+
+^Italic^مائل^Italic^
+
+^ItemsPerPage^البنود في الصفحة :^ItemsPerPage^
+
+^JustifyCenter^مركز تبرير^JustifyCenter^
+
+^JustifyFull^تبرير كامل^JustifyFull^
+
+^JustifyLeft^تبرير الزمن^JustifyLeft^
+
+^JustifyRight^يبرر حق^JustifyRight^
+
+^Lacquer^ورنيش^Lacquer^
+
+^Laminate^صفح^Laminate^
+
+^Landscape^صور الطبيعة^Landscape^
+
+^LastMonth^الشهر الماضي^LastMonth^
+
+^LastQuarter^الربع الأخير^LastQuarter^
+
+^LastWeek^الأسبوع الماضي^LastWeek^
+
+^LastYear^العام الماضي^LastYear^
+
+^LessThan^أقل من^LessThan^
+
+^Lichen^حزاز^Lichen^
+
+^LightTheme^ضوء^LightTheme^
+
+^List^قائمة^List^
+
+^ListOneColumn^قائمة (عمود واحد)^ListOneColumn^
+
+^Loading^تحميل...^Loading^
+
+^Logical^منطقي^Logical^
+
+^LoginButton^دخول^LoginButton^
+
+^LoginLink^دخول^LoginLink^
+
+^Logout^خروج^Logout^
+
+^LookupInstruction^الرجاء اختيار <b>{0}</b> في القائمة.^LookupInstruction^
+
+^LookupOriginalSelection^اختيار الأصلي هو <b> &quot;{0}&quot; </b>.^LookupOriginalSelection^
+
+^Map^خريطة^Map^
+
+^MatchAll^تطابق كل الشروط^MatchAll^
+
+^MatchAllPastTense^يقابل كل الظروف^MatchAllPastTense^
+
+^MatchAny^تطابق اي شروط^MatchAny^
+
+^MatchAnyPastTense^يقابل أي ظرف من الظروف^MatchAnyPastTense^
+
+^MaxAggregate^ماكس : {0}^MaxAggregate^
+
+^MaxAggregateToolTip^الحد الأقصى ل{0}^MaxAggregateToolTip^
+
+^Maximize^توسيع^Maximize^
+
+^Menu^قائمة الطعام^Menu^
+
+^MinAggregate^الحد الأدنى : {0}^MinAggregate^
+
+^MinAggregateToolTip^الحد الأدنى من {0}^MinAggregateToolTip^
+
+^Minimize^انهيار^Minimize^
+
+^Mission^مهمة^Mission^
+
+^ModeBrowsing^تصفح^ModeBrowsing^
+
+^ModeEditing^التحرير^ModeEditing^
+
+^ModeEntering^دخول^ModeEntering^
+
+^ModeLookup^بحث^ModeLookup^
+
+^Modern^حديث^Modern^
+
+^ModernRose^روز الحديثة^ModernRose^
+
+^ModeViewing^مشاهدة^ModeViewing^
+
+^More^أكثر^More^
+
+^Municipal^بلدي^Municipal^
+
+^MyAccount^حسابي^MyAccount^
+
+^Never^أبدا^Never^
+
+^NewActionHeaderText^جديد^NewActionHeaderText^
+
+^NewRowLink^انقر هنا لإنشاء سجل جديد.^NewRowLink^
+
+^NewToolTip^{0} جديدة^NewToolTip^
+
+^Next^التالي^Next^
+
+^NextMonth^الشهر المقبل^NextMonth^
+
+^NextQuarter^الربع القادم^NextQuarter^
+
+^NextWeek^الأسبوع المقبل^NextWeek^
+
+^NextYear^العام المقبل^NextYear^
+
+^No^لا^No^
+
+^NoRecords^العثور على أية سجلات.^NoRecords^
+
+^NoteDeleteConfirm^حذف؟^NoteDeleteConfirm^
+
+^NoteDeleteLabel^حذف^NoteDeleteLabel^
+
+^NoteEditLabel^تحرير^NoteEditLabel^
+
+^NullValue^ن / أ^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^عدد^Number^
+
+^NumberFilterText^عدد المرشحات^NumberFilterText^
+
+^NumberIsExpected^ومن المتوقع ان العدد.^NumberIsExpected^
+
+^OK^موافق^OK^
+
+^OpenActionHeaderText^فتح^OpenActionHeaderText^
+
+^Outdent^إلغاء تأخير^Outdent^
+
+^Page^صفحة^Page^
+
+^Password^كلمة السر^Password^
+
+^Past^الماضي^Past^
+
+^Paste^لصق^Paste^
+
+^PerformAdvancedSearch^بحث^PerformAdvancedSearch^
+
+^Permalink^الرابط الثابت^Permalink^
+
+^PermalinkToolTip^إنشاء ارتباط دائم للالسجل المحدد^PermalinkToolTip^
+
+^PermalinkUnavailable^الرابط الثابت غير متوفر. الرجاء اختيار رقما قياسيا.^PermalinkUnavailable^
+
+^Petal^البتلة^Petal^
+
+^Pinnate^ريشي الشكل^Pinnate^
+
+^Plastic^البلاستيك^Plastic^
+
+^Portrait^صورة^Portrait^
+
+^PresentationStyle^تحديد نمط عرض البيانات.^PresentationStyle^
+
+^Previous^سابق^Previous^
+
+^PromoteActions^تعزيز الإجراءات^PromoteActions^
+
+^Quarter1^الربع 1^Quarter1^
+
+^Quarter2^الربع 2^Quarter2^
+
+^Quarter3^الربع 3^Quarter3^
+
+^Quarter4^الربع 4^Quarter4^
+
+^QuickFindScope^بحث في ...^QuickFindScope^
+
+^QuickFindText^البحث السريع^QuickFindText^
+
+^QuickFindToolTip^اكتب للبحث في السجلات واضغط Enter^QuickFindToolTip^
+
+^Recent^آخر^Recent^
+
+^Redo^فعل ثانية^Redo^
+
+^Refresh^التحديث^Refresh^
+
+^RememberMe^تذكرني في المرة القادمة^RememberMe^
+
+^RemoveCondition^إزالة حالة^RemoveCondition^
+
+^RemoveFormat^إزالة تنسيق^RemoveFormat^
+
+^ReportActionDescription^تقديم تقرير في تنسيق PDF^ReportActionDescription^
+
+^ReportActionHeaderText^تقرير^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^عرض العناصر في جدول بيانات Excel formatted<br/>Microsoft.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^جدول^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^عرض العناصر كصورة TIFF متعدد الصفحات.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^متعدد الصور^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^كما عرض العناصر أدوبي PDF document.<br/>Requires قارئ متوافق.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^وثيقة PDF^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^عرض العناصر في مستند Word formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^مايكروسوفت وورد^ReportAsWordActionHeaderText^
+
+^Required^مطلوب^Required^
+
+^RequiredField^هذا الحقل مطلوب.^RequiredField^
+
+^RequiredFiledMarkerFootNote^يشير إلى حقل مطلوب^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^إعادة تعيين^ResetAdvancedSearch^
+
+^ResumeBrowsing^استئناف التصفح^ResumeBrowsing^
+
+^ResumeEditing^استئناف التحرير^ResumeEditing^
+
+^ResumeEntering^استئناف دخول^ResumeEntering^
+
+^ResumeLookup^استئناف بحث^ResumeLookup^
+
+^ResumeViewing^استئناف عرض^ResumeViewing^
+
+^Ricasso^Ricasso^Ricasso^
+
+^RolesTab^الأدوار^RolesTab^
+
+^RootNodeText^على مستوي عالي^RootNodeText^
+
+^Rotate^تناوب^Rotate^
+
+^RowCancelActionHeaderText^إلغاء^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^أدخل^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^حفظ^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^التحديث؟^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^اختيار التحديث^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^حفظ^Save^
+
+^SaveAndNew^حفظ وجديد^SaveAndNew^
+
+^SeeAll^انظر جميع^SeeAll^
+
+^SeeAlso^انظر أيضا^SeeAlso^
+
+^SelectActionHeaderText^حدد^SelectActionHeaderText^
+
+^SelectAll^حدد الكل^SelectAll^
+
+^SelectLink^(تحديد)^SelectLink^
+
+^SelectToolTip^حدد {0}^SelectToolTip^
+
+^Separator^الفاصل^Separator^
+
+^Settings^إعدادات^Settings^
+
+^ShowAdvancedSearch^تظهر بحث متقدم^ShowAdvancedSearch^
+
+^ShowingItems^عرض <b>{0}</b> - <b>{1}</b> البنود <b>{2}</b>^ShowingItems^
+
+^ShowingItemsInfo^عرض {0} البنود.^ShowingItemsInfo^
+
+^Sidebar^الشريط الجانبي^Sidebar^
+
+^SignUpNow^اشترك الآن^SignUpNow^
+
+^Simple^بسيط^Simple^
+
+^SiteActions^موقع تطبيقات^SiteActions^
+
+^Social^اجتماعي^Social^
+
+^Sort^نوع^Sort^
+
+^SortBy^المرتبة حسب {0}^SortBy^
+
+^SortByField^حدد حقل لتغيير ترتيب الفرز <b>{0}</b>.^SortByField^
+
+^SortByOptions^حدد ترتيب الفرز <b>{0}</b> حسب الحقل <b>{1}</b> في قائمة من الخيارات أدناه.^SortByOptions^
+
+^StrikeThrough^ضرب خلال^StrikeThrough^
+
+^StringSortAscending^تصاعدي^StringSortAscending^
+
+^StringSortDescending^تنازلي^StringSortDescending^
+
+^Subscript^الفرعية سكربت^Subscript^
+
+^Suggestions^اقتراحات^Suggestions^
+
+^SumAggregate^خلاصة القول : {0}^SumAggregate^
+
+^SumAggregateToolTip^مجموع {0}^SumAggregateToolTip^
+
+^Summary^ملخص^Summary^
+
+^Summer^الصيف^Summer^
+
+^Superscript^سوبر سكربت^Superscript^
+
+^TaskResume^سيرة ذاتية^TaskResume^
+
+^Tasks^المهام^Tasks^
+
+^Text^نص^Text^
+
+^TextFilterText^النص مرشحات^TextFilterText^
+
+^Theme^موضوع^Theme^
+
+^ThisMonth^هذا الشهر^ThisMonth^
+
+^ThisQuarter^في هذا الربع^ThisQuarter^
+
+^ThisWeek^هذا الأسبوع^ThisWeek^
+
+^ThisYear^هذه السنة^ThisYear^
+
+^Today^اليوم^Today^
+
+^Tomorrow^غدا^Tomorrow^
+
+^ToThisWebsite^لهذا الموقع^ToThisWebsite^
+
+^TouchUINotSupported^غير معتمد لمسة واجهة المستخدم في هذا المتصفح.^TouchUINotSupported^
+
+^TransitionFade^تلاشى^TransitionFade^
+
+^TransitionFlip^نقف^TransitionFlip^
+
+^TransitionFlow^تدفق^TransitionFlow^
+
+^TransitionNone^لا شيء^TransitionNone^
+
+^TransitionPop^فرقعة^TransitionPop^
+
+^Transitions^التحولات^Transitions^
+
+^TransitionSlide^انخفاض^TransitionSlide^
+
+^TransitionSlideDown^إنزل^TransitionSlideDown^
+
+^TransitionSlideUp^الانزلاق لأعلى^TransitionSlideUp^
+
+^TransitionTurn^منعطف^TransitionTurn^
+
+^TreeActionDescription^عرض العلاقات الهرمية.^TreeActionDescription^
+
+^TreeActionHeaderText^عرض التسلسل الهرمي^TreeActionHeaderText^
+
+^Underline^أكد^Underline^
+
+^Undo^فك^Undo^
+
+^Undock^إرساء^Undock^
+
+^Unfreeze^تسيح^Unfreeze^
+
+^UnLink^إلغاء ارتباط^UnLink^
+
+^UnSelect^إلغاء تحديد^UnSelect^
+
+^UpdateActionHeaderText^موافق^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^التحديث؟^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^اختيار التحديث^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^أعلى بمستوى واحد^UpOneLevel^
+
+^UseLEV^لصق &quot;{0}&quot;^UseLEV^
+
+^UserName^اسم المستخدم^UserName^
+
+^UsersInRole^المستخدمين في دور^UsersInRole^
+
+^UsersTab^المستخدمين^UsersTab^
+
+^Vantage^أفضلية^Vantage^
+
+^Verdant^أخضر^Verdant^
+
+^View^رأي^View^
+
+^Viewpoint^وجهة نظر^Viewpoint^
+
+^Welcome1^ترحيب^Welcome1^
+
+^Welcome2^اليوم^Welcome2^
+
+^WhiteSmoke^الأبيض التدخين^WhiteSmoke^
+
+^YearToDate^السنة إلى تاريخ^YearToDate^
+
+^Yes^نعم^Yes^
+
+^Yesterday^أمس^Yesterday^
+
+^Yoshi^يوشي^Yoshi^
+
+^ZoomIn^تكبير^ZoomIn^
+
+^ZoomOut^تصغير^ZoomOut^
+

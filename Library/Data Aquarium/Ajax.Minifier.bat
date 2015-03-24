@@ -1,0 +1,6 @@
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier\ajaxmin.exe" -hc "Scripts\Web.DataView.js" -o "Scripts\Web.DataView.min.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier\ajaxmin.exe" -hc "Scripts\Web.DataViewResources.js" -o "Scripts\Web.DataViewResources.min.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier\ajaxmin.exe" -hc "Scripts\Web.Membership.js" -o "Scripts\Web.Membership.min.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier\ajaxmin.exe" -hc "Scripts\Web.MembershipResources.js" -o "Scripts\Web.MembershipResources.min.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier\ajaxmin.exe" -hc "Scripts\Web.MembershipManager.js" -o "Scripts\Web.MembershipManager.min.js"
+"C:\Program Files (x86)\Microsoft\Microsoft Ajax Minifier\ajaxmin.exe" -hc "Scripts\Web.Menu.js" -o "Scripts\Web.Menu.min.js"

@@ -1,0 +1,835 @@
+***********************************************************************************
+This file is not required to execute your application and does not have to be
+deployed to production server.
+
+Code On Time generator uses this file to maintain AJAX Client Library resource 
+strings. Replace the text between localization brackets as needed and 
+re-generate your application. Refresh the browser cache to ensure that the latest 
+client library resource scripts are being used when application starts.
+
+Help us to improve the client library resources. We ask you to kindly contribute
+localized resource files to Code On Time community. 
+
+Simply send the resource files as attachments to customerservice@codeontime.com and 
+we will include your resource file(s) in the general distribution of the code 
+generation library.
+************************************************************************************
+
+^About^Аб^About^
+
+^ActionBarActionsHeaderText^Дзеянні^ActionBarActionsHeaderText^
+
+^ActionBarCancelActionHeaderText^Адмяніць^ActionBarCancelActionHeaderText^
+
+^ActionBarCancelWhenEditActionDescription^Адмяніць усе запісы змен.^ActionBarCancelWhenEditActionDescription^
+
+^ActionBarCancelWhenNewActionDescription^Адмена новы рэкорд.^ActionBarCancelWhenNewActionDescription^
+
+^ActionBarInsertActionDescription^Захаваць новую запіс у базе дадзеных.^ActionBarInsertActionDescription^
+
+^ActionBarInsertActionHeaderText^Эканоміць^ActionBarInsertActionHeaderText^
+
+^ActionBarNewHeaderDescription^Стварыце новы рэкорд {0}.^ActionBarNewHeaderDescription^
+
+^ActionBarNewHeaderText^Новыя {0}^ActionBarNewHeaderText^
+
+^ActionBarNewHeaderText2^Новы^ActionBarNewHeaderText2^
+
+^ActionBarRecordHeaderText^Запіс^ActionBarRecordHeaderText^
+
+^ActionBarReportHeaderText^Справаздача^ActionBarReportHeaderText^
+
+^ActionBarUpdateActionDescription^Захаваць змены ў базу дадзеных.^ActionBarUpdateActionDescription^
+
+^ActionBarUpdateActionHeaderText^Эканоміць^ActionBarUpdateActionHeaderText^
+
+^AddCondition^Дадаць ўмова^AddCondition^
+
+^AddConditionText^Дадаць ўмовы пошуку^AddConditionText^
+
+^AddMatchingGroup^Дадаць падбору груп^AddMatchingGroup^
+
+^AddSearchBarField^Больш за Палі пошуку^AddSearchBarField^
+
+^AddToFavorites^Дадаць у абранае^AddToFavorites^
+
+^AdvancedSearch^Пашыраны пошук^AdvancedSearch^
+
+^After^Пасля^After^
+
+^AlignedLeft^Выраўноўванне па левым краі^AlignedLeft^
+
+^AlignedRight^Уніфікаваныя правай^AlignedRight^
+
+^AllDatesInPreriod^Усе даты за перыяд^AllDatesInPreriod^
+
+^AlternativeView^Выберыце альтэрнатыўны погляд на дадзеныя.^AlternativeView^
+
+^Always^Заўсёды^Always^
+
+^Apply^Прымяніць^Apply^
+
+^Aquarium^Акварыум^Aquarium^
+
+^AvgAggregate^Сярэдняя: {0}^AvgAggregate^
+
+^AvgAggregateToolTip^Сярэдняе {0}^AvgAggregateToolTip^
+
+^Azure^Блакітны^Azure^
+
+^Back^Назад^Back^
+
+^BackColor^Back Color^BackColor^
+
+^BatchEditActionHeaderText^Групавое рэдагаванне^BatchEditActionHeaderText^
+
+^BatchEditInFormActionHeaderText^Групавое рэдагаванне (форма)^BatchEditInFormActionHeaderText^
+
+^BatchUpdate^абнаўленне^BatchUpdate^
+
+^Before^Да^Before^
+
+^BeginsWith^Пачынаецца з^BeginsWith^
+
+^Belltown^Белтаун^Belltown^
+
+^Berry^Ягада^Berry^
+
+^Between^Між^Between^
+
+^Bittersweet^Гаркавата-салодкі^Bittersweet^
+
+^BlankPassword^Пароль не можа быць пустым.^BlankPassword^
+
+^BlankUserName^Імя карыстача не можа быць пустым.^BlankUserName^
+
+^BlankValue^(Бланк)^BlankValue^
+
+^BlobDownloadHint^Націсніце тут, каб загрузіць зыходны файл.^BlobDownloadHint^
+
+^BlobDownloadLink^спампаваць^BlobDownloadLink^
+
+^Bold^Смелы^Bold^
+
+^BooleanFilterText^Лагічныя фільтры^BooleanFilterText^
+
+^BooleanIsExpected^Лагічнае значэнне не чакаецца.^BooleanIsExpected^
+
+^ButtonShapes^Кнопка Формы^ButtonShapes^
+
+^Calendar^Каляндар^Calendar^
+
+^Cancel^Адмяніць^Cancel^
+
+^Cards^Карты^Cards^
+
+^Cay^Каралавы рыф^Cay^
+
+^ChangeYourLanguage^Змяніць мову^ChangeYourLanguage^
+
+^Citrus^Цытрусавыя^Citrus^
+
+^Classic^Класічны^Classic^
+
+^ClearFilter^Зняць фільтр з {0}^ClearFilter^
+
+^ClearText^Чист.текст^ClearText^
+
+^ClearToolTip^Ачысціць {0}^ClearToolTip^
+
+^Close^Блізка^Close^
+
+^Comfortable^Зручны^Comfortable^
+
+^Compact^Кампактны^Compact^
+
+^Condensed^Згушчаныя^Condensed^
+
+^ConfirmReload^Абнавіць?^ConfirmReload^
+
+^ConnectionLost^Злучэнне з сеткай было страчана. Паспрабуйце яшчэ раз?^ConnectionLost^
+
+^Construct^Будаваць^Construct^
+
+^Contains^Змяшчае^Contains^
+
+^Convention^Канвенцыя^Convention^
+
+^Copy^Скапіюйце^Copy^
+
+^CountAggregate^Коль-во: {0}^CountAggregate^
+
+^CountAggregateToolTip^Граф {0}^CountAggregateToolTip^
+
+^CreateLink^Стварыць спасылку^CreateLink^
+
+^CustomFilterOption^Фільтр ...^CustomFilterOption^
+
+^Cut^Выразаць^Cut^
+
+^DarkKnight^Цёмны рыцар^DarkKnight^
+
+^DarkTheme^Цёмна^DarkTheme^
+
+^DataSheetActionDescription^Паказаць прадметы, выкарыстоўваючы дадзеныя sheet<br/>format.^DataSheetActionDescription^
+
+^DataSheetActionHeaderText^Паказаць у пашпарце^DataSheetActionHeaderText^
+
+^Date^Дата^Date^
+
+^DateFilterText^Фільтры па даце^DateFilterText^
+
+^DateIsExpected^Дата не чакаецца.^DateIsExpected^
+
+^DateSortAscending^Першы зверху^DateSortAscending^
+
+^DateSortDescending^Апошнія зверху^DateSortDescending^
+
+^DefaultCancelActionHeaderText^Блізка^DefaultCancelActionHeaderText^
+
+^DefaultCreateViewDescription^Калі ласка, запоўніце гэтую форму і націсніце кнопку ОК, каб стварыць новую запіс {0}. Націсніце Адмена для вяртання да папярэдняга экрану.^DefaultCreateViewDescription^
+
+^DefaultEditDescription^Гэтыя вобласці {0} запіс, якая можа быць адрэдагаваны.^DefaultEditDescription^
+
+^DefaultEditViewDescription^Калі ласка, азнаёмцеся з {0} інфармацыю ніжэй. Націсніце Змяніць, каб змяніць гэтую запіс, націсніце кнопку Выдаліць, каб выдаліць запіс, або націсніце кнопку Адмена / Зачыніць, каб вярнуцца назад.^DefaultEditViewDescription^
+
+^DefaultGridViewDescription^Гэта апошнія {0}.^DefaultGridViewDescription^
+
+^DefaultNewDescription^Запоўніце форму. Пераканайцеся ў тым, каб ўвесці ўсе неабходныя палі.^DefaultNewDescription^
+
+^DefaultOption^Дэфолт^DefaultOption^
+
+^DefaultReferenceDescription^Дадатковая інфармацыя аб {0} прыведзены ў раздзеле даведачнай інфармацыі.^DefaultReferenceDescription^
+
+^Delete^Выдаляць^Delete^
+
+^DeleteActionConfirmation^Выдаліць?^DeleteActionConfirmation^
+
+^DeleteActionHeaderText^Выдаляць^DeleteActionHeaderText^
+
+^DeleteSearchBarField^(Выдаленне)^DeleteSearchBarField^
+
+^DetailsToolTip^Падрабязней на {0}^DetailsToolTip^
+
+^Directions^Праезд^Directions^
+
+^DisplayDensity^Паказаць Шчыльнасць^DisplayDensity^
+
+^DisplayedAbove^Паказаныя вышэй^DisplayedAbove^
+
+^DisplayedBelow^Адлюстроўваюцца ніжэй^DisplayedBelow^
+
+^Dock^Док^Dock^
+
+^DoesNotBeginWith^Не пачынаецца з^DoesNotBeginWith^
+
+^DoesNotContain^Не ўтрымоўвае^DoesNotContain^
+
+^DoesNotEndWith^Не сканчаецца^DoesNotEndWith^
+
+^DoesNotEqual^Хіба не роўна^DoesNotEqual^
+
+^DoesNotInclude^Не ўключае^DoesNotInclude^
+
+^DoNotMatchAll^Не адпавядае ўсім умовам^DoNotMatchAll^
+
+^DoNotMatchAllPastTense^Не адпавядае ўсім умовам^DoNotMatchAllPastTense^
+
+^DoNotMatchAny^Не знойдзена ні аднаго ўмовы^DoNotMatchAny^
+
+^DoNotMatchAnyPastTense^Не знойдзена ні аднаго ўмовы^DoNotMatchAnyPastTense^
+
+^DuplicateActionHeaderText^Дубляваць^DuplicateActionHeaderText^
+
+^EditActionHeaderText^Рэдагаваць^EditActionHeaderText^
+
+^EditModeCancelActionHeaderText^Адмяніць^EditModeCancelActionHeaderText^
+
+^EmptyContext^Дзеянні недаступныя.^EmptyContext^
+
+^EmptyValue^(Пуста)^EmptyValue^
+
+^EndsWith^Канчаецца З^EndsWith^
+
+^Equals^Роўна^Equals^
+
+^ExportCsvActionDescription^Загрузка аб&#39;ектаў у фармаце CSV.^ExportCsvActionDescription^
+
+^ExportCsvActionHeaderText^Спампаваць^ExportCsvActionHeaderText^
+
+^ExportRowsetActionDescription^Аналіз элементаў з spreadsheet<br/>application.^ExportRowsetActionDescription^
+
+^ExportRowsetActionHeaderText^Экспарт ў электронную табліцу^ExportRowsetActionHeaderText^
+
+^ExportRssActionDescription^Syndicate вырабы з RSS-рыдэр.^ExportRssActionDescription^
+
+^ExportRssActionHeaderText^Прагляд RSS паток^ExportRssActionHeaderText^
+
+^Favorites^Выбраныя^Favorites^
+
+^Felt^Лямец^Felt^
+
+^Filter^Фільтр^Filter^
+
+^FilterApplied^Фільтр быў ужыты.^FilterApplied^
+
+^FilterByField^Выберыце поле, каб прымяніць фільтр да <b>{0}</b>.^FilterByField^
+
+^FilterByOptions^Абярыце адзін або некалькі варыянтаў у прыведзеным ніжэй спісе і націсніце <b>{2}</b> фільтрацыі <b>{0}</b> полем <b>{1}</b>.^FilterByOptions^
+
+^FilterLabelAnd^і^FilterLabelAnd^
+
+^FilterLabelClear^Ясна^FilterLabelClear^
+
+^FilterLabelEquals^роўна^FilterLabelEquals^
+
+^FilterLabelFilterToolTip^Змена^FilterLabelFilterToolTip^
+
+^FilterLabelIncludes^ўключае ў сябе^FilterLabelIncludes^
+
+^FilterLabelOr^або^FilterLabelOr^
+
+^FilterLabelSelectAll^(Вылучыць усе)^FilterLabelSelectAll^
+
+^FilterSiteMap^Карта Фільтр сайт ...^FilterSiteMap^
+
+^FlatTreeToggle^Пераключэнне ў іерархіі^FlatTreeToggle^
+
+^FontName^Назва шрыфта^FontName^
+
+^FontSize^Памер шрыфта^FontSize^
+
+^ForeColor^Пярэдняй Колер^ForeColor^
+
+^ForgotYourPassword^Забыліся пароль?^ForgotYourPassword^
+
+^Freeze^Замарожваць^Freeze^
+
+^Future^Будучыня^Future^
+
+^GeneralTabText^Агульны^GeneralTabText^
+
+^GenericNewToolTip^Стварыць новы^GenericNewToolTip^
+
+^GenericSortAscending^Найменшы зверху^GenericSortAscending^
+
+^GenericSortDescending^Найбуйнейшы на верх^GenericSortDescending^
+
+^Graham^Грэхем^Graham^
+
+^Granite^Граніт^Granite^
+
+^Grapello^Grapello^Grapello^
+
+^Gravity^Вага^Gravity^
+
+^GreaterThan^Больш за^GreaterThan^
+
+^Grid^Сетка^Grid^
+
+^GridActionDescription^Паказаць элементы ў standard<br/>list фармаце.^GridActionDescription^
+
+^GridActionHeaderText^Паказаць у стандартнае ўяўленне^GridActionHeaderText^
+
+^Help^Дапамога^Help^
+
+^HelpClose^Блізка^HelpClose^
+
+^HelpFullScreen^Full Screen^HelpFullScreen^
+
+^HideAdvancedSearch^Схаваць Пашыраны пошук^HideAdvancedSearch^
+
+^HierarchyTreeModeToggle^Пераключыць на плоскі спіс^HierarchyTreeModeToggle^
+
+^History^Гісторыя^History^
+
+^HistoryToolTip^Прагледзець гісторыю раней выбраных запісаў^HistoryToolTip^
+
+^HistoryUnavailable^Гісторыя не даступныя.^HistoryUnavailable^
+
+^Home^Дадому^Home^
+
+^IdleUser^Вы ўсё яшчэ там? Калі ласка, Увайсці зноў.^IdleUser^
+
+^ImportActionDescription^Загрузіць CSV, XLS, XLSX або запісы file<br/>to імпарту.^ImportActionDescription^
+
+^ImportActionHeaderText^Імпарт з файла^ImportActionHeaderText^
+
+^ImportAutoDetect^(Аўтаматычнае вызначэнне)^ImportAutoDetect^
+
+^ImportDownloadTemplate^Спампаваць шаблон файла імпарту.^ImportDownloadTemplate^
+
+^ImportEmail^Адправіць імпарту лог па наступных адрасах электроннай пошты (не абавязкова)^ImportEmail^
+
+^ImportEmailNotSpecified^Атрымальнік імпарту лог не быў паказаны. Усё роўна працягнуць?^ImportEmailNotSpecified^
+
+^ImportMappingInstruction^Ёсць <b>{0}</b> запісу (ёй) у файле <b>{1}</b> гатовы да processed.<br/>Please карце імпарту палёў з файла дадзеных у дадатку палі і націсніце кнопку <i>Import</i>, каб пачаць апрацоўку.^ImportMappingInstruction^
+
+^ImportProcessing^Апрацоўкі файла імпарту быў пачаты. Імпартаваных запісаў дадзеных стане вядомая пасля паспяховай апрацоўкі. Магчыма, вам прыйдзецца абнавіць адпаведныя погляды / старонак, каб убачыць імпартаваных запісаў.^ImportProcessing^
+
+^ImportStartButton^Імпарт^ImportStartButton^
+
+^ImportUploading^Ваш файл загружаны на сервер. Калі ласка, пачакайце ...^ImportUploading^
+
+^ImportUploadInstruction^Калі ласка, выберыце файл для загрузкі. Файл павінен быць у <b>CSV</b>, <b>XLS</b> або <b>XLSX</b> фармаце.^ImportUploadInstruction^
+
+^In^у^In^
+
+^Includes^Уключае ў сябе^Includes^
+
+^Indent^Водступ^Indent^
+
+^InfoBarAnd^і^InfoBarAnd^
+
+^InfoBarEmpty^пусты^InfoBarEmpty^
+
+^InfoBarEqualTo^роўная^InfoBarEqualTo^
+
+^InfoBarGreaterThan^больш^InfoBarGreaterThan^
+
+^InfoBarGreaterThanOrEqual^больш або роўна^InfoBarGreaterThanOrEqual^
+
+^InfoBarLessThan^менш^InfoBarLessThan^
+
+^InfoBarLessThanOrEqual^менш або роўна^InfoBarLessThanOrEqual^
+
+^InfoBarLike^падобна^InfoBarLike^
+
+^InfoBarOr^або^InfoBarOr^
+
+^InfoBarQuickFind^Любое поле ўтрымлівае^InfoBarQuickFind^
+
+^InfoBarStartsWith^пачынаецца з^InfoBarStartsWith^
+
+^InitialListMode^Пачатковы рэжым Спіс^InitialListMode^
+
+^InsertActionHeaderText^ОК^InsertActionHeaderText^
+
+^InsertHorizontalRule^Устаўце Гарызантальная лінія^InsertHorizontalRule^
+
+^InsertOrderedList^Устаўце Нумараваны спіс^InsertOrderedList^
+
+^InsertUnorderedList^Уставіць неўпарадкаваных спіс^InsertUnorderedList^
+
+^InvalidUserNameAndPassword^Ваша імя карыстальніка і пароль несапраўдныя.^InvalidUserNameAndPassword^
+
+^Italic^Курсіў^Italic^
+
+^ItemsPerPage^Тавараў на старонцы:^ItemsPerPage^
+
+^JustifyCenter^Выраўнаваць па цэнтры^JustifyCenter^
+
+^JustifyFull^Ва ўсю шырыню^JustifyFull^
+
+^JustifyLeft^Абгрунтуйце Злева^JustifyLeft^
+
+^JustifyRight^Выраўнаваць справа^JustifyRight^
+
+^Lacquer^Лак^Lacquer^
+
+^Laminate^Ламінат^Laminate^
+
+^Landscape^Пейзаж^Landscape^
+
+^LastMonth^За апошні месяц^LastMonth^
+
+^LastQuarter^Апошняя чвэрць^LastQuarter^
+
+^LastWeek^За апошні тыдзень^LastWeek^
+
+^LastYear^У мінулым годзе^LastYear^
+
+^LessThan^Менш чым^LessThan^
+
+^Lichen^Лішайнік^Lichen^
+
+^LightTheme^Святло^LightTheme^
+
+^List^Спіс^List^
+
+^ListOneColumn^Спіс (адзін слупок)^ListOneColumn^
+
+^Loading^Загрузка ...^Loading^
+
+^Logical^Лагічны^Logical^
+
+^LoginButton^Увайсці^LoginButton^
+
+^LoginLink^Увайсці^LoginLink^
+
+^Logout^Выхад^Logout^
+
+^LookupInstruction^Калі ласка, абярыце <b>{0}</b> ў спісе.^LookupInstruction^
+
+^LookupOriginalSelection^Арыгінальны выбар <b> &quot;{0}&quot; </b>.^LookupOriginalSelection^
+
+^Map^Карта^Map^
+
+^MatchAll^Падыходзім ўсе ўмовы^MatchAll^
+
+^MatchAllPastTense^Ўзгодненыя ўсе ўмовы^MatchAllPastTense^
+
+^MatchAny^Шукаць любыя ўмовы^MatchAny^
+
+^MatchAnyPastTense^Ўзгодненыя якіх-небудзь умоў^MatchAnyPastTense^
+
+^MaxAggregate^Макс: {0}^MaxAggregate^
+
+^MaxAggregateToolTip^Максімум {0}^MaxAggregateToolTip^
+
+^Maximize^Пашыраць^Maximize^
+
+^Menu^Меню^Menu^
+
+^MinAggregate^Мін: {0}^MinAggregate^
+
+^MinAggregateToolTip^Мінімум {0}^MinAggregateToolTip^
+
+^Minimize^Калапс^Minimize^
+
+^Mission^Місія^Mission^
+
+^ModeBrowsing^Прагляд^ModeBrowsing^
+
+^ModeEditing^Рэдагаванне^ModeEditing^
+
+^ModeEntering^Уваходны^ModeEntering^
+
+^ModeLookup^Пошук^ModeLookup^
+
+^Modern^Мадэрн^Modern^
+
+^ModernRose^Сучасныя Роўз^ModernRose^
+
+^ModeViewing^Прагляд^ModeViewing^
+
+^More^Больш за^More^
+
+^Municipal^Муніцыпальны^Municipal^
+
+^MyAccount^Мае дадзеныя^MyAccount^
+
+^Never^Ніколі не^Never^
+
+^NewActionHeaderText^Новы^NewActionHeaderText^
+
+^NewRowLink^Клікніце тут, каб стварыць новую запіс.^NewRowLink^
+
+^NewToolTip^Новыя {0}^NewToolTip^
+
+^Next^Наступны^Next^
+
+^NextMonth^Наступны месяц^NextMonth^
+
+^NextQuarter^У наступным квартале^NextQuarter^
+
+^NextWeek^Наступны тыдзень^NextWeek^
+
+^NextYear^У будучым годзе^NextYear^
+
+^No^Няма^No^
+
+^NoRecords^Запісы не знойдзены.^NoRecords^
+
+^NoteDeleteConfirm^Выдаліць?^NoteDeleteConfirm^
+
+^NoteDeleteLabel^выдаляць^NoteDeleteLabel^
+
+^NoteEditLabel^рэдагаваць^NoteEditLabel^
+
+^NullValue^н /^NullValue^
+
+^NullValueInForms^N / A^NullValueInForms^
+
+^Number^Колькасць^Number^
+
+^NumberFilterText^Колькасць фільтраў^NumberFilterText^
+
+^NumberIsExpected^Лік, як чакаецца.^NumberIsExpected^
+
+^OK^ОК^OK^
+
+^OpenActionHeaderText^Адкрыць^OpenActionHeaderText^
+
+^Outdent^Выступ^Outdent^
+
+^Page^Старонка^Page^
+
+^Password^Пароль^Password^
+
+^Past^Мінулае^Past^
+
+^Paste^Паста^Paste^
+
+^PerformAdvancedSearch^Пошук^PerformAdvancedSearch^
+
+^Permalink^Пастаянная спасылка^Permalink^
+
+^PermalinkToolTip^Стварыць пастаянную спасылку для выбранай запісу^PermalinkToolTip^
+
+^PermalinkUnavailable^Пастаянная спасылка недаступная. Калі ласка, выберыце запіс.^PermalinkUnavailable^
+
+^Petal^Пялёстак^Petal^
+
+^Pinnate^Пёрыстыя^Pinnate^
+
+^Plastic^Пластык^Plastic^
+
+^Portrait^Партрэт^Portrait^
+
+^PresentationStyle^Вылучыце стыль прадстаўлення дадзеных.^PresentationStyle^
+
+^Previous^Папярэдні^Previous^
+
+^PromoteActions^Садзейнічанне дзеянні^PromoteActions^
+
+^Quarter1^Квартал 1^Quarter1^
+
+^Quarter2^Квартал 2^Quarter2^
+
+^Quarter3^3 квартал^Quarter3^
+
+^Quarter4^Квартал 4^Quarter4^
+
+^QuickFindScope^Пошук у ...^QuickFindScope^
+
+^QuickFindText^Хуткі пошук^QuickFindText^
+
+^QuickFindToolTip^Калі ласка, увядзіце пошукавы запыт запісу і націсніце Enter^QuickFindToolTip^
+
+^Recent^Апошні^Recent^
+
+^Redo^Перарабляць^Redo^
+
+^Refresh^Абнаўленне^Refresh^
+
+^RememberMe^Запомніць мяне ў наступны раз^RememberMe^
+
+^RemoveCondition^Выдаліць ўмова^RemoveCondition^
+
+^RemoveFormat^Выдаліць фармат^RemoveFormat^
+
+^ReportActionDescription^Візуалізацыя справаздачы ў фармаце PDF^ReportActionDescription^
+
+^ReportActionHeaderText^Справаздача^ReportActionHeaderText^
+
+^ReportAsExcelActionDescription^Прагляд элементаў у табліцы formatted<br/>Microsoft Excel.^ReportAsExcelActionDescription^
+
+^ReportAsExcelActionHeaderText^Табліца^ReportAsExcelActionHeaderText^
+
+^ReportAsImageActionDescription^Прагляд элементаў, як малюнак шматстаронкавы TIFF.^ReportAsImageActionDescription^
+
+^ReportAsImageActionHeaderText^Шматстаронкавыя малюнка^ReportAsImageActionHeaderText^
+
+^ReportAsPdfActionDescription^Паглядзець прадметы, як Adobe PDF document.<br/>Requires сумяшчальных чытача.^ReportAsPdfActionDescription^
+
+^ReportAsPdfActionHeaderText^Дакумент PDF^ReportAsPdfActionHeaderText^
+
+^ReportAsWordActionDescription^Прагляд элементаў у дакуменце словы formatted<br/>Microsoft.^ReportAsWordActionDescription^
+
+^ReportAsWordActionHeaderText^Microsoft Word^ReportAsWordActionHeaderText^
+
+^Required^Патрабуецца^Required^
+
+^RequiredField^Гэтае поле абавязкова для запаўнення.^RequiredField^
+
+^RequiredFiledMarkerFootNote^пазначае абавязковыя палі^RequiredFiledMarkerFootNote^
+
+^ResetAdvancedSearch^Скід^ResetAdvancedSearch^
+
+^ResumeBrowsing^Рэзюмэ Седзячы^ResumeBrowsing^
+
+^ResumeEditing^Аднавіць рэдагаванне^ResumeEditing^
+
+^ResumeEntering^Рэзюмэ Увод^ResumeEntering^
+
+^ResumeLookup^Рэзюмэ прагляду Колькасць^ResumeLookup^
+
+^ResumeViewing^Працягнуць прагляд^ResumeViewing^
+
+^Ricasso^Рикассо^Ricasso^
+
+^RolesTab^Ролі^RolesTab^
+
+^RootNodeText^Верхні ўзровень^RootNodeText^
+
+^Rotate^Круціць^Rotate^
+
+^RowCancelActionHeaderText^Адмяніць^RowCancelActionHeaderText^
+
+^RowInsertActionHeaderText^Уставіць^RowInsertActionHeaderText^
+
+^RowUpdateActionHeaderText^Эканоміць^RowUpdateActionHeaderText^
+
+^RowUpdateWhenBatchEditActionConfirmation^Update?^RowUpdateWhenBatchEditActionConfirmation^
+
+^RowUpdateWhenBatchEditActionHeaderText^Абнавіць выдзеленыя^RowUpdateWhenBatchEditActionHeaderText^
+
+^Save^Эканоміць^Save^
+
+^SaveAndNew^Захаваць і Нью-^SaveAndNew^
+
+^SeeAll^Глядзець усе^SeeAll^
+
+^SeeAlso^Глядзіце таксама^SeeAlso^
+
+^SelectActionHeaderText^Выбіраць^SelectActionHeaderText^
+
+^SelectAll^Выбраць усе^SelectAll^
+
+^SelectLink^(Выбар)^SelectLink^
+
+^SelectToolTip^Выберыце {0}^SelectToolTip^
+
+^Separator^Сепаратар^Separator^
+
+^Settings^Налады^Settings^
+
+^ShowAdvancedSearch^Паказаць Пашыраны пошук^ShowAdvancedSearch^
+
+^ShowingItems^Паказаны <b>{0}</b>-<b>{1}</b> ад <b>{2}</b> пунктаў^ShowingItems^
+
+^ShowingItemsInfo^Паказаны {0} пунктаў.^ShowingItemsInfo^
+
+^Sidebar^Бакавая панэль^Sidebar^
+
+^SignUpNow^Зарэгіструйцеся прама цяпер^SignUpNow^
+
+^Simple^Просты^Simple^
+
+^SiteActions^Дзеянні сайта^SiteActions^
+
+^Social^Сацыяльны^Social^
+
+^Sort^Сартаваць^Sort^
+
+^SortBy^Сартаваць па {0}^SortBy^
+
+^SortByField^Выберыце поле, каб змяніць парадак сартавання <b>{0}</b>.^SortByField^
+
+^SortByOptions^Выберыце парадак сартавання <b>{0}</b> полем <b>{1}</b> ў спісе ніжэй варыянтаў.^SortByOptions^
+
+^StrikeThrough^Закрэсліваць^StrikeThrough^
+
+^StringSortAscending^Узыходзячы^StringSortAscending^
+
+^StringSortDescending^Сыходны^StringSortDescending^
+
+^Subscript^Сцэнар на поўдзень^Subscript^
+
+^Suggestions^Прапановы^Suggestions^
+
+^SumAggregate^Сума: {0}^SumAggregate^
+
+^SumAggregateToolTip^Сума {0}^SumAggregateToolTip^
+
+^Summary^Рэзюмэ^Summary^
+
+^Summer^Лета^Summer^
+
+^Superscript^Супер сцэнар^Superscript^
+
+^TaskResume^Рэзюмэ^TaskResume^
+
+^Tasks^Задачы^Tasks^
+
+^Text^Тэкст^Text^
+
+^TextFilterText^Тэкставыя фільтры^TextFilterText^
+
+^Theme^Тэма^Theme^
+
+^ThisMonth^Гэты месяц^ThisMonth^
+
+^ThisQuarter^У гэтым квартале^ThisQuarter^
+
+^ThisWeek^На гэтым тыдні^ThisWeek^
+
+^ThisYear^У гэтым годзе^ThisYear^
+
+^Today^Сёння^Today^
+
+^Tomorrow^Заўтра^Tomorrow^
+
+^ToThisWebsite^на гэты сайт^ToThisWebsite^
+
+^TouchUINotSupported^Touch UI ня падтрымліваецца ў гэтым браўзэры.^TouchUINotSupported^
+
+^TransitionFade^Вянуць^TransitionFade^
+
+^TransitionFlip^Фліп^TransitionFlip^
+
+^TransitionFlow^Паток^TransitionFlow^
+
+^TransitionNone^Ні адзін^TransitionNone^
+
+^TransitionPop^Поп^TransitionPop^
+
+^Transitions^Пераходы^Transitions^
+
+^TransitionSlide^Слайд^TransitionSlide^
+
+^TransitionSlideDown^Слізгаць уніз^TransitionSlideDown^
+
+^TransitionSlideUp^Слайд уверх^TransitionSlideUp^
+
+^TransitionTurn^Паварот^TransitionTurn^
+
+^TreeActionDescription^Паказаць іерархічныя адносіны.^TreeActionDescription^
+
+^TreeActionHeaderText^Паказаць Іерархія^TreeActionHeaderText^
+
+^Underline^Падкрэсліванне^Underline^
+
+^Undo^Ануляваць^Undo^
+
+^Undock^Отстыкуйте^Undock^
+
+^Unfreeze^Размарожваць^Unfreeze^
+
+^UnLink^Раз&#39;ядноўваць^UnLink^
+
+^UnSelect^Адмяніць выбар^UnSelect^
+
+^UpdateActionHeaderText^ОК^UpdateActionHeaderText^
+
+^UpdateActionInBatchModeConfirmation^Update?^UpdateActionInBatchModeConfirmation^
+
+^UpdateActionInBatchModeHeaderText^Абнавіць выдзеленыя^UpdateActionInBatchModeHeaderText^
+
+^UpOneLevel^На адзін узровень уверх^UpOneLevel^
+
+^UseLEV^Уставіць &quot;{0}&quot;^UseLEV^
+
+^UserName^Імя карыстальніка^UserName^
+
+^UsersInRole^Карыстальнікі ў ролі^UsersInRole^
+
+^UsersTab^Карыстальнікі^UsersTab^
+
+^Vantage^Перавага^Vantage^
+
+^Verdant^Зялёны^Verdant^
+
+^View^Выгляд^View^
+
+^Viewpoint^Кропка гледжання^Viewpoint^
+
+^Welcome1^Сардэчна запрашаем^Welcome1^
+
+^Welcome2^Сёння^Welcome2^
+
+^WhiteSmoke^Белы дым^WhiteSmoke^
+
+^YearToDate^З пачатку года^YearToDate^
+
+^Yes^Ды^Yes^
+
+^Yesterday^Учора^Yesterday^
+
+^Yoshi^Йоши^Yoshi^
+
+^ZoomIn^Павелічэнне^ZoomIn^
+
+^ZoomOut^Паменшыць^ZoomOut^
+
